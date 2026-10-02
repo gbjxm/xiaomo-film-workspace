@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片与视频提示词反推"
+  short_description: "从图片或视频反推还原提示词，并以纯文字生成结果对照修正"
+  default_prompt: "使用 $reverse-engineer-media-prompts，反推我提供的图片或视频，先给能还原具体参考的提示词；生成验证只使用文字，不附参考媒体。"

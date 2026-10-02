@@ -1,0 +1,31 @@
+{
+  "namespace": "pilot14_four",
+  "original_namespace": "legacy13",
+  "items": [
+    {
+      "platform_number": 1,
+      "original_number": 8,
+      "path": "工作稿/共享参考/旧13图/原08.png",
+      "sha256": "8954034c970c8d09f58260e12e52a259e01294492b8901082885c228b2af3681"
+    },
+    {
+      "platform_number": 2,
+      "original_number": 4,
+      "path": "工作稿/共享参考/旧13图/原04.png",
+      "sha256": "9ae6d6adab3b5439d39d979d416853c8ba1f11430cdf58fba40556cee56109ac"
+    },
+    {
+      "platform_number": 3,
+      "original_number": 9,
+      "path": "工作稿/共享参考/旧13图/原09.png",
+      "sha256": "0df5bde812569db27da28c653116f152b86c10d4dbf4c3f70ae16379f5759b50"
+    },
+    {
+      "platform_number": 4,
+      "original_number": 2,
+      "path": "工作稿/共享参考/旧13图/原02.png",
+      "sha256": "b8d2dad59f42fade291293feaa86a9a22dc20d3fddc68d173a4307ed76d609b3"
+    }
+  ],
+  "not_current_alley_prompt_mapping": true
+}

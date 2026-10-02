@@ -1,0 +1,19 @@
+# Private sync package; project text and durable .工作室 state must remain tracked.
+.git/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv*/
+venv/
+node_modules/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.lock
+*.tmp
+Thumbs.db
+.DS_Store
+# Excluded media stays unavailable unless explicitly selected and copied.

@@ -1,0 +1,21 @@
+{
+  "source": "D:\\图片\\小陌的工作流\\90_维护资料\\升级候选\\v090-studio-20260909-172608\\verification\\batch3\\real-pilot\\design\\真实小样完整候选_v1.md",
+  "source_sha256": "6937086140c76b6196425b8f912303cd9e4097de1ce7cc9b997b81c6f9b77a45",
+  "prompt_sha256": "3c7685a852c87c45ae8c2a1416e628dae3981cee6b4c42650975f9cbaac49520",
+  "prompt_chars": 1986,
+  "reference_indices_from_actual_connectedImageUrls": {
+    "person": 1,
+    "bag": 2,
+    "street": 3,
+    "tote": 4
+  },
+  "reference_urls_in_actual_order": [
+    "https://wlpaas.oss-accelerate.aliyuncs.com/neowow/prod/2071841243171639296/uploads/image/1d0a9714d1fe4eaa905eb7a52b1214c9.png",
+    "https://wlpaas.oss-accelerate.aliyuncs.com/neowow/prod/2071841243171639296/uploads/image/d4b6393cf70f475c9eb17e31a0f0e440.png",
+    "https://wlpaas.oss-accelerate.aliyuncs.com/neowow/prod/2071841243171639296/uploads/image/77b3cfeb2c794e3ca7d9aed1aa46f5c0.png",
+    "https://wlpaas.oss-accelerate.aliyuncs.com/neowow/prod/2071841243171639296/uploads/image/871cd02c5787470a983294c280a20f3f.png"
+  ],
+  "syntax": "literal @图片n with explicit ordinal description; connection array verified, actual model interpretation remains for user generation test",
+  "all_11_external_content_paragraphs_retained": true,
+  "generation_submitted": false
+}

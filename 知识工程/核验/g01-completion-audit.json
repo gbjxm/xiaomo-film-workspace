@@ -1,0 +1,72 @@
+{
+  "checked_at": "2026-07-06T12:48:04+00:00",
+  "goal": "G01",
+  "status": "pass",
+  "failed_requirements": [],
+  "requirements": [
+    {
+      "requirement": "五套理论、九部著作和全部原书文件具有三级身份与哈希",
+      "status": "pass",
+      "evidence": [
+        "来源/source-registry.json",
+        "核验/source-registry-validation.json"
+      ],
+      "detail": "5 systems, 9 works, 11 editions, 19 files; no stale hashes."
+    },
+    {
+      "requirement": "PDF与EPUB双轨提取和定位可执行",
+      "status": "pass",
+      "evidence": [
+        "脚本/extract_pdf.py",
+        "脚本/extract_epub.py",
+        "核验/g01-test-report.json"
+      ],
+      "detail": "PDF page and EPUB anchor paths are separately validated."
+    },
+    {
+      "requirement": "知识卡、章节地图、来源标签和G60前治理规则已建立",
+      "status": "pass",
+      "evidence": [
+        "模式/knowledge-card.schema.json",
+        "模式/chapter-map.schema.json",
+        "核验/g01-test-report.json"
+      ],
+      "detail": "Positive and negative validation gates pass."
+    },
+    {
+      "requirement": "来源变化能够定位失效产物并标记卡片重验",
+      "status": "pass",
+      "evidence": [
+        "脚本/audit_staleness.py",
+        "核验/staleness-audit.json",
+        "核验/g01-test-report.json"
+      ],
+      "detail": "All current artifacts are hash-tracked; synthetic stale card is marked."
+    },
+    {
+      "requirement": "四本扫描书完成12页小样、人工真值和双引擎比较",
+      "status": "pass",
+      "evidence": [
+        "核验/ocr-evidence-validation.json",
+        "核验/OCR小样结论.md"
+      ],
+      "detail": "RapidOCR full samples and PaddleOCR targeted fallback are documented."
+    },
+    {
+      "requirement": "原书与现有develop-screenplay-from-idea Skill未被修改且无正式知识产物",
+      "status": "pass",
+      "evidence": [
+        "核验/g01-boundary-audit.json"
+      ],
+      "detail": "Boundary audit is anchored to the G01 start timestamp."
+    },
+    {
+      "requirement": "全部结构化产物可解析",
+      "status": "pass",
+      "evidence": [
+        "核验/json-artifact-validation.json"
+      ],
+      "detail": "JSON and JSONL artifacts parse successfully."
+    }
+  ]
+}

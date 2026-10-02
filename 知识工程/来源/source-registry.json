@@ -1,0 +1,1040 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-06T09:18:04+00:00",
+  "source_root": "D:\\book\\01_核心五书",
+  "systems": [
+    {
+      "system_id": "STC",
+      "name": "Snyder系统",
+      "author": "Blake Snyder"
+    },
+    {
+      "system_id": "EGR",
+      "name": "Egri系统",
+      "author": "Lajos Egri"
+    },
+    {
+      "system_id": "TRU",
+      "name": "Truby系统",
+      "author": "John Truby"
+    },
+    {
+      "system_id": "FLD",
+      "name": "Field系统",
+      "author": "Syd Field"
+    },
+    {
+      "system_id": "MCK",
+      "name": "McKee系统",
+      "author": "Robert McKee"
+    }
+  ],
+  "works": [
+    {
+      "work_id": "STC-01",
+      "system_id": "STC",
+      "title": "救猫咪1：电影编剧宝典",
+      "original_title": "Save the Cat! The Last Book on Screenwriting You'll Ever Need"
+    },
+    {
+      "work_id": "STC-02",
+      "system_id": "STC",
+      "title": "救猫咪2：经典电影剧本探秘",
+      "original_title": "Save the Cat! Goes to the Movies"
+    },
+    {
+      "work_id": "STC-03",
+      "system_id": "STC",
+      "title": "救猫咪3：反击战",
+      "original_title": "Save the Cat! Strikes Back"
+    },
+    {
+      "work_id": "EGR-ART",
+      "system_id": "EGR",
+      "title": "编剧的艺术／戏剧写作的艺术",
+      "original_title": "The Art of Dramatic Writing"
+    },
+    {
+      "work_id": "TRU-ANATOMY",
+      "system_id": "TRU",
+      "title": "故事写作大师班",
+      "original_title": "The Anatomy of Story"
+    },
+    {
+      "work_id": "FLD-SCREENPLAY",
+      "system_id": "FLD",
+      "title": "电影剧本写作基础",
+      "original_title": "Screenplay: The Foundations of Screenwriting"
+    },
+    {
+      "work_id": "MCK-STORY",
+      "system_id": "MCK",
+      "title": "故事",
+      "original_title": "Story: Substance, Structure, Style and the Principles of Screenwriting"
+    },
+    {
+      "work_id": "MCK-DIALOGUE",
+      "system_id": "MCK",
+      "title": "对白",
+      "original_title": "Dialogue: The Art of Verbal Action for Page, Stage, and Screen"
+    },
+    {
+      "work_id": "MCK-CHARACTER",
+      "system_id": "MCK",
+      "title": "人物",
+      "original_title": "Character: The Art of Role and Cast Design for Page, Stage, and Screen"
+    }
+  ],
+  "editions": [
+    {
+      "edition_id": "STC-01-ZH-SCAN",
+      "work_id": "STC-01",
+      "language": "zh-CN",
+      "edition_label": "中文扫描版",
+      "translator": "王旭峰",
+      "publisher": "浙江大学出版社",
+      "publication_date": null,
+      "isbn": null,
+      "verification_status": "partially_verified",
+      "metadata_notes": "译者和出版社已由封面核对；日期与ISBN待G10核对。"
+    },
+    {
+      "edition_id": "STC-02-ZH-SCAN",
+      "work_id": "STC-02",
+      "language": "zh-CN",
+      "edition_label": "简体中文2011年版",
+      "translator": "汪振城",
+      "publisher": "浙江大学出版社",
+      "publication_date": "2011-05",
+      "isbn": "978-7-308-08600-4",
+      "verification_status": "partially_verified",
+      "metadata_notes": "已由PDF第4页CIP与版权页核对；完整版本地图待G10。"
+    },
+    {
+      "edition_id": "STC-03-ZH-SCAN",
+      "work_id": "STC-03",
+      "language": "zh-CN",
+      "edition_label": "简体中文2013年版",
+      "translator": [
+        "韩程",
+        "李晋林"
+      ],
+      "publisher": "浙江大学出版社",
+      "publication_date": "2013-05",
+      "isbn": "978-7-308-11427-1",
+      "verification_status": "partially_verified",
+      "metadata_notes": "已由PDF第4页CIP与版权页核对；完整版本地图待G10。"
+    },
+    {
+      "edition_id": "EGR-ZH-SCAN",
+      "work_id": "EGR-ART",
+      "language": "zh-CN",
+      "edition_label": "简体中文扫描版",
+      "translator": "高远",
+      "publisher": "北京联合出版公司",
+      "publication_date": "2013",
+      "isbn": "978-7-5502-1333-3",
+      "verification_status": "partially_verified",
+      "metadata_notes": "已由PDF第4页CIP与版权页初核；月份和印次待G20精确核对。"
+    },
+    {
+      "edition_id": "TRU-ZH-PDF",
+      "work_id": "TRU-ANATOMY",
+      "language": "zh-CN",
+      "edition_label": "湖南文艺出版社简体中文版",
+      "translator": "江先声",
+      "publisher": "湖南文艺出版社",
+      "publication_date": "2019-05",
+      "isbn": "978-7-5404-9092-8",
+      "verification_status": "partially_verified",
+      "metadata_notes": "书籍身份已核对；完整版本地图待G30。"
+    },
+    {
+      "edition_id": "FLD-ZH-PDF",
+      "work_id": "FLD-SCREENPLAY",
+      "language": "zh-CN",
+      "edition_label": "中文PDF版",
+      "translator": null,
+      "publisher": null,
+      "publication_date": null,
+      "isbn": null,
+      "verification_status": "pending_source_map",
+      "metadata_notes": "具体译本与出版信息待G40核对。"
+    },
+    {
+      "edition_id": "MCK-STORY-ZH-DIGITAL-A",
+      "work_id": "MCK-STORY",
+      "language": "zh-CN",
+      "edition_label": "简体数字版A",
+      "translator": null,
+      "publisher": null,
+      "publication_date": null,
+      "isbn": null,
+      "verification_status": "pending_source_map",
+      "metadata_notes": "具体底本待G50核对。"
+    },
+    {
+      "edition_id": "MCK-STORY-ZH-DIGITAL-B",
+      "work_id": "MCK-STORY",
+      "language": "zh-CN",
+      "edition_label": "简体数字版B",
+      "translator": null,
+      "publisher": null,
+      "publication_date": null,
+      "isbn": null,
+      "verification_status": "pending_source_map",
+      "metadata_notes": "同一组简体PDF/EPUB/MOBI/TXT；具体底本待G50核对。"
+    },
+    {
+      "edition_id": "MCK-STORY-ZH-TW-PDF",
+      "work_id": "MCK-STORY",
+      "language": "zh-TW",
+      "edition_label": "繁体《故事的解剖》，翻译互校版",
+      "translator": null,
+      "publisher": "漫游者文化",
+      "publication_date": null,
+      "isbn": null,
+      "verification_status": "partially_verified",
+      "metadata_notes": "已确认作者与英文原题均指向McKee《Story》；译者分部信息和版次待G50核对。"
+    },
+    {
+      "edition_id": "MCK-DIALOGUE-ZH",
+      "work_id": "MCK-DIALOGUE",
+      "language": "zh-CN",
+      "edition_label": "中文数字版",
+      "translator": null,
+      "publisher": null,
+      "publication_date": null,
+      "isbn": null,
+      "verification_status": "pending_source_map",
+      "metadata_notes": "具体版本待G50核对。"
+    },
+    {
+      "edition_id": "MCK-CHARACTER-ZH",
+      "work_id": "MCK-CHARACTER",
+      "language": "zh-CN",
+      "edition_label": "中文数字版",
+      "translator": null,
+      "publisher": null,
+      "publication_date": null,
+      "isbn": null,
+      "verification_status": "pending_source_map",
+      "metadata_notes": "具体版本待G50核对。"
+    }
+  ],
+  "files": [
+    {
+      "file_id": "EGR-PDF-01",
+      "edition_id": "EGR-ZH-SCAN",
+      "work_id": "EGR-ART",
+      "system_id": "EGR",
+      "relative_path": "02_戏剧写作的艺术_拉约什·埃格里/编剧的艺术（美）拉约什·埃格里.pdf",
+      "size_bytes": 10428862,
+      "sha256": "91c487ffe3d3b360a5e6d6bc19114e5c75f454891ebe72b4e8edb066996e0f6b",
+      "format": ".pdf",
+      "role": "canonical",
+      "ingestion": "ocr_required",
+      "locator_policy": {
+        "type": "pdf_page",
+        "pdf_page_base": 1,
+        "print_page": "explicit_only",
+        "requires_text_hash": true,
+        "source_method": "ocr"
+      },
+      "inspection": {
+        "page_count": 260,
+        "encrypted": false,
+        "text_pages_ge_20_chars": 2,
+        "text_page_ratio": 0.0077,
+        "extracted_character_count": 316,
+        "toc_entries": 47,
+        "metadata": {
+          "format": "PDF 1.5",
+          "creator": "Pdg2Pic",
+          "producer": "FreePic2Pdf_Lib - v3.00",
+          "creationDate": "D:20140831141609+08'00'",
+          "modDate": "D:20140831141609+08'00'"
+        }
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "FLD-PDF-01",
+      "edition_id": "FLD-ZH-PDF",
+      "work_id": "FLD-SCREENPLAY",
+      "system_id": "FLD",
+      "relative_path": "04_电影剧本写作基础_悉德·菲尔德/电影剧本写作基础.菲尔德_美.pdf",
+      "size_bytes": 811471,
+      "sha256": "96f6452a11000f60642637ebf01dec05439f6970ea9ff07c21367f7ead15cbf3",
+      "format": ".pdf",
+      "role": "canonical",
+      "ingestion": "text_layer",
+      "locator_policy": {
+        "type": "pdf_page",
+        "pdf_page_base": 1,
+        "print_page": "explicit_only",
+        "requires_text_hash": true,
+        "source_method": "text_layer"
+      },
+      "inspection": {
+        "page_count": 114,
+        "encrypted": false,
+        "text_pages_ge_20_chars": 114,
+        "text_page_ratio": 1.0,
+        "extracted_character_count": 117460,
+        "toc_entries": 17,
+        "metadata": {
+          "format": "PDF 1.6",
+          "title": "电影剧本写作基础",
+          "author": "wangyang",
+          "creator": "Acrobat PDFMaker 9.1 Word 版",
+          "producer": "Acrobat Distiller 9.0.0 (Windows)",
+          "creationDate": "D:20090514133144+08'00'",
+          "modDate": "D:20100320144155+08'00'"
+        }
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "MCK-CHARACTER-AZW3-01",
+      "edition_id": "MCK-CHARACTER-ZH",
+      "work_id": "MCK-CHARACTER",
+      "system_id": "MCK",
+      "relative_path": "05_故事_罗伯特·麦基/03_人物_罗伯特·麦基/19957-人物/人物.azw3",
+      "size_bytes": 2361243,
+      "sha256": "fb0babb5c1e33d88b0b6d1b8f4d313cd3b10eff2ec3a6ef9b90ef99db722c7b4",
+      "format": ".azw3",
+      "role": "fallback",
+      "ingestion": "fallback_only",
+      "locator_policy": {
+        "type": "none",
+        "reason": "fallback_only files are not primary locators"
+      },
+      "inspection": {
+        "size_bytes": 2361243,
+        "inspection": "hash_and_size_only"
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "MCK-CHARACTER-EPUB-01",
+      "edition_id": "MCK-CHARACTER-ZH",
+      "work_id": "MCK-CHARACTER",
+      "system_id": "MCK",
+      "relative_path": "05_故事_罗伯特·麦基/03_人物_罗伯特·麦基/19957-人物/人物.epub",
+      "size_bytes": 1699729,
+      "sha256": "2c7673ea2769d596881a5eb2ee1bfb5065c967ac092eac9c35a69ac8818e929d",
+      "format": ".epub",
+      "role": "canonical",
+      "ingestion": "epub_structure",
+      "locator_policy": {
+        "type": "epub_anchor",
+        "requires": [
+          "chapter_href",
+          "heading",
+          "paragraph_index",
+          "text_hash"
+        ],
+        "paragraph_index_base": 1,
+        "fabricated_pages_forbidden": true
+      },
+      "inspection": {
+        "opf_path": "content.opf",
+        "metadata": {
+          "language": [
+            "zh"
+          ],
+          "title": [
+            "人物：文本、舞台、银幕角色与卡司设计的艺术（编剧教父罗伯特·麦基“虚构艺术三部曲”完结篇）"
+          ],
+          "creator": [
+            "罗伯特·麦基"
+          ],
+          "contributor": [
+            "calibre (5.34.0) [https://calibre-ebook.com]"
+          ],
+          "publisher": [
+            "浙江文艺出版社"
+          ],
+          "identifier": [
+            "9787533969585",
+            "B0BHVHB91L",
+            "9a4d8491-6431-41ef-86b3-42ea808b18d0",
+            "9a4d8491-6431-41ef-86b3-42ea808b18d0"
+          ],
+          "date": [
+            "2022-08-31T16:00:00+00:00"
+          ],
+          "subject": [
+            "-SanQiu.mobi"
+          ]
+        },
+        "manifest_items": 76,
+        "spine_items": 56,
+        "spine_hrefs": [
+          "titlepage.xhtml",
+          "text/part0000_split_000.html",
+          "text/part0000_split_001.html",
+          "text/part0001.html",
+          "text/part0002.html",
+          "text/part0003.html",
+          "text/part0004.html",
+          "text/part0005.html",
+          "text/part0006.html",
+          "text/part0007.html",
+          "text/part0008.html",
+          "text/part0009.html",
+          "text/part0010.html",
+          "text/part0011.html",
+          "text/part0012.html",
+          "text/part0013.html",
+          "text/part0014.html",
+          "text/part0015.html",
+          "text/part0016.html",
+          "text/part0017.html",
+          "text/part0018.html",
+          "text/part0019.html",
+          "text/part0020.html",
+          "text/part0021.html",
+          "text/part0022.html",
+          "text/part0023.html",
+          "text/part0024.html",
+          "text/part0025.html",
+          "text/part0026.html",
+          "text/part0027.html",
+          "text/part0028.html",
+          "text/part0029.html",
+          "text/part0030.html",
+          "text/part0031.html",
+          "text/part0032.html",
+          "text/part0033.html",
+          "text/part0034.html",
+          "text/part0035.html",
+          "text/part0036.html",
+          "text/part0037.html",
+          "text/part0038.html",
+          "text/part0039.html",
+          "text/part0040.html",
+          "text/part0041.html",
+          "text/part0042.html",
+          "text/part0043.html",
+          "text/part0044.html",
+          "text/part0045.html",
+          "text/part0046.html",
+          "text/part0047.html",
+          "text/part0048.html",
+          "text/part0049.html",
+          "text/part0050.html",
+          "text/part0051.html",
+          "text/part0052.html",
+          "text/part0053.html"
+        ],
+        "missing_spine_items": [],
+        "zip_entries": 82
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "MCK-CHARACTER-MOBI-01",
+      "edition_id": "MCK-CHARACTER-ZH",
+      "work_id": "MCK-CHARACTER",
+      "system_id": "MCK",
+      "relative_path": "05_故事_罗伯特·麦基/03_人物_罗伯特·麦基/19957-人物/人物.mobi",
+      "size_bytes": 2290851,
+      "sha256": "c02b6c0b736acf370241acb1ffcda655e1e93e0a283f0dc14d3be6bed51a473a",
+      "format": ".mobi",
+      "role": "fallback",
+      "ingestion": "fallback_only",
+      "locator_policy": {
+        "type": "none",
+        "reason": "fallback_only files are not primary locators"
+      },
+      "inspection": {
+        "size_bytes": 2290851,
+        "inspection": "hash_and_size_only"
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "MCK-CHARACTER-ZIP-01",
+      "edition_id": "MCK-CHARACTER-ZH",
+      "work_id": "MCK-CHARACTER",
+      "system_id": "MCK",
+      "relative_path": "05_故事_罗伯特·麦基/03_人物_罗伯特·麦基/19957-人物.zip",
+      "size_bytes": 5327061,
+      "sha256": "a1620df6b3f008d3d07454b3c6ee737f96ca1dcbfc2909413e4c61357a4fd531",
+      "format": ".zip",
+      "role": "archive",
+      "ingestion": "archive_only",
+      "locator_policy": {
+        "type": "none",
+        "reason": "archive_only files are not primary locators"
+      },
+      "inspection": {
+        "size_bytes": 5327061,
+        "inspection": "hash_and_size_only"
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "MCK-DIALOGUE-MOBI-01",
+      "edition_id": "MCK-DIALOGUE-ZH",
+      "work_id": "MCK-DIALOGUE",
+      "system_id": "MCK",
+      "relative_path": "05_故事_罗伯特·麦基/02_对白_罗伯特·麦基/对白：文字、舞台、银幕的言语行为艺术-罗伯特·麦基.mobi",
+      "size_bytes": 802200,
+      "sha256": "ce8b90af634d4ef6fdb8fe3f681ca9aa267e648e0ebc19ce40b49f995ef9f8e4",
+      "format": ".mobi",
+      "role": "fallback",
+      "ingestion": "fallback_only",
+      "locator_policy": {
+        "type": "none",
+        "reason": "fallback_only files are not primary locators"
+      },
+      "inspection": {
+        "size_bytes": 802200,
+        "inspection": "hash_and_size_only"
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "MCK-DIALOGUE-PDF-01",
+      "edition_id": "MCK-DIALOGUE-ZH",
+      "work_id": "MCK-DIALOGUE",
+      "system_id": "MCK",
+      "relative_path": "05_故事_罗伯特·麦基/02_对白_罗伯特·麦基/对白：文字、舞台、银幕的言语行为艺术-罗伯特·麦基.pdf",
+      "size_bytes": 1728352,
+      "sha256": "4347e0fc5103b7f247e747f66f3934b364030701b95fcd4376b10e8fe51d9376",
+      "format": ".pdf",
+      "role": "canonical",
+      "ingestion": "text_layer",
+      "locator_policy": {
+        "type": "pdf_page",
+        "pdf_page_base": 1,
+        "print_page": "explicit_only",
+        "requires_text_hash": true,
+        "source_method": "text_layer"
+      },
+      "inspection": {
+        "page_count": 201,
+        "encrypted": false,
+        "text_pages_ge_20_chars": 175,
+        "text_page_ratio": 0.8706,
+        "extracted_character_count": 152675,
+        "toc_entries": 32,
+        "metadata": {
+          "format": "PDF 1.4",
+          "title": "对白：文字、舞台、银幕的言语行为艺术(“编剧教父”罗伯特·麦基时隔二十年再创经典，横跨影视、戏剧、文学领域，透析对白创作本质)",
+          "author": "罗伯特·麦基",
+          "creator": "calibre 3.35.0 [https://calibre-ebook.com]",
+          "producer": "calibre 3.35.0 [https://calibre-ebook.com]",
+          "creationDate": "D:20181224080859+00'00'"
+        }
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "MCK-STORY-EPUB-A",
+      "edition_id": "MCK-STORY-ZH-DIGITAL-A",
+      "work_id": "MCK-STORY",
+      "system_id": "MCK",
+      "relative_path": "05_故事_罗伯特·麦基/01_故事_罗伯特·麦基/[美]罗伯特·麦基-故事：材质、结构、风格和银幕剧作的原理.epub",
+      "size_bytes": 1888150,
+      "sha256": "fff525f10dbc64b254afbda7f95a75fd4f2bdbfd1eb8c04580efebf8479082c9",
+      "format": ".epub",
+      "role": "canonical",
+      "ingestion": "epub_structure",
+      "locator_policy": {
+        "type": "epub_anchor",
+        "requires": [
+          "chapter_href",
+          "heading",
+          "paragraph_index",
+          "text_hash"
+        ],
+        "paragraph_index_base": 1,
+        "fabricated_pages_forbidden": true
+      },
+      "inspection": {
+        "opf_path": "OEBPS/content.opf",
+        "metadata": {
+          "title": [
+            "故事：材质、结构、风格和银幕剧作的原理"
+          ],
+          "language": [
+            "zh"
+          ],
+          "identifier": [
+            "3666739257",
+            "9787201088334"
+          ],
+          "creator": [
+            "罗伯特∙麦基"
+          ],
+          "contributor": [
+            "周铁东"
+          ],
+          "publisher": [
+            "天津人民出版社"
+          ],
+          "date": [
+            "2014-09-01"
+          ]
+        },
+        "manifest_items": 97,
+        "spine_items": 52,
+        "spine_hrefs": [
+          "OEBPS/Text/cover_page.xhtml",
+          "OEBPS/Text/part0000.xhtml",
+          "OEBPS/Text/part0001.xhtml",
+          "OEBPS/Text/part0002.xhtml",
+          "OEBPS/Text/part0003.xhtml",
+          "OEBPS/Text/part0004.xhtml",
+          "OEBPS/Text/part0005.xhtml",
+          "OEBPS/Text/part0006.xhtml",
+          "OEBPS/Text/part0007.xhtml",
+          "OEBPS/Text/part0008.xhtml",
+          "OEBPS/Text/part0009.xhtml",
+          "OEBPS/Text/part0010.xhtml",
+          "OEBPS/Text/part0011.xhtml",
+          "OEBPS/Text/part0012.xhtml",
+          "OEBPS/Text/part0013.xhtml",
+          "OEBPS/Text/part0014.xhtml",
+          "OEBPS/Text/part0015.xhtml",
+          "OEBPS/Text/part0016.xhtml",
+          "OEBPS/Text/part0017.xhtml",
+          "OEBPS/Text/part0018.xhtml",
+          "OEBPS/Text/part0019.xhtml",
+          "OEBPS/Text/part0020.xhtml",
+          "OEBPS/Text/part0021.xhtml",
+          "OEBPS/Text/part0022.xhtml",
+          "OEBPS/Text/part0023.xhtml",
+          "OEBPS/Text/part0024.xhtml",
+          "OEBPS/Text/part0025.xhtml",
+          "OEBPS/Text/part0026.xhtml",
+          "OEBPS/Text/part0027.xhtml",
+          "OEBPS/Text/part0028.xhtml",
+          "OEBPS/Text/part0029.xhtml",
+          "OEBPS/Text/part0030.xhtml",
+          "OEBPS/Text/part0031.xhtml",
+          "OEBPS/Text/part0032.xhtml",
+          "OEBPS/Text/part0033.xhtml",
+          "OEBPS/Text/part0034.xhtml",
+          "OEBPS/Text/part0035.xhtml",
+          "OEBPS/Text/part0036.xhtml",
+          "OEBPS/Text/part0037.xhtml",
+          "OEBPS/Text/part0038.xhtml",
+          "OEBPS/Text/part0039.xhtml",
+          "OEBPS/Text/part0040.xhtml",
+          "OEBPS/Text/part0041.xhtml",
+          "OEBPS/Text/part0042.xhtml",
+          "OEBPS/Text/part0043.xhtml",
+          "OEBPS/Text/part0044.xhtml",
+          "OEBPS/Text/part0045.xhtml",
+          "OEBPS/Text/part0046.xhtml",
+          "OEBPS/Text/part0047.xhtml",
+          "OEBPS/Text/part0048.xhtml",
+          "OEBPS/Text/part0049.xhtml",
+          "OEBPS/Text/part0050.xhtml"
+        ],
+        "missing_spine_items": [],
+        "zip_entries": 100
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "MCK-STORY-EPUB-B",
+      "edition_id": "MCK-STORY-ZH-DIGITAL-B",
+      "work_id": "MCK-STORY",
+      "system_id": "MCK",
+      "relative_path": "05_故事_罗伯特·麦基/01_故事_罗伯特·麦基/故事：材质、结构、风格和银幕剧作的原理[lunarora.com].epub",
+      "size_bytes": 2288560,
+      "sha256": "d2f5a4a15f13e3236e2682cdaec9a27e3c088ade496dcd20876b172f1524120a",
+      "format": ".epub",
+      "role": "alternate",
+      "ingestion": "epub_structure",
+      "locator_policy": {
+        "type": "epub_anchor",
+        "requires": [
+          "chapter_href",
+          "heading",
+          "paragraph_index",
+          "text_hash"
+        ],
+        "paragraph_index_base": 1,
+        "fabricated_pages_forbidden": true
+      },
+      "inspection": {
+        "opf_path": "content.opf",
+        "metadata": {
+          "language": [
+            "zh"
+          ],
+          "title": [
+            "故事：材质、结构、风格和银幕剧作的原理"
+          ],
+          "creator": [
+            "罗伯特∙麦基"
+          ],
+          "contributor": [
+            "calibre (8.3.0) [https://calibre-ebook.com]"
+          ],
+          "identifier": [
+            "9787201088334",
+            "13271f4d-e6bb-4e4c-b404-bce02c9368d2",
+            "da0ec323-a3e6-46ce-8304-603927a2b7a5"
+          ],
+          "date": [
+            "2014-08-31T16:00:00+00:00"
+          ]
+        },
+        "manifest_items": 97,
+        "spine_items": 53,
+        "spine_hrefs": [
+          "titlepage.xhtml",
+          "index_split_000.html",
+          "index_split_001.html",
+          "index_split_002.html",
+          "index_split_003.html",
+          "index_split_004.html",
+          "index_split_005.html",
+          "index_split_006.html",
+          "index_split_007.html",
+          "index_split_008.html",
+          "index_split_009.html",
+          "index_split_010.html",
+          "index_split_011.html",
+          "index_split_012.html",
+          "index_split_013.html",
+          "index_split_014.html",
+          "index_split_015.html",
+          "index_split_016.html",
+          "index_split_017.html",
+          "index_split_018.html",
+          "index_split_019.html",
+          "index_split_020.html",
+          "index_split_021.html",
+          "index_split_022.html",
+          "index_split_023.html",
+          "index_split_024.html",
+          "index_split_025.html",
+          "index_split_026.html",
+          "index_split_027.html",
+          "index_split_028.html",
+          "index_split_029.html",
+          "index_split_030.html",
+          "index_split_031.html",
+          "index_split_032.html",
+          "index_split_033.html",
+          "index_split_034.html",
+          "index_split_035.html",
+          "index_split_036.html",
+          "index_split_037.html",
+          "index_split_038.html",
+          "index_split_039.html",
+          "index_split_040.html",
+          "index_split_041.html",
+          "index_split_042.html",
+          "index_split_043.html",
+          "index_split_044.html",
+          "index_split_045.html",
+          "index_split_046.html",
+          "index_split_047.html",
+          "index_split_048.html",
+          "index_split_049.html",
+          "index_split_050.html",
+          "index_split_051.html"
+        ],
+        "missing_spine_items": [],
+        "zip_entries": 102
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "MCK-STORY-MOBI-B",
+      "edition_id": "MCK-STORY-ZH-DIGITAL-B",
+      "work_id": "MCK-STORY",
+      "system_id": "MCK",
+      "relative_path": "05_故事_罗伯特·麦基/01_故事_罗伯特·麦基/故事：材质、结构、风格和银幕剧作的原理[lunarora.com].mobi",
+      "size_bytes": 2932694,
+      "sha256": "ac5a085e236096c9563fb674ab9f2e98fce6aed853466f70455240f5ecc65943",
+      "format": ".mobi",
+      "role": "fallback",
+      "ingestion": "fallback_only",
+      "locator_policy": {
+        "type": "none",
+        "reason": "fallback_only files are not primary locators"
+      },
+      "inspection": {
+        "size_bytes": 2932694,
+        "inspection": "hash_and_size_only"
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "MCK-STORY-PDF-B",
+      "edition_id": "MCK-STORY-ZH-DIGITAL-B",
+      "work_id": "MCK-STORY",
+      "system_id": "MCK",
+      "relative_path": "05_故事_罗伯特·麦基/01_故事_罗伯特·麦基/故事：材质、结构、风格和银幕剧作的原理[lunarora.com].pdf",
+      "size_bytes": 6850879,
+      "sha256": "51200b2da100e4004de080f0a6fc00be5e063a7a5cdd92c6c719359ef16679f9",
+      "format": ".pdf",
+      "role": "locator",
+      "ingestion": "text_layer",
+      "locator_policy": {
+        "type": "pdf_page",
+        "pdf_page_base": 1,
+        "print_page": "explicit_only",
+        "requires_text_hash": true,
+        "source_method": "text_layer"
+      },
+      "inspection": {
+        "page_count": 472,
+        "encrypted": false,
+        "text_pages_ge_20_chars": 466,
+        "text_page_ratio": 0.9873,
+        "extracted_character_count": 286230,
+        "toc_entries": 27,
+        "metadata": {
+          "format": "PDF 1.4",
+          "title": "故事：材质、结构、风格和银幕剧作的原理",
+          "author": "罗伯特∙麦基",
+          "creator": "calibre 8.3.0",
+          "producer": "calibre 8.3.0",
+          "creationDate": "D:20250624172209+00'00'",
+          "modDate": "D:20250624172209+00'00'"
+        }
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "MCK-STORY-PDF-TW",
+      "edition_id": "MCK-STORY-ZH-TW-PDF",
+      "work_id": "MCK-STORY",
+      "system_id": "MCK",
+      "relative_path": "05_故事_罗伯特·麦基/01_故事_罗伯特·麦基/故事的解剖 跟好萊塢編劇教父學習說故事的技藝, 打造獨一無二的內容、結構與風格 = Story Substance, Structure, Style and the Principles of Screenwriting (羅伯特 ·... _opt.pdf",
+      "size_bytes": 8823497,
+      "sha256": "e6fbe70e37dbaac13cfdaf45163eaed12c6fd6e8913bc3e178a03dc282cd4b26",
+      "format": ".pdf",
+      "role": "crosscheck",
+      "ingestion": "text_layer",
+      "locator_policy": {
+        "type": "pdf_page",
+        "pdf_page_base": 1,
+        "print_page": "explicit_only",
+        "requires_text_hash": true,
+        "source_method": "text_layer"
+      },
+      "inspection": {
+        "page_count": 495,
+        "encrypted": false,
+        "text_pages_ge_20_chars": 495,
+        "text_page_ratio": 1.0,
+        "extracted_character_count": 308053,
+        "toc_entries": 20,
+        "metadata": {
+          "format": "PDF 1.6",
+          "creator": "pdftk-java 3.3.2",
+          "producer": "itext-paulo-155 (itextpdf.sf.net - lowagie.com)",
+          "creationDate": "D:20231108150258Z",
+          "modDate": "D:20250412090919+08'00'"
+        }
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "MCK-STORY-TXT-B",
+      "edition_id": "MCK-STORY-ZH-DIGITAL-B",
+      "work_id": "MCK-STORY",
+      "system_id": "MCK",
+      "relative_path": "05_故事_罗伯特·麦基/01_故事_罗伯特·麦基/故事：材质、结构、风格和银幕剧作的原理[lunarora.com].txt",
+      "size_bytes": 842368,
+      "sha256": "e72ccf16d1300754c82f3435293384102d971d33086a28807e4ec4472c05a545",
+      "format": ".txt",
+      "role": "fallback",
+      "ingestion": "fallback_only",
+      "locator_policy": {
+        "type": "none",
+        "reason": "fallback_only files are not primary locators"
+      },
+      "inspection": {
+        "size_bytes": 842368,
+        "inspection": "hash_and_size_only"
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "MCK-STORY-ZIP-A",
+      "edition_id": "MCK-STORY-ZH-DIGITAL-A",
+      "work_id": "MCK-STORY",
+      "system_id": "MCK",
+      "relative_path": "05_故事_罗伯特·麦基/01_故事_罗伯特·麦基/36782-故事.zip",
+      "size_bytes": 5963218,
+      "sha256": "2fb78b14b64c54bfd489d8b34ca080083941bbb171f157dc56c52bc9cb2c6f3e",
+      "format": ".zip",
+      "role": "archive",
+      "ingestion": "archive_only",
+      "locator_policy": {
+        "type": "none",
+        "reason": "archive_only files are not primary locators"
+      },
+      "inspection": {
+        "size_bytes": 5963218,
+        "inspection": "hash_and_size_only"
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "STC01-PDF-01",
+      "edition_id": "STC-01-ZH-SCAN",
+      "work_id": "STC-01",
+      "system_id": "STC",
+      "relative_path": "01_救猫咪_布莱克·斯奈德/01_救猫咪_电影编剧宝典/救猫咪 1 电影编剧宝典_布莱克·斯奈德.pdf",
+      "size_bytes": 8761987,
+      "sha256": "317e32a19f0d45057fa722826875d408e34c8477a1cb2d40486e4ee465020051",
+      "format": ".pdf",
+      "role": "canonical",
+      "ingestion": "ocr_required",
+      "locator_policy": {
+        "type": "pdf_page",
+        "pdf_page_base": 1,
+        "print_page": "explicit_only",
+        "requires_text_hash": true,
+        "source_method": "ocr"
+      },
+      "inspection": {
+        "page_count": 148,
+        "encrypted": false,
+        "text_pages_ge_20_chars": 0,
+        "text_page_ratio": 0.0,
+        "extracted_character_count": 0,
+        "toc_entries": 0,
+        "metadata": {
+          "format": "PDF 1.5",
+          "producer": "FreePic2Pdf_Lib - v2.18",
+          "creationDate": "D:20131020151934+08'00'",
+          "modDate": "D:20131020151934+08'00'"
+        }
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "STC02-PDF-01",
+      "edition_id": "STC-02-ZH-SCAN",
+      "work_id": "STC-02",
+      "system_id": "STC",
+      "relative_path": "01_救猫咪_布莱克·斯奈德/02_救猫咪2_经典电影剧本探秘/救猫咪  2  经典电影剧本探秘(pdfzj.cn).pdf",
+      "size_bytes": 28892721,
+      "sha256": "22a751880aca97aecc3df19b3971fd4682511a6d1159e2f35446533e747a8e8c",
+      "format": ".pdf",
+      "role": "canonical",
+      "ingestion": "ocr_required",
+      "locator_policy": {
+        "type": "pdf_page",
+        "pdf_page_base": 1,
+        "print_page": "explicit_only",
+        "requires_text_hash": true,
+        "source_method": "ocr"
+      },
+      "inspection": {
+        "page_count": 273,
+        "encrypted": false,
+        "text_pages_ge_20_chars": 0,
+        "text_page_ratio": 0.0,
+        "extracted_character_count": 0,
+        "toc_entries": 266,
+        "metadata": {
+          "format": "PDF 1.5",
+          "title": "救猫咪  2  经典电影剧本探秘\u0000",
+          "producer": "FreePic2Pdf - 2.04",
+          "creationDate": "D:20121219222835+08'00'",
+          "modDate": "D:20121219222835+08'00'"
+        }
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "STC03-PDF-01",
+      "edition_id": "STC-03-ZH-SCAN",
+      "work_id": "STC-03",
+      "system_id": "STC",
+      "relative_path": "01_救猫咪_布莱克·斯奈德/03_救猫咪3_反击战/救猫咪 3 反击战！.pdf",
+      "size_bytes": 20318685,
+      "sha256": "81c2db6774623cfd93db57d2882ed7f869d801a15ffea6643ecb9331c64db9ab",
+      "format": ".pdf",
+      "role": "canonical",
+      "ingestion": "ocr_required",
+      "locator_policy": {
+        "type": "pdf_page",
+        "pdf_page_base": 1,
+        "print_page": "explicit_only",
+        "requires_text_hash": true,
+        "source_method": "ocr"
+      },
+      "inspection": {
+        "page_count": 190,
+        "encrypted": false,
+        "text_pages_ge_20_chars": 0,
+        "text_page_ratio": 0.0,
+        "extracted_character_count": 0,
+        "toc_entries": 182,
+        "metadata": {
+          "format": "PDF 1.5",
+          "producer": "FreePic2Pdf_Lib - v2.19",
+          "creationDate": "D:20140305115549+08'00'",
+          "modDate": "D:20140305115549+08'00'"
+        }
+      },
+      "requires_revalidation": false
+    },
+    {
+      "file_id": "TRU-PDF-01",
+      "edition_id": "TRU-ZH-PDF",
+      "work_id": "TRU-ANATOMY",
+      "system_id": "TRU",
+      "relative_path": "03_故事写作大师班_约翰·特鲁比/故事写作大师班-约翰·特鲁比.pdf",
+      "size_bytes": 11609458,
+      "sha256": "7958dac6d05170c17cfff4abf9cbe28bd37adec94e3f19914517e50860eed691",
+      "format": ".pdf",
+      "role": "canonical",
+      "ingestion": "text_layer",
+      "locator_policy": {
+        "type": "pdf_page",
+        "pdf_page_base": 1,
+        "print_page": "explicit_only",
+        "requires_text_hash": true,
+        "source_method": "text_layer"
+      },
+      "inspection": {
+        "page_count": 538,
+        "encrypted": false,
+        "text_pages_ge_20_chars": 487,
+        "text_page_ratio": 0.9052,
+        "extracted_character_count": 270324,
+        "toc_entries": 80,
+        "metadata": {
+          "format": "PDF 1.4",
+          "title": "故事写作大师班【风行全美30年，与麦基《故事》齐名的编剧圣经，《加勒比海盗》《星球大战》编剧导师！好莱坞故事写作教学大师约翰·特鲁比风行全美30年故事写作课程大公开！】",
+          "author": "约翰·特鲁比",
+          "creator": "eCore v0.9.12.751 [ http://www.epubor.com/ecore.html ]",
+          "producer": "eCore v0.9.12.751 [ http://www.epubor.com/ecore.html ]",
+          "creationDate": "D:20230621045218+00'00'",
+          "modDate": "D:20230621045218+00'00'"
+        }
+      },
+      "requires_revalidation": false
+    }
+  ],
+  "ignored_files": [
+    {
+      "relative_path": "05_故事_罗伯特·麦基/03_人物_罗伯特·麦基/19957-人物/免责声明.txt",
+      "reason": "分发说明，不是书籍正文"
+    },
+    {
+      "relative_path": "05_故事_罗伯特·麦基/03_人物_罗伯特·麦基/19957-人物/读书派（www.dushupai.com）.url",
+      "reason": "网站快捷方式，不是书籍正文"
+    }
+  ],
+  "unmatched_files": []
+}

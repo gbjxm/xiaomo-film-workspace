@@ -1,0 +1,114 @@
+{
+  "review_version": "v1",
+  "date": "2026-09-10",
+  "reviewer_role": "independent_non_author",
+  "status": "passed",
+  "scope": "text_and_reference_matching_only",
+  "event_chain": [
+    "双掌压住同一落地黑袋，发力而袋底不移动",
+    "内心声结束前袋与双脚仍落地",
+    "同袋先浮，双鞋仍接地",
+    "原推力延续产生前倾失衡，手松开，左脚向前落步找支撑",
+    "双脚随后离地，双手与袋分开",
+    "低头确认两鞋悬空，右肩右髋包保持，低空结束"
+  ],
+  "findings": [],
+  "finding_counts": {
+    "blocking": 0,
+    "important": 0
+  },
+  "reference_checks": [
+    {
+      "original_id": 8,
+      "path": "D:/PROGRA~3/UserTemp/23513/codex-clipboard-7b9dc85e-bde2-4834-8e56-032b3460c3d4.png",
+      "actually_viewed": true,
+      "result": "身份、衣着及本人右肩右髋包与稿件相符；不继承四格与棚拍背景。"
+    },
+    {
+      "original_id": 4,
+      "path": "D:/PROGRA~3/UserTemp/23513/codex-clipboard-75426818-d613-4bfc-a78f-02b9b3a06e69.png",
+      "actually_viewed": true,
+      "result": "扎结、黑塑料及褶皱相符；图无人物比例，普通大号尺度属于明确标注的候选。"
+    },
+    {
+      "original_id": 9,
+      "path": "D:/PROGRA~3/UserTemp/23513/codex-clipboard-61ddf897-963e-4ee2-9e29-7352c161177a.png",
+      "actually_viewed": true,
+      "result": "街道材料与锚点相符；可见通行区域，不证明退路全堵，稿件保留此边界。"
+    },
+    {
+      "original_id": 2,
+      "path": "D:/PROGRA~3/UserTemp/23513/codex-clipboard-d33bdb39-fe12-4dbc-844e-f1e832b488d8.png",
+      "actually_viewed": true,
+      "result": "米白素色帆布和肩带细节相符；背法按人物图与当前事实。"
+    }
+  ],
+  "verification_focus": [
+    {
+      "id": "VF01",
+      "classification": "conditional_observation_not_current_defect",
+      "location": {
+        "lines": [
+          54,
+          55,
+          81,
+          83
+        ],
+        "time": "00:05.5–00:09.5"
+      },
+      "condition": "实得视频若将减重与前倾演成分开的静止等待和另一次前扑",
+      "consequence": "前扑与持续原推力的因果关系可能不清",
+      "minimal_adjustment_if_observed": "让前送微趋势与袋减重连续衔接，并保留袋已浮而双鞋贴地的可读阶段；不增剧情",
+      "requires_current_revision": false
+    },
+    {
+      "id": "VF02",
+      "classification": "conditional_observation_not_current_defect",
+      "location": {
+        "lines": [
+          38,
+          56,
+          57,
+          85,
+          87
+        ],
+        "time": "00:09.5–00:14"
+      },
+      "condition": "实得全身画面中两脚重叠或间隙只能逐帧猜测",
+      "consequence": "无法证明袋先浮、人后浮及两鞋确已离地",
+      "minimal_adjustment_if_observed": "按遮挡位置只调整脚的投影错位或取景中的一个变量，不预先增加特写或上升高度",
+      "requires_current_revision": false
+    }
+  ],
+  "review_boundaries": {
+    "documents_read": [
+      "D:/图片/小陌的工作流/90_维护资料/升级候选/v090-studio-20260909-172608/verification/batch3/real-pilot/当前材料与参考职责.md",
+      "D:/图片/小陌的工作流/90_维护资料/升级候选/v090-studio-20260909-172608/verification/batch3/real-pilot/design/真实小样完整候选_v1.md"
+    ],
+    "source_project_reopened": false,
+    "author_knowledge_self_assessment_read": false,
+    "other_rubrics_or_review_history_read": false,
+    "actual_video_available": false,
+    "actual_audio_available": false,
+    "platform_known_only_as": "集成类",
+    "platform_capabilities_verified": false,
+    "reference_syntax_verified": false,
+    "output_profile_verified": false,
+    "user_adoption_confirmed": false,
+    "ready_for_direct_platform_submission": false,
+    "real_editability_proven": false,
+    "quality_proven": false,
+    "no_media_generated": true,
+    "no_candidate_or_project_mutation": true,
+    "scope_exclusions": [
+      "前半段受困空间",
+      "垃圾群体展开规模",
+      "原项目当前状态独立重核",
+      "知识调用与工作集采用审计",
+      "真实生成表现",
+      "实际声音",
+      "实际组接",
+      "耗时费用"
+    ]
+  }
+}

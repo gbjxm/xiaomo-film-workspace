@@ -1,0 +1,399 @@
+{
+  "schema": "knowledge-review-v1",
+  "query": "色彩管理 创作调色 镜头匹配 叙事Look",
+  "role": "D",
+  "stage": "调色",
+  "project_material": "约110.7秒剪映副本：先按实际镜头区别办公室日夜、卧室清晨、通勤、公司消失、理发日常与长发异常。以采用视觉基准v02为约束，允许首版调色创作判断。",
+  "snapshot": "357de842994047bbef26f063a8cf4993f542156947d42d41e7c83ab25b950ec2",
+  "checklist_explicit": true,
+  "coverage_status": "awaiting_application_review",
+  "checklist_scope": "caller_defined_not_automatically_exhaustive",
+  "facets": [
+    {
+      "id": "Q1",
+      "question": "源色彩身份 工作空间 显示变换 Rec.709 SDR 避免重复变换",
+      "evidence_ids": [
+        "ded46671cec2923bfd10",
+        "32774a56e362b7cd8450"
+      ],
+      "support_ids": [
+        "5b514a63086de4494a1f"
+      ],
+      "boundary_ids": [
+        "055c94687c11d4f599f7"
+      ],
+      "alternative_ids": [
+        "055c94687c11d4f599f7",
+        "b5b33d9065ab4d086ac3"
+      ],
+      "status": "needs_semantic_review",
+      "source_gap": false
+    },
+    {
+      "id": "Q2",
+      "question": "技术平衡 镜头匹配 白平衡 肤色 曝光连续性",
+      "evidence_ids": [
+        "5937fd472e5f6fec765e",
+        "fe78276f27b960813ece"
+      ],
+      "support_ids": [
+        "90e6a6081abbd5854219"
+      ],
+      "boundary_ids": [
+        "8f4f163c929c3e72fa5d"
+      ],
+      "alternative_ids": [
+        "d13cdf29d544062f132a",
+        "8f4f163c929c3e72fa5d"
+      ],
+      "status": "needs_semantic_review",
+      "source_gap": false
+    },
+    {
+      "id": "Q3",
+      "question": "叙事Look 色彩弧线 光源动机 保留材料色",
+      "evidence_ids": [
+        "38ab984b52984e571b4c",
+        "56d2742a8cfc78822cc1"
+      ],
+      "support_ids": [],
+      "boundary_ids": [],
+      "alternative_ids": [
+        "d13cdf29d544062f132a",
+        "1193a2ea204099e182b8"
+      ],
+      "status": "needs_semantic_review",
+      "source_gap": false
+    }
+  ],
+  "evidence": [
+    {
+      "id": "ded46671cec2923bfd10",
+      "heading": "七、ACES、OCIO、LUT、CDL与AMF职责不同",
+      "line_start": 215,
+      "line_end": 223,
+      "excerpt": "",
+      "read_required": true,
+      "characters": 528,
+      "references": [],
+      "attribution": "local_note_excerpt",
+      "matched_terms": [
+        "工作空间",
+        "源色彩身",
+        "色彩身份",
+        "709",
+        "rec",
+        "变换"
+      ],
+      "document_id": "533ef44f6df9"
+    },
+    {
+      "id": "5b514a63086de4494a1f",
+      "heading": "从“文件能播放”到“颜色解释可重复”",
+      "line_start": 113,
+      "line_end": 124,
+      "excerpt": "主要讲什么：\n\n区分色彩标签声明、来源证据、实际编码、Scene／Display状态、Baked Look、Input／Working／View／Output变换和观看环境。对于无法恢复真实原始色彩的AI输出，不伪造相机IDT，而是建立有证据等级、可复现且不会重复变换的工作解释。\n\n解决什么问题：\n\n- 标签存在就被当成真相；\n- Retag、Color Conversion和Creative Look混用；\n- 已Tone-mapped或Baked的AI画面再次套LUT／Output Transform；\n- 进入宽色域后误称已恢复剪裁信息；\n- 不同软件、VFX或Stage6对同一素材做出不同解释；\n- 在未受控屏幕上宣称参考级调色完成。",
+      "read_required": false,
+      "characters": 325,
+      "references": [],
+      "attribution": "local_note_excerpt",
+      "matched_terms": [
+        "重复变换",
+        "工作",
+        "色彩"
+      ],
+      "document_id": "063908ef31dd"
+    },
+    {
+      "id": "055c94687c11d4f599f7",
+      "heading": "不能泛化为统一标准",
+      "line_start": 455,
+      "line_end": 467,
+      "excerpt": "",
+      "read_required": true,
+      "characters": 490,
+      "references": [],
+      "attribution": "local_note_excerpt",
+      "matched_terms": [],
+      "document_id": "533ef44f6df9"
+    },
+    {
+      "id": "32774a56e362b7cd8450",
+      "heading": "六、Input、Working、View与Output各回答一个问题",
+      "line_start": 204,
+      "line_end": 211,
+      "excerpt": "",
+      "read_required": true,
+      "characters": 422,
+      "references": [],
+      "attribution": "local_note_excerpt",
+      "matched_terms": [
+        "工作空间",
+        "源色彩身",
+        "色彩身份",
+        "显示",
+        "重复"
+      ],
+      "document_id": "533ef44f6df9"
+    },
+    {
+      "id": "b5b33d9065ab4d086ac3",
+      "heading": "快速认识",
+      "line_start": 35,
+      "line_end": 38,
+      "excerpt": "",
+      "read_required": true,
+      "characters": 277,
+      "references": [],
+      "attribution": "local_note_excerpt",
+      "matched_terms": [
+        "源色彩身",
+        "色彩身份",
+        "sdr",
+        "变换",
+        "显示",
+        "避免"
+      ],
+      "document_id": "533ef44f6df9"
+    },
+    {
+      "id": "5937fd472e5f6fec765e",
+      "heading": "四、曝光、白平衡、对比、饱和与色相没有固定目标",
+      "line_start": 190,
+      "line_end": 198,
+      "excerpt": "| 维度 | 技术检查 | 创作判断 |\n|---|---|---|\n| 曝光 | 是否误解释、意外漂移、裁切或无法与源对应 | 人物和空间应落在哪个亮度关系，哪里允许看不清 |\n| 白平衡 | 是否有非意图色偏、机位或批次不一致 | 光源本来是暖、冷、混色还是主观偏色 |\n| 对比 | 是否出现非意图性压黑、爆白或相邻镜头断层 | 高低调和软硬调怎样塑造力量、亲密、危险或距离 |\n| 饱和 | 是否因变换、编码或机位产生异常跳变 | 哪些颜色应活跃、克制、衰退或只在关键物体保留 |\n| 色相 | 是否发生错误偏移、肤色或物体身份不连续 | 主题色、对照色和时空状态怎样发展 |\n\nScopes用于稳定测量和发现异常，但不会知道一个暖色偏是错误还是落日，也不会替用户决定低调画面该保留多少黑。冻结单帧也不能替代运动和上下文审看。",
+      "read_required": false,
+      "characters": 367,
+      "references": [],
+      "attribution": "local_note_excerpt",
+      "matched_terms": [
+        "技术平衡",
+        "镜头匹配",
+        "白平衡",
+        "曝光",
+        "肤色",
+        "连续"
+      ],
+      "document_id": "460174c9411f"
+    },
+    {
+      "id": "90e6a6081abbd5854219",
+      "heading": "材料简介",
+      "line_start": 37,
+      "line_end": 52,
+      "excerpt": "",
+      "read_required": true,
+      "characters": 745,
+      "references": [],
+      "attribution": "local_note_excerpt",
+      "matched_terms": [
+        "技术平衡",
+        "镜头匹配",
+        "连续性",
+        "肤色"
+      ],
+      "document_id": "063908ef31dd"
+    },
+    {
+      "id": "8f4f163c929c3e72fa5d",
+      "heading": "不能泛化的规则",
+      "line_start": 573,
+      "line_end": 582,
+      "excerpt": "- 没有通用曝光、白平衡、对比、饱和、色相和肤色数值。\n- 没有通用Day-for-night、天气转换、梦境或记忆配方。\n- 宽景通常适合Hero，但不是强制；一个场景也不一定只有一个锚点。\n- 没有固定Look Bible格式、Grade轮数、节点结构、LUT尺寸或跟踪方法。\n- ACES、CDL、LUT、AMF和专业参考显示器不是每个项目同时必需。\n- Grade、VFX、Online的先后和职责会随预算、团队、软件与交付变化。\n- 颗粒尺寸、强度、颜色和处理顺序服从源材、缩放、VFX与输出。\n- 导演、摄影指导、制片和平台的批准权受合同、地区与制作结构影响。\n- 广播Legal、PSE、HDR和平台QC阈值不能外推到所有公开短片。\n- “艺术已经完成”没有客观数值；可验证的是版本、开放问题、批准、期限和残余风险。",
+      "read_required": false,
+      "characters": 365,
+      "references": [],
+      "attribution": "local_note_excerpt",
+      "matched_terms": [],
+      "document_id": "460174c9411f"
+    },
+    {
+      "id": "fe78276f27b960813ece",
+      "heading": "OPC与Agent分工",
+      "line_start": 500,
+      "line_end": 513,
+      "excerpt": "",
+      "read_required": true,
+      "characters": 669,
+      "references": [],
+      "attribution": "local_note_excerpt",
+      "matched_terms": [
+        "技术平衡",
+        "镜头匹配",
+        "白平衡",
+        "连续性",
+        "曝光"
+      ],
+      "document_id": "460174c9411f"
+    },
+    {
+      "id": "d13cdf29d544062f132a",
+      "heading": "三、技术平衡与创作调色是两种判断",
+      "line_start": 179,
+      "line_end": 186,
+      "excerpt": "",
+      "read_required": true,
+      "characters": 388,
+      "references": [],
+      "attribution": "local_note_excerpt",
+      "matched_terms": [
+        "技术平衡",
+        "镜头匹配",
+        "白平衡",
+        "曝光",
+        "肤色"
+      ],
+      "document_id": "460174c9411f"
+    },
+    {
+      "id": "38ab984b52984e571b4c",
+      "heading": "15 第十章 布光实践｜P58-P59",
+      "line_start": 235,
+      "line_end": 240,
+      "excerpt": "**本课主线**：从场景中的合理光源与叙事目标出发，建立主次、方向、亮暗和空间层次。\n\n- **P58｜我们要布光（上）**：从自然光与人工光、光源动机和基本光位进入布光设计。\n- **P59｜我们要布光（下）**：把人物、背景、轮廓、影调与现场执行整合成可调整的布光过程。\n\n入口：[[15 - 第十章 布光实践（P58-P59）|阅读本课详细笔记]]",
+      "read_required": false,
+      "characters": 177,
+      "references": [],
+      "attribution": "local_note_excerpt",
+      "matched_terms": [
+        "光源动机",
+        "叙事"
+      ],
+      "document_id": "b92b9f5f7d9d"
+    },
+    {
+      "id": "56d2742a8cfc78822cc1",
+      "heading": "课程矩阵",
+      "line_start": 48,
+      "line_end": 74,
+      "excerpt": "",
+      "read_required": true,
+      "characters": 1939,
+      "references": [],
+      "attribution": "local_note_excerpt",
+      "matched_terms": [
+        "光源动机",
+        "叙事"
+      ],
+      "document_id": "b92b9f5f7d9d"
+    },
+    {
+      "id": "1193a2ea204099e182b8",
+      "heading": "分章节／分集导览",
+      "line_start": 58,
+      "line_end": 76,
+      "excerpt": "",
+      "read_required": true,
+      "characters": 1271,
+      "references": [],
+      "attribution": "local_note_excerpt",
+      "matched_terms": [
+        "光源动机",
+        "叙事"
+      ],
+      "document_id": "1069c47ccb2d"
+    }
+  ],
+  "index_errors": [],
+  "limits": [
+    "命中仅表示可供审查，需逐项对照项目事实确认支持、限制、冲突或不适用。",
+    "来源类型据本地记录；外部 URL 未在本次打开，不代表已核验原文。",
+    "空缺检查项必须保留；字段完整或附有链接不等于结论正确。"
+  ],
+  "documents": {
+    "533ef44f6df9": {
+      "title": "影视后期怎样从源色彩身份建立Input、Working、View与Output管线并形成可验证调色输出",
+      "path": "D:\\obsidian\\影视知识树\\个人影视知识树\\影视创作知识库\\04-声音与后期\\影视后期怎样从源色彩身份建立Input、Working、View与Output管线并形成可验证调色输出.md",
+      "document_hash": "a80b0d1a9e4942080074ddc46063d6e16632bb8468b4393256734b95cf42e6b0",
+      "kind": "topic",
+      "source_type": "主题沉淀",
+      "source_status": "未标注",
+      "completeness": "阶段5源色彩身份、技术变换链、监看、代理／在线／VFX往返、SDR／HDR分支和色彩专项QC的跨软件原理基本完整；真实AI素材、显示环境、目标输出与完整回归待项目验证",
+      "evidence_status": "多源互证",
+      "author_or_institution": "多来源色彩管理标准、显示规范、专业岗位、平台制作资料与现有D阶段材料综合",
+      "note_date": "2026-09-09",
+      "published_date": null
+    },
+    "063908ef31dd": {
+      "title": "D后期知识建设｜05 色彩管理与调色专业资料汇编",
+      "path": "D:\\obsidian\\影视知识树\\个人影视知识树\\bilibili-transcripts\\专业资料汇编\\D后期知识建设\\05-色彩管理与调色.md",
+      "document_hash": "4aed56c3d64b5a57291bed533b0fca7b2ac9c4bfc36553caa6b28b481c293655",
+      "kind": "source",
+      "source_type": "专业资料汇编",
+      "source_status": "已沉淀",
+      "completeness": "阶段5源色彩身份、技术管线、监看、镜头匹配、创作Look、AI生成缺陷路由、VFX／Online往返和色彩专项QC的跨软件原理基本完整；真实AI素材、显示环境、具体输出目标和完整回归待验证",
+      "evidence_status": "未标注",
+      "author_or_institution": "多机构",
+      "note_date": "2026-08-10",
+      "published_date": null
+    },
+    "460174c9411f": {
+      "title": "创作调色怎样从技术平衡、镜头匹配推进到叙事Look并正确路由生成缺陷",
+      "path": "D:\\obsidian\\影视知识树\\个人影视知识树\\影视创作知识库\\04-声音与后期\\创作调色怎样从技术平衡、镜头匹配推进到叙事Look并正确路由生成缺陷.md",
+      "document_hash": "d92a7c75c42a7cd133b4b706d4db26322a849ef74539ff354c3fa5f816e8d70e",
+      "kind": "topic",
+      "source_type": "主题沉淀",
+      "source_status": "未标注",
+      "completeness": "阶段5技术平衡、镜头匹配、叙事Look、生成缺陷路由与审看交接原理基本完整；真实AI素材、实际监看环境和跨软件回归待验证",
+      "evidence_status": "多源互证",
+      "author_or_institution": "多来源专业岗位、色彩标准、平台管线、软件官方训练与既有课程综合",
+      "note_date": "2026-09-09",
+      "published_date": null
+    },
+    "b92b9f5f7d9d": {
+      "title": "中国传媒大学《视听语言》 - 课程总览",
+      "path": "D:\\obsidian\\影视知识树\\个人影视知识树\\bilibili-transcripts\\中国传媒大学《视听语言》\\00 - 课程总览.md",
+      "document_hash": "e3d4d4b488f52e82fab758ef6deae6a18338e626f9a4876341f1e9f7a5bc9a85",
+      "kind": "source",
+      "source_type": "Bilibili课程目录",
+      "source_status": "已沉淀",
+      "completeness": "P1-P74完整分配；P2外语片段与部分画面专名待二刷核验",
+      "evidence_status": "未标注",
+      "author_or_institution": "Bilibili官方目录与视频元数据 + 本地ASR课程笔记",
+      "note_date": "2026-08-10",
+      "published_date": null
+    },
+    "1069c47ccb2d": {
+      "title": "中国传媒大学《视听语言》",
+      "path": "D:\\obsidian\\影视知识树\\个人影视知识树\\bilibili-transcripts\\中国传媒大学《视听语言》\\中国传媒大学《视听语言》.md",
+      "document_hash": "004ebcbdae8e23d06448da063b6fa6cf4a40b13520b8f0f791d6598e933f5980",
+      "kind": "source",
+      "source_type": "Bilibili课程知识总结",
+      "source_status": "已沉淀",
+      "completeness": "P1-P74音频完整覆盖；P2外语片段与部分画面专名待二刷核验",
+      "evidence_status": "未标注",
+      "author_or_institution": "Bilibili视频本地ASR（faster-whisper base，按语境校正）",
+      "note_date": "2026-08-10",
+      "published_date": null
+    }
+  },
+  "budget_exceeded": false,
+  "requires_more_reading": true,
+  "followup": {
+    "baseline_missing": false,
+    "inventory": {
+      "topics": 41,
+      "sources": 112
+    },
+    "changes": {
+      "added": [],
+      "modified": [
+        "影视创作知识库/00-待归档与知识地图/知识库主页.md",
+        "影视创作知识库/00-待归档与知识地图/知识树状态.md",
+        "影视创作知识库/04-声音与后期/00-声音与后期地图.md",
+        "影视创作知识库/05-创作实践与项目复盘/00-创作实践与项目复盘地图.md",
+        "影视创作知识库/06-行业观察与灵感素材/00-行业观察与灵感素材地图.md"
+      ],
+      "removed": [],
+      "renamed": []
+    },
+    "affected_topics": [
+      "影视创作知识库/02-导演与视听语言/场景导演怎样把剧本事件统一成观众体验与部门执行.md",
+      "影视创作知识库/02-导演与视听语言/场面调度与镜头覆盖.md",
+      "影视创作知识库/02-导演与视听语言/表演导演怎样把人物关系转成行动、聆听、反应与镜头表演.md",
+      "影视创作知识库/03-摄影美术与现场制作/叙事布光怎样通过光源、方向、光质、反差与影调塑造人物和空间.md",
+      "影视创作知识库/03-摄影美术与现场制作/摄影选择怎样通过镜头、距离、景深、曝光与运动控制观看.md"
+    ],
+    "pending_issue_count": 32
+  }
+}

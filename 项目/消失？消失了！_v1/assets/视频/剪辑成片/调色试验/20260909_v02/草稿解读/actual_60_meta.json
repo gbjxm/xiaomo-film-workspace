@@ -1,0 +1,795 @@
+{
+  "cloud_draft_cover": false,
+  "cloud_draft_sync": false,
+  "cloud_package_completed_time": "",
+  "draft_cloud_capcut_purchase_info": "",
+  "draft_cloud_last_action_download": false,
+  "draft_cloud_package_type": "",
+  "draft_cloud_purchase_info": "",
+  "draft_cloud_template_id": "",
+  "draft_cloud_tutorial_info": "",
+  "draft_cloud_videocut_purchase_info": "",
+  "draft_cover": "draft_cover.jpg",
+  "draft_deeplink_url": "",
+  "draft_enterprise_info": {
+    "draft_enterprise_extra": "",
+    "draft_enterprise_id": "",
+    "draft_enterprise_name": "",
+    "enterprise_material": []
+  },
+  "draft_fold_path": "D:/JianyingPro Drafts/消失？消失了！-副本-电影加强v02-前60秒",
+  "draft_id": "024C5147-B0C7-4f4d-9A85-8F9C134CB06E",
+  "draft_is_ae_produce": false,
+  "draft_is_ai_packaging_used": false,
+  "draft_is_ai_shorts": false,
+  "draft_is_ai_translate": false,
+  "draft_is_article_video_draft": false,
+  "draft_is_cloud_temp_draft": false,
+  "draft_is_from_deeplink": "false",
+  "draft_is_infinite_canvas_draft": false,
+  "draft_is_invisible": false,
+  "draft_is_pippit_draft": false,
+  "draft_is_web_article_video": false,
+  "draft_materials": [
+    {
+      "type": 0,
+      "value": [
+        {
+          "ai_group_type": "",
+          "create_time": 1788665963,
+          "duration": 22041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 2.mp4",
+          "file_Path": "D:/图片/消失消失了/视频节点 2.mp4",
+          "height": 630,
+          "id": "e76c9e92-2b26-4500-9c5f-90f239ae8329",
+          "import_time": 1788666034,
+          "import_time_ms": 1788666033165985,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 22041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788665879,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 (1).mp4",
+          "file_Path": "D:/图片/消失消失了/视频节点 1 (1).mp4",
+          "height": 630,
+          "id": "1cbdd0ff-61b6-42d9-be04-c61fcc1aa3fb",
+          "import_time": 1788666035,
+          "import_time_ms": 1788666033171328,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788666001,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 (2).mp4",
+          "file_Path": "D:/图片/消失消失了/视频节点 1 (2).mp4",
+          "height": 630,
+          "id": "3bb6d9f5-6dfb-43fc-ac6b-d9fe787bdb61",
+          "import_time": 1788666036,
+          "import_time_ms": 1788666033172531,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788665833,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1.mp4",
+          "file_Path": "D:/图片/消失消失了/视频节点 1.mp4",
+          "height": 630,
+          "id": "45a67cb3-2ed2-4a1b-a60b-9fa86a2be87d",
+          "import_time": 1788666037,
+          "import_time_ms": 1788666033173514,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788666184,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 (4).mp4",
+          "file_Path": "D:/图片/消失消失了/视频节点 1 (4).mp4",
+          "height": 630,
+          "id": "882ac819-2eba-4a53-8cff-61f3e311091a",
+          "import_time": 1788666201,
+          "import_time_ms": 1788666196863686,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788666091,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 (3).mp4",
+          "file_Path": "D:/图片/消失消失了/视频节点 1 (3).mp4",
+          "height": 630,
+          "id": "81b69126-8d29-4d7f-89b8-0409c979cdc5",
+          "import_time": 1788666237,
+          "import_time_ms": 1788666229584892,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788778233,
+          "duration": 5000000,
+          "enter_from": 0,
+          "extra_info": "屏幕截图 2026-09-07 185033.png",
+          "file_Path": "D:/图片/截图/屏幕截图 2026-09-07 185033.png",
+          "height": 440,
+          "id": "43835313-1b4a-4a9e-b813-014936cc10f7",
+          "import_time": 1788778262,
+          "import_time_ms": 1788778261449307,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "photo",
+          "roughcut_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 346
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788778488,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 (6).mp4",
+          "file_Path": "D:/图片/消失消失了/视频节点 1 (6).mp4",
+          "height": 630,
+          "id": "0d49e70b-5be4-4865-b0e3-796d227f906e",
+          "import_time": 1788778545,
+          "import_time_ms": 1788778543228608,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788778471,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 (5).mp4",
+          "file_Path": "D:/图片/消失消失了/视频节点 1 (5).mp4",
+          "height": 630,
+          "id": "0f3e64f0-3c4c-405d-bf82-0991dd677f29",
+          "import_time": 1788778546,
+          "import_time_ms": 1788778543229783,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788779639,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 3 (3).mp4",
+          "file_Path": "D:/图片/消失消失了/视频节点 3 (3).mp4",
+          "height": 630,
+          "id": "51a85400-22eb-4804-8779-307fdf7c6e20",
+          "import_time": 1788779708,
+          "import_time_ms": 1788779704728112,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788779677,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 3 (4).mp4",
+          "file_Path": "D:/图片/消失消失了/视频节点 3 (4).mp4",
+          "height": 630,
+          "id": "0b043eb1-09f0-4d2d-8709-e682a155b0f0",
+          "import_time": 1788779709,
+          "import_time_ms": 1788779704770961,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788779609,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 3 (1).mp4",
+          "file_Path": "D:/图片/消失消失了/视频节点 3 (1).mp4",
+          "height": 630,
+          "id": "39626a1c-0b2a-4595-ae6c-32c4ce335552",
+          "import_time": 1788779710,
+          "import_time_ms": 1788779704771519,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788779631,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 3 (2).mp4",
+          "file_Path": "D:/图片/消失消失了/视频节点 3 (2).mp4",
+          "height": 630,
+          "id": "8aa61951-724e-4e1e-8f15-a71095b4c58d",
+          "import_time": 1788779711,
+          "import_time_ms": 1788779704771917,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788779724,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 3 (5).mp4",
+          "file_Path": "D:/图片/消失消失了/视频节点 3 (5).mp4",
+          "height": 630,
+          "id": "8c520070-8463-40ca-bee3-870fbaf2e720",
+          "import_time": 1788779747,
+          "import_time_ms": 1788779739664543,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788666001,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 (2) · 电影加强v02 · office_day",
+          "file_Path": "D:/图片/小陌的工作流/项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/调色派生素材/office_day_7fe4d89844.mp4",
+          "height": 630,
+          "id": "b0963020-9eb2-49c2-9808-74f2f4eba01f",
+          "import_time": 1788666036,
+          "import_time_ms": 1788666033172531,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788666091,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 (3) · 电影加强v02 · golden_overtime",
+          "file_Path": "D:/图片/小陌的工作流/项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/调色派生素材/golden_overtime_b693b7118a.mp4",
+          "height": 630,
+          "id": "66f76f15-b7da-410e-9572-0bc0934af010",
+          "import_time": 1788666237,
+          "import_time_ms": 1788666229584892,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788666091,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 (3) · 电影加强v02 · blue_hour",
+          "file_Path": "D:/图片/小陌的工作流/项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/调色派生素材/blue_hour_f24b519ba0.mp4",
+          "height": 630,
+          "id": "4905c65b-086d-4692-8e77-1920471e8484",
+          "import_time": 1788666237,
+          "import_time_ms": 1788666229584892,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788666184,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 (4) · 电影加强v02 · meeting_night",
+          "file_Path": "D:/图片/小陌的工作流/项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/调色派生素材/meeting_night_b2b2b89b9a.mp4",
+          "height": 630,
+          "id": "a46543db-07ee-4f2a-a213-abc7d32606f5",
+          "import_time": 1788666201,
+          "import_time_ms": 1788666196863686,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788666001,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 (2) · 电影加强v02 · monitor_night",
+          "file_Path": "D:/图片/小陌的工作流/项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/调色派生素材/monitor_night_4bf73bb572.mp4",
+          "height": 630,
+          "id": "efcd5f82-8194-4bb2-a752-03b8d61becc6",
+          "import_time": 1788666036,
+          "import_time_ms": 1788666033172531,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788666001,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 (2) · 电影加强v02 · bedroom_night",
+          "file_Path": "D:/图片/小陌的工作流/项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/调色派生素材/bedroom_night_130f909c0e.mp4",
+          "height": 630,
+          "id": "422a2481-ff80-438d-901f-6511157c9685",
+          "import_time": 1788666036,
+          "import_time_ms": 1788666033172531,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788665879,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 (1) · 电影加强v02 · morning_window",
+          "file_Path": "D:/图片/小陌的工作流/项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/调色派生素材/morning_window_71e6e04a1d.mp4",
+          "height": 630,
+          "id": "e1c12a78-a24f-424e-b64a-12c19df6db15",
+          "import_time": 1788666035,
+          "import_time_ms": 1788666033171328,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788665833,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 · 电影加强v02 · morning_room",
+          "file_Path": "D:/图片/小陌的工作流/项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/调色派生素材/morning_room_c691b61e99.mp4",
+          "height": 630,
+          "id": "3fb93884-19d9-42ae-86ac-bf1b04e6b903",
+          "import_time": 1788666037,
+          "import_time_ms": 1788666033173514,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788665879,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 (1) · 电影加强v02 · morning_room",
+          "file_Path": "D:/图片/小陌的工作流/项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/调色派生素材/morning_room_7d47550013.mp4",
+          "height": 630,
+          "id": "d8fbc42b-409d-456c-8312-cb6c5d15bfc3",
+          "import_time": 1788666035,
+          "import_time_ms": 1788666033171328,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788665879,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 (1) · 电影加强v02 · metro",
+          "file_Path": "D:/图片/小陌的工作流/项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/调色派生素材/metro_9c6a2bc0c6.mp4",
+          "height": 630,
+          "id": "e8978b7d-9c77-4e29-b7f0-a92a92b07b9f",
+          "import_time": 1788666035,
+          "import_time_ms": 1788666033171328,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788665833,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 · 电影加强v02 · metro",
+          "file_Path": "D:/图片/小陌的工作流/项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/调色派生素材/metro_063e8ba813.mp4",
+          "height": 630,
+          "id": "e9f53091-33da-41d4-b373-b12439faa5ce",
+          "import_time": 1788666037,
+          "import_time_ms": 1788666033173514,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788665833,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 · 电影加强v02 · day_street",
+          "file_Path": "D:/图片/小陌的工作流/项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/调色派生素材/day_street_b6e4879e00.mp4",
+          "height": 630,
+          "id": "a7a2bb0b-a8d3-4da0-9133-799ea74d69bf",
+          "import_time": 1788666037,
+          "import_time_ms": 1788666033173514,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1788778471,
+          "duration": 30041000,
+          "enter_from": 0,
+          "extra_info": "视频节点 1 (5) · 电影加强v02 · company_outdoor",
+          "file_Path": "D:/图片/小陌的工作流/项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/调色派生素材/company_outdoor_40f4320276.mp4",
+          "height": 630,
+          "id": "c9ea3066-a031-45c4-8d84-1e2eb475ebd0",
+          "import_time": 1788778546,
+          "import_time_ms": 1788778543229783,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 30041000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1470
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "value": []
+    },
+    {
+      "type": 2,
+      "value": []
+    },
+    {
+      "type": 3,
+      "value": []
+    },
+    {
+      "type": 6,
+      "value": []
+    },
+    {
+      "type": 7,
+      "value": []
+    },
+    {
+      "type": 8,
+      "value": []
+    }
+  ],
+  "draft_materials_copied_info": [],
+  "draft_name": "消失？消失了！-副本-电影加强v02-前60秒",
+  "draft_need_rename_folder": false,
+  "draft_new_version": "",
+  "draft_removable_storage_device": "D:",
+  "draft_root_path": "D:/JianyingPro Drafts",
+  "draft_segment_extra_info": [
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "65BCD834-DECF-48d9-B10E-609AB7590125"
+    }
+  ],
+  "draft_timeline_materials_size_": 247772101,
+  "draft_type": "",
+  "draft_web_article_video_enter_from": "",
+  "pippit_avatar_url": "",
+  "pippit_extra_info": "",
+  "pippit_id": "",
+  "pippit_user_name": "",
+  "tm_draft_cloud_completed": "",
+  "tm_draft_cloud_entry_id": -1,
+  "tm_draft_cloud_modified": 0,
+  "tm_draft_cloud_parent_entry_id": -1,
+  "tm_draft_cloud_space_id": -1,
+  "tm_draft_cloud_user_id": -1,
+  "tm_draft_create": 1788950633560892,
+  "tm_draft_modified": 1788950633560892,
+  "tm_draft_removed": 0,
+  "tm_duration": 60000000
+}

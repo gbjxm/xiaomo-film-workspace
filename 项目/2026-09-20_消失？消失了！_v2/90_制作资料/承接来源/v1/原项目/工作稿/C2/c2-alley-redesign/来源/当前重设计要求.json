@@ -1,0 +1,18 @@
+{
+  "source_thread_id": "01a080ae-0ef5-7773-baaa-6f8ff6ab938f",
+  "source_thread_title": "C｜视觉生成｜视频续接04",
+  "source_turn_id": "01a0817e-4020-7602-bfdc-52f5827b1f1e",
+  "source_turn_status": "interrupted",
+  "user_message_id": "01a0817e-4800-7732-97c5-8d8de5c48a18",
+  "user_request": "不行哈，我感觉现在这个设计有点突兀。角色在场景里奔跑后被砸到，整体感觉少了点什么。这个片段我们需要重新设计一下，讨论一下怎么做更合理。因为后面要接失重，所以这个片段得重新来过。\n",
+  "prior_scope_correction": "明白，是**上一片段切出，直接进入新巷道的下一片段**。我刚才把上一段街道奔跑又编进来了，理解错了。\n\n新片段直接从**小莫已经在巷道里奔跑**开始，随后被砸、产生心声、垃圾袋先漂浮、小莫再慢慢浮起。不再补写街道到巷道的入场过程。",
+  "current_state": "needs_redesign_discussion",
+  "complete_historical_prompt_recovered": true,
+  "current_adopted_prompt": false,
+  "pilot14_status": "independent_unadopted_workflow_test",
+  "full_prompt_source_message_id": "msg_0f2eb55199b855c4016aa00c58f57487d0a43a8262a0119702",
+  "old_cache_summary": "stale_relative_to_later_user_messages",
+  "current_other_c_thread": "01a08181-1377-7fe2-84ca-b5fd38fcc2d2",
+  "other_c_thread_excluded": "Latest completed prompt concerns an unrelated forest interaction scene; excluded from this film migration"
+}
+

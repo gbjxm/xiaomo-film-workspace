@@ -1,0 +1,7 @@
+rapidocr==3.9.1
+onnxruntime==1.27.0
+paddleocr==3.7.0
+paddlepaddle==3.3.1
+Pillow==12.3.0
+PyMuPDF==1.28.0
+lxml==6.1.1

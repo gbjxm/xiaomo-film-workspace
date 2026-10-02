@@ -1,0 +1,34 @@
+{
+  "recorded_at": "2026-07-06T09:06:57+00:00",
+  "python": "3.12.13 (main, Mar  3 2026, 15:01:35) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+  "packages": {
+    "rapidocr": "3.9.1",
+    "onnxruntime": "1.27.0",
+    "paddleocr": "3.7.0",
+    "paddlepaddle": "3.3.1",
+    "paddlex": "3.7.2",
+    "opencv-contrib-python": "4.10.0.84",
+    "numpy": "2.3.5",
+    "pillow": "12.3.0"
+  },
+  "engines": {
+    "rapidocr": {
+      "backend": "onnxruntime CPU",
+      "det_model": "PP-OCRv6_det_small",
+      "rec_model": "PP-OCRv6_rec_small",
+      "classification_model": "ch_ppocr_mobile_v2.0_cls_mobile"
+    },
+    "paddleocr": {
+      "backend": "PaddlePaddle CPU, enable_mkldnn=False",
+      "det_model": "PP-OCRv6_medium_det",
+      "rec_model": "PP-OCRv6_medium_rec"
+    }
+  },
+  "hardware_observed": {
+    "memory_gb": 32,
+    "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+    "note": "本次为可复现的CPU比较；未安装Paddle GPU运行时。"
+  }
+}

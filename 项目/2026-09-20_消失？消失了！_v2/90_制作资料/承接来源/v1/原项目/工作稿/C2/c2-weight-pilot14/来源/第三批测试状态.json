@@ -1,0 +1,20 @@
+{
+  "state": "independent_unadopted_workflow_test",
+  "canvas_session": "2097355733524586496",
+  "canvas_title": "V0.9第三批｜手动生成测试",
+  "video_node_id": "5cd12acf-ce3a-4ed3-b028-c576076a8676",
+  "user_canvas_observation": "还行，我这没积分生成了，线都连上了看着没什么问题，继续下一批测试",
+  "user_canvas_observation_source": "2026-09-10当前维护任务用户消息",
+  "text_reference_review": "passed",
+  "user_adopted": false,
+  "generation_submitted": false,
+  "real_media_verified": false,
+  "full_30_seconds_and_edit_verified": false,
+  "credits_unavailable": true,
+  "test_parameters": {
+    "duration_seconds": 14,
+    "aspect_ratio": "21:9",
+    "resolution": "720p"
+  },
+  "project_output_profile_adopted": false
+}

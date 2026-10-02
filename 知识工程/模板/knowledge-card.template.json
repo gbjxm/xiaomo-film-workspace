@@ -1,0 +1,39 @@
+{
+  "card_id": "STC-K0000",
+  "concept_key": "待逐书目标定义",
+  "status": "draft",
+  "system_id": "STC",
+  "work_id": "STC-01",
+  "edition_ids": ["STC-01-ZH-SCAN"],
+  "evidence": [
+    {
+      "file_id": "STC01-PDF-01",
+      "source_sha256": "从source-registry.json复制对应文件哈希",
+      "evidence_status": "ocr_unverified",
+      "locator": {
+        "type": "pdf_page",
+        "pdf_page": 1,
+        "print_page": null,
+        "text_hash": "sha256:待提取后填写"
+      }
+    }
+  ],
+  "author_claim": "[作者主张] 待逐书目标提炼；本文件只定义结构。",
+  "operationalization": "[操作化整理] 待逐书目标提炼。",
+  "problem_solved": "待填写",
+  "required_inputs": [],
+  "generation_questions": [],
+  "diagnostic_criteria": [],
+  "revision_methods": [],
+  "applicable_when": [],
+  "prohibited_when": [],
+  "common_misuses": [],
+  "cross_book_relations": [],
+  "ai_short_adaptation": {
+    "label": "AI短片适配",
+    "text": "待逐书目标提炼；不得冒充作者主张。"
+  },
+  "user_notes": [],
+  "external_supplements": [],
+  "validation_records": []
+}

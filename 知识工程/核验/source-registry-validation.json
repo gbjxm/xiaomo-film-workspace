@@ -1,0 +1,13 @@
+{
+  "checked_at": "2026-07-06T12:45:45+00:00",
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "stale_file_ids": [],
+  "counts": {
+    "systems": 5,
+    "works": 9,
+    "editions": 11,
+    "files": 19
+  }
+}

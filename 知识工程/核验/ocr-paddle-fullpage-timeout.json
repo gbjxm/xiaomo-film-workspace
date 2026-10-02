@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "engine": "paddleocr",
+  "configuration": {
+    "paddleocr": "3.7.0",
+    "paddlepaddle": "3.3.1",
+    "det_model": "PP-OCRv6_medium_det",
+    "rec_model": "PP-OCRv6_medium_rec",
+    "backend": "CPU",
+    "enable_mkldnn": false
+  },
+  "planned_full_pages": 48,
+  "planned_cer_crops": 4,
+  "timeout_policy": "整套运行超过30分钟即判定不适合作为全量主引擎",
+  "outcome": "stopped_after_exceeding_throughput_limit",
+  "partial_results_persisted": false,
+  "quality_followup": "另行完成4个CER裁切，保存于ocr-paddleocr-cer-results.json",
+  "decision": "不作为全书默认引擎；仅作为低置信页和关键术语片段的回退引擎"
+}
+

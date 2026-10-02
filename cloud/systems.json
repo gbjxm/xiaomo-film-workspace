@@ -1,0 +1,25 @@
+{
+  "schema": "xiaomo.cloud-systems/v1",
+  "systems": {
+    "knowledge": {
+      "repository": "gbjxm/knowledge-tree-workflows",
+      "formal_branch": "main",
+      "cloud_branch": "cloud-work",
+      "entry": "CLOUD-START.md"
+    },
+    "learning": {
+      "repository": "gbjxm/xiaomo-learning-system",
+      "formal_branch": "main",
+      "cloud_branch": "cloud-work",
+      "entry": "CLOUD-START.md"
+    },
+    "workflow": {
+      "repository": "gbjxm/xiaomo-film-workspace",
+      "formal_branch": "main",
+      "cloud_branch": "cloud-work",
+      "entry": "CLOUD-START.md"
+    }
+  },
+  "root_resolution": "Use actual checked-out repository roots, never Windows source paths",
+  "credentials_in_repository": false
+}

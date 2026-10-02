@@ -1,0 +1,23 @@
+{
+  "draft": "D:\\JianyingPro Drafts\\消失？消失了！-副本-调色v01",
+  "new_draft_id": "EF8A8110-B168-4d27-87B7-929B13826568",
+  "timeline_id_preserved": "308CA3FE-32EC-4c47-BA58-2B12A580AA10",
+  "duration_us": 110733333,
+  "track_count": 6,
+  "segment_count": 51,
+  "graded_segments": 33,
+  "derivative_files": 16,
+  "source_copy": "unchanged",
+  "editorial_structure": "exact match",
+  "audio_tracks": "exact match",
+  "hidden_tracks": "exact match",
+  "encryption_roundtrip": "passed",
+  "registry_id_alignment": "passed",
+  "registry_other_entries_unchanged": true,
+  "registry_current_sha256": "69c962c73c82b7034c1bb141b6576e08a1ba9409b475d20d432387670b704838",
+  "content_sha256": "ce847c4f79b6563b18e8880b5484050f9d473507093bf209c0089e94bdebcc54",
+  "metadata_sha256": "6836b7fd837206ce585d1d4e3db5b054aeafe6468043b705099dcc282ae7c77e",
+  "pixel_method": "graded full-length source derivatives, original source files retained",
+  "native_gui_playback": "not performed",
+  "status": "first grade candidate ready for user review"
+}

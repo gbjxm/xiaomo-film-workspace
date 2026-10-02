@@ -1,0 +1,115 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-06T09:34:53+00:00",
+  "normalization": "remove whitespace; normalize paired Chinese quotes",
+  "rows": [
+    {
+      "engine": "rapidocr",
+      "file_id": "STC01-PDF-01",
+      "pdf_page": 44,
+      "kind": "cer_crop",
+      "ground_truth_characters": 102,
+      "ocr_characters": 102,
+      "edit_distance": 6,
+      "cer": 0.058824,
+      "passes_2_percent": false,
+      "source_sha256": "317e32a19f0d45057fa722826875d408e34c8477a1cb2d40486e4ee465020051"
+    },
+    {
+      "engine": "rapidocr",
+      "file_id": "STC02-PDF-01",
+      "pdf_page": 82,
+      "kind": "cer_crop",
+      "ground_truth_characters": 96,
+      "ocr_characters": 97,
+      "edit_distance": 1,
+      "cer": 0.010417,
+      "passes_2_percent": true,
+      "source_sha256": "22a751880aca97aecc3df19b3971fd4682511a6d1159e2f35446533e747a8e8c"
+    },
+    {
+      "engine": "rapidocr",
+      "file_id": "STC03-PDF-01",
+      "pdf_page": 57,
+      "kind": "cer_crop",
+      "ground_truth_characters": 94,
+      "ocr_characters": 93,
+      "edit_distance": 1,
+      "cer": 0.010638,
+      "passes_2_percent": true,
+      "source_sha256": "81c2db6774623cfd93db57d2882ed7f869d801a15ffea6643ecb9331c64db9ab"
+    },
+    {
+      "engine": "rapidocr",
+      "file_id": "EGR-PDF-01",
+      "pdf_page": 78,
+      "kind": "cer_crop",
+      "ground_truth_characters": 86,
+      "ocr_characters": 86,
+      "edit_distance": 1,
+      "cer": 0.011628,
+      "passes_2_percent": true,
+      "source_sha256": "91c487ffe3d3b360a5e6d6bc19114e5c75f454891ebe72b4e8edb066996e0f6b"
+    },
+    {
+      "engine": "paddleocr",
+      "file_id": "STC01-PDF-01",
+      "pdf_page": 44,
+      "kind": "cer_crop",
+      "ground_truth_characters": 102,
+      "ocr_characters": 102,
+      "edit_distance": 4,
+      "cer": 0.039216,
+      "passes_2_percent": false,
+      "source_sha256": "317e32a19f0d45057fa722826875d408e34c8477a1cb2d40486e4ee465020051"
+    },
+    {
+      "engine": "paddleocr",
+      "file_id": "STC02-PDF-01",
+      "pdf_page": 82,
+      "kind": "cer_crop",
+      "ground_truth_characters": 96,
+      "ocr_characters": 96,
+      "edit_distance": 0,
+      "cer": 0.0,
+      "passes_2_percent": true,
+      "source_sha256": "22a751880aca97aecc3df19b3971fd4682511a6d1159e2f35446533e747a8e8c"
+    },
+    {
+      "engine": "paddleocr",
+      "file_id": "STC03-PDF-01",
+      "pdf_page": 57,
+      "kind": "cer_crop",
+      "ground_truth_characters": 94,
+      "ocr_characters": 93,
+      "edit_distance": 1,
+      "cer": 0.010638,
+      "passes_2_percent": true,
+      "source_sha256": "81c2db6774623cfd93db57d2882ed7f869d801a15ffea6643ecb9331c64db9ab"
+    },
+    {
+      "engine": "paddleocr",
+      "file_id": "EGR-PDF-01",
+      "pdf_page": 78,
+      "kind": "cer_crop",
+      "ground_truth_characters": 86,
+      "ocr_characters": 86,
+      "edit_distance": 0,
+      "cer": 0.0,
+      "passes_2_percent": true,
+      "source_sha256": "91c487ffe3d3b360a5e6d6bc19114e5c75f454891ebe72b4e8edb066996e0f6b"
+    }
+  ],
+  "summary": {
+    "paddleocr": {
+      "targets": 4,
+      "weighted_cer": 0.013228,
+      "passes_2_percent": true
+    },
+    "rapidocr": {
+      "targets": 4,
+      "weighted_cer": 0.02381,
+      "passes_2_percent": false
+    }
+  }
+}

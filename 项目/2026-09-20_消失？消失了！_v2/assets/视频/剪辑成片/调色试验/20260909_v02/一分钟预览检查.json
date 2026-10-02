@@ -1,0 +1,25 @@
+{
+  "file": "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\消失_电影感加强v02_前60秒_静音预览_正式.mp4",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1470,
+        "height": 630,
+        "r_frame_rate": "30/1",
+        "duration": "60.000000",
+        "nb_frames": "1800"
+      }
+    ],
+    "format": {
+      "duration": "60.000000",
+      "size": "20275883"
+    }
+  },
+  "decode": "passed",
+  "method": "Silent preview reconstructed from saved source ranges, speed, static crop/scale/flip. Not an export performed by Jianying.",
+  "native_audio": "preserved in the corresponding editable draft"
+}

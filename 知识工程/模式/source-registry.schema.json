@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Source registry",
+  "type": "object",
+  "required": ["schema_version", "source_root", "systems", "works", "editions", "files"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "source_root": {"type": "string"},
+    "systems": {"type": "array", "minItems": 5},
+    "works": {"type": "array", "minItems": 9},
+    "editions": {"type": "array", "minItems": 9},
+    "files": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["file_id", "edition_id", "work_id", "system_id", "relative_path", "sha256", "role", "ingestion", "format", "locator_policy", "inspection"],
+        "properties": {
+          "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+          "role": {"enum": ["canonical", "locator", "crosscheck", "alternate", "fallback", "archive"]},
+          "ingestion": {"enum": ["ocr_required", "text_layer", "epub_structure", "fallback_only", "archive_only"]}
+        }
+      }
+    }
+  }
+}
+

@@ -1,0 +1,89 @@
+{
+  "checked_at": "2026-07-06T12:45:47+00:00",
+  "status": "pass",
+  "test_count": 15,
+  "tests": [
+    {
+      "name": "valid card",
+      "expected": "pass",
+      "actual": "pass",
+      "status": "pass"
+    },
+    {
+      "name": "invented PDF page blocked",
+      "expected": "fail",
+      "actual": "fail",
+      "status": "pass"
+    },
+    {
+      "name": "valid EPUB anchor",
+      "expected": "pass",
+      "actual": "pass",
+      "status": "pass"
+    },
+    {
+      "name": "fabricated EPUB page blocked",
+      "expected": "fail",
+      "actual": "fail",
+      "status": "pass"
+    },
+    {
+      "name": "cross-work evidence blocked",
+      "expected": "fail",
+      "actual": "fail",
+      "status": "pass"
+    },
+    {
+      "name": "unverified OCR blocked for approval",
+      "expected": "fail",
+      "actual": "fail",
+      "status": "pass"
+    },
+    {
+      "name": "pre-G60 merge blocked",
+      "expected": "fail",
+      "actual": "fail",
+      "status": "pass"
+    },
+    {
+      "name": "changed source hash invalidates card",
+      "expected": "fail",
+      "actual": "fail",
+      "status": "pass"
+    },
+    {
+      "name": "stale card automatically marked for revalidation",
+      "status": "pass"
+    },
+    {
+      "name": "duplicate concept key blocked",
+      "expected": "fail",
+      "actual": "fail",
+      "status": "pass"
+    },
+    {
+      "name": "chapter-map template",
+      "expected": "pass",
+      "actual": "pass",
+      "status": "pass"
+    },
+    {
+      "name": "synthetic PDF extraction",
+      "status": "pass"
+    },
+    {
+      "name": "synthetic EPUB extraction",
+      "status": "pass"
+    },
+    {
+      "name": "extractor cross-work guard",
+      "status": "pass"
+    },
+    {
+      "name": "duplicate file identity blocked",
+      "expected": "fail",
+      "actual": "fail",
+      "status": "pass"
+    }
+  ]
+}

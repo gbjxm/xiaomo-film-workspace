@@ -1,0 +1,1585 @@
+[
+  {
+    "source": "D:/图片/消失消失了/视频节点 1 (2).mp4",
+    "source_sha256": "b1ec3e512c76a6d3b4b81b1de31886b0abb65764163808f70eaaa924100121d0",
+    "profile": "office_day",
+    "shots": [
+      1,
+      2
+    ],
+    "output": "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\office_day_7fe4d89844.mp4",
+    "output_sha256": "7a70fc97613d02b7c522159b2b4cad887c8b9e2b868edceb78470cd8081deeb1",
+    "source_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "output_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "decode": "passed",
+    "timing_geometry": "matched",
+    "command": [
+      "ffmpeg",
+      "-hide_banner",
+      "-loglevel",
+      "error",
+      "-nostdin",
+      "-n",
+      "-threads",
+      "2",
+      "-i",
+      "D:/图片/消失消失了/视频节点 1 (2).mp4",
+      "-map",
+      "0:v:0",
+      "-map",
+      "0:a?",
+      "-map_metadata",
+      "0",
+      "-vf",
+      "setparams=range=limited:color_primaries=bt709:color_trc=bt709:colorspace=bt709,format=gbrp16le,lut3d=file=实现参数/office_day.cube:interp=tetrahedral,scale=out_range=full:out_color_matrix=bt709,format=yuv444p,unsharp=5:5:-0.12:5:5:0,vignette=angle=PI/9:dither=1,noise=c0s=1:c0f=t+u:c0_seed=2709:c1s=0:c2s=0,scale=in_range=full:out_range=tv:out_color_matrix=bt709,format=yuv420p",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "fast",
+      "-crf",
+      "16",
+      "-threads",
+      "3",
+      "-fps_mode",
+      "passthrough",
+      "-c:a",
+      "copy",
+      "-color_primaries",
+      "bt709",
+      "-color_trc",
+      "bt709",
+      "-colorspace",
+      "bt709",
+      "-color_range",
+      "tv",
+      "-movflags",
+      "+faststart",
+      "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\office_day_7fe4d89844.mp4"
+    ]
+  },
+  {
+    "source": "D:/图片/消失消失了/视频节点 1 (3).mp4",
+    "source_sha256": "49432c0760f55a14d198c3a1c54ddd74eacc3b70f86bf30da2c9259186dcb16c",
+    "profile": "golden_overtime",
+    "shots": [
+      3
+    ],
+    "output": "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\golden_overtime_b693b7118a.mp4",
+    "output_sha256": "1efe1a2740e6369c3b3907e1a3a5e1c835bd6527de8b91d0b51bd5fed9cc7826",
+    "source_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "output_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "decode": "passed",
+    "timing_geometry": "matched",
+    "command": [
+      "ffmpeg",
+      "-hide_banner",
+      "-loglevel",
+      "error",
+      "-nostdin",
+      "-n",
+      "-threads",
+      "2",
+      "-i",
+      "D:/图片/消失消失了/视频节点 1 (3).mp4",
+      "-map",
+      "0:v:0",
+      "-map",
+      "0:a?",
+      "-map_metadata",
+      "0",
+      "-vf",
+      "setparams=range=limited:color_primaries=bt709:color_trc=bt709:colorspace=bt709,format=gbrp16le,lut3d=file=实现参数/golden_overtime.cube:interp=tetrahedral,scale=out_range=full:out_color_matrix=bt709,format=yuv444p,unsharp=5:5:-0.12:5:5:0,vignette=angle=PI/10:dither=1,noise=c0s=1:c0f=t+u:c0_seed=2709:c1s=0:c2s=0,scale=in_range=full:out_range=tv:out_color_matrix=bt709,format=yuv420p",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "fast",
+      "-crf",
+      "16",
+      "-threads",
+      "3",
+      "-fps_mode",
+      "passthrough",
+      "-c:a",
+      "copy",
+      "-color_primaries",
+      "bt709",
+      "-color_trc",
+      "bt709",
+      "-colorspace",
+      "bt709",
+      "-color_range",
+      "tv",
+      "-movflags",
+      "+faststart",
+      "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\golden_overtime_b693b7118a.mp4"
+    ]
+  },
+  {
+    "source": "D:/图片/消失消失了/视频节点 1 (3).mp4",
+    "source_sha256": "49432c0760f55a14d198c3a1c54ddd74eacc3b70f86bf30da2c9259186dcb16c",
+    "profile": "blue_hour",
+    "shots": [
+      4
+    ],
+    "output": "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\blue_hour_f24b519ba0.mp4",
+    "output_sha256": "7a7fce9fcf68a71c30360de33bb2f789f7e3c5263f1c5638f4d154c8d8249474",
+    "source_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "output_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "decode": "passed",
+    "timing_geometry": "matched",
+    "command": [
+      "ffmpeg",
+      "-hide_banner",
+      "-loglevel",
+      "error",
+      "-nostdin",
+      "-n",
+      "-threads",
+      "2",
+      "-i",
+      "D:/图片/消失消失了/视频节点 1 (3).mp4",
+      "-map",
+      "0:v:0",
+      "-map",
+      "0:a?",
+      "-map_metadata",
+      "0",
+      "-vf",
+      "setparams=range=limited:color_primaries=bt709:color_trc=bt709:colorspace=bt709,format=gbrp16le,lut3d=file=实现参数/blue_hour.cube:interp=tetrahedral,scale=out_range=full:out_color_matrix=bt709,format=yuv444p,unsharp=5:5:-0.12:5:5:0,vignette=angle=PI/11:dither=1,noise=c0s=1:c0f=t+u:c0_seed=2709:c1s=0:c2s=0,scale=in_range=full:out_range=tv:out_color_matrix=bt709,format=yuv420p",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "fast",
+      "-crf",
+      "16",
+      "-threads",
+      "3",
+      "-fps_mode",
+      "passthrough",
+      "-c:a",
+      "copy",
+      "-color_primaries",
+      "bt709",
+      "-color_trc",
+      "bt709",
+      "-colorspace",
+      "bt709",
+      "-color_range",
+      "tv",
+      "-movflags",
+      "+faststart",
+      "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\blue_hour_f24b519ba0.mp4"
+    ]
+  },
+  {
+    "source": "D:/图片/消失消失了/视频节点 1 (4).mp4",
+    "source_sha256": "9a8854eca21126e12646375db02d12e37f996928dfbfa44b17d2b365e9e4e7fe",
+    "profile": "meeting_night",
+    "shots": [
+      5,
+      6,
+      7
+    ],
+    "output": "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\meeting_night_b2b2b89b9a.mp4",
+    "output_sha256": "50a2d01d2d19f3b7e40ebdbd5b546682b8eea2f9a47424d13951db38dd465249",
+    "source_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "output_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "decode": "passed",
+    "timing_geometry": "matched",
+    "command": [
+      "ffmpeg",
+      "-hide_banner",
+      "-loglevel",
+      "error",
+      "-nostdin",
+      "-n",
+      "-threads",
+      "2",
+      "-i",
+      "D:/图片/消失消失了/视频节点 1 (4).mp4",
+      "-map",
+      "0:v:0",
+      "-map",
+      "0:a?",
+      "-map_metadata",
+      "0",
+      "-vf",
+      "setparams=range=limited:color_primaries=bt709:color_trc=bt709:colorspace=bt709,format=gbrp16le,lut3d=file=实现参数/meeting_night.cube:interp=tetrahedral,scale=out_range=full:out_color_matrix=bt709,format=yuv444p,unsharp=5:5:-0.12:5:5:0,vignette=angle=PI/12:dither=1,noise=c0s=1:c0f=t+u:c0_seed=2709:c1s=0:c2s=0,scale=in_range=full:out_range=tv:out_color_matrix=bt709,format=yuv420p",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "fast",
+      "-crf",
+      "16",
+      "-threads",
+      "3",
+      "-fps_mode",
+      "passthrough",
+      "-c:a",
+      "copy",
+      "-color_primaries",
+      "bt709",
+      "-color_trc",
+      "bt709",
+      "-colorspace",
+      "bt709",
+      "-color_range",
+      "tv",
+      "-movflags",
+      "+faststart",
+      "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\meeting_night_b2b2b89b9a.mp4"
+    ]
+  },
+  {
+    "source": "D:/图片/消失消失了/视频节点 1 (2).mp4",
+    "source_sha256": "b1ec3e512c76a6d3b4b81b1de31886b0abb65764163808f70eaaa924100121d0",
+    "profile": "monitor_night",
+    "shots": [
+      8,
+      9
+    ],
+    "output": "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\monitor_night_4bf73bb572.mp4",
+    "output_sha256": "a5f951c2b1c4e02c5d372b2f0daf1b54258bd807fb9d023b200ed6924bb3dcd4",
+    "source_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "output_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "decode": "passed",
+    "timing_geometry": "matched",
+    "command": [
+      "ffmpeg",
+      "-hide_banner",
+      "-loglevel",
+      "error",
+      "-nostdin",
+      "-n",
+      "-threads",
+      "2",
+      "-i",
+      "D:/图片/消失消失了/视频节点 1 (2).mp4",
+      "-map",
+      "0:v:0",
+      "-map",
+      "0:a?",
+      "-map_metadata",
+      "0",
+      "-vf",
+      "setparams=range=limited:color_primaries=bt709:color_trc=bt709:colorspace=bt709,format=gbrp16le,lut3d=file=实现参数/monitor_night.cube:interp=tetrahedral,scale=out_range=full:out_color_matrix=bt709,format=yuv444p,unsharp=5:5:-0.12:5:5:0,vignette=angle=PI/13:dither=1,noise=c0s=1:c0f=t+u:c0_seed=2709:c1s=0:c2s=0,scale=in_range=full:out_range=tv:out_color_matrix=bt709,format=yuv420p",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "fast",
+      "-crf",
+      "16",
+      "-threads",
+      "3",
+      "-fps_mode",
+      "passthrough",
+      "-c:a",
+      "copy",
+      "-color_primaries",
+      "bt709",
+      "-color_trc",
+      "bt709",
+      "-colorspace",
+      "bt709",
+      "-color_range",
+      "tv",
+      "-movflags",
+      "+faststart",
+      "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\monitor_night_4bf73bb572.mp4"
+    ]
+  },
+  {
+    "source": "D:/图片/消失消失了/视频节点 1 (2).mp4",
+    "source_sha256": "b1ec3e512c76a6d3b4b81b1de31886b0abb65764163808f70eaaa924100121d0",
+    "profile": "bedroom_night",
+    "shots": [
+      10
+    ],
+    "output": "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\bedroom_night_130f909c0e.mp4",
+    "output_sha256": "1001fcca14679c3126c331bec2426f60b420bc1f25ba6c57fff1d975073c8f94",
+    "source_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "output_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "decode": "passed",
+    "timing_geometry": "matched",
+    "command": [
+      "ffmpeg",
+      "-hide_banner",
+      "-loglevel",
+      "error",
+      "-nostdin",
+      "-n",
+      "-threads",
+      "2",
+      "-i",
+      "D:/图片/消失消失了/视频节点 1 (2).mp4",
+      "-map",
+      "0:v:0",
+      "-map",
+      "0:a?",
+      "-map_metadata",
+      "0",
+      "-vf",
+      "setparams=range=limited:color_primaries=bt709:color_trc=bt709:colorspace=bt709,format=gbrp16le,lut3d=file=实现参数/bedroom_night.cube:interp=tetrahedral,scale=out_range=full:out_color_matrix=bt709,format=yuv444p,unsharp=5:5:-0.12:5:5:0,vignette=angle=PI/15:dither=1,noise=c0s=1:c0f=t+u:c0_seed=2709:c1s=0:c2s=0,scale=in_range=full:out_range=tv:out_color_matrix=bt709,format=yuv420p",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "fast",
+      "-crf",
+      "16",
+      "-threads",
+      "3",
+      "-fps_mode",
+      "passthrough",
+      "-c:a",
+      "copy",
+      "-color_primaries",
+      "bt709",
+      "-color_trc",
+      "bt709",
+      "-colorspace",
+      "bt709",
+      "-color_range",
+      "tv",
+      "-movflags",
+      "+faststart",
+      "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\bedroom_night_130f909c0e.mp4"
+    ]
+  },
+  {
+    "source": "D:/图片/消失消失了/视频节点 1 (1).mp4",
+    "source_sha256": "9c63d64c9b8f5fe0d82a6ec1096d8e58d7f90a2755840ed0cc4c65fe1d78bb22",
+    "profile": "morning_window",
+    "shots": [
+      11
+    ],
+    "output": "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\morning_window_71e6e04a1d.mp4",
+    "output_sha256": "583d030a83b50fb71bcad66b6a065dd5e27cdb505456857291e118cb1477c1a0",
+    "source_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "output_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "decode": "passed",
+    "timing_geometry": "matched",
+    "command": [
+      "ffmpeg",
+      "-hide_banner",
+      "-loglevel",
+      "error",
+      "-nostdin",
+      "-n",
+      "-threads",
+      "2",
+      "-i",
+      "D:/图片/消失消失了/视频节点 1 (1).mp4",
+      "-map",
+      "0:v:0",
+      "-map",
+      "0:a?",
+      "-map_metadata",
+      "0",
+      "-vf",
+      "setparams=range=limited:color_primaries=bt709:color_trc=bt709:colorspace=bt709,format=gbrp16le,lut3d=file=实现参数/morning_window.cube:interp=tetrahedral,scale=out_range=full:out_color_matrix=bt709,format=yuv444p,unsharp=5:5:-0.12:5:5:0,vignette=angle=PI/11:dither=1,noise=c0s=1:c0f=t+u:c0_seed=2709:c1s=0:c2s=0,scale=in_range=full:out_range=tv:out_color_matrix=bt709,format=yuv420p",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "fast",
+      "-crf",
+      "16",
+      "-threads",
+      "3",
+      "-fps_mode",
+      "passthrough",
+      "-c:a",
+      "copy",
+      "-color_primaries",
+      "bt709",
+      "-color_trc",
+      "bt709",
+      "-colorspace",
+      "bt709",
+      "-color_range",
+      "tv",
+      "-movflags",
+      "+faststart",
+      "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\morning_window_71e6e04a1d.mp4"
+    ]
+  },
+  {
+    "source": "D:/图片/消失消失了/视频节点 1.mp4",
+    "source_sha256": "ea776f14a52dd24f7d2d6d900e3894de71301fcc3210980901cb03b90393d94e",
+    "profile": "morning_room",
+    "shots": [
+      12,
+      15,
+      16,
+      17
+    ],
+    "output": "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\morning_room_c691b61e99.mp4",
+    "output_sha256": "7ce4c0b32c1b5c65ac00f228e15b630ab5ebb364371483531c55ab5e7ca36ee2",
+    "source_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "output_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "decode": "passed",
+    "timing_geometry": "matched",
+    "command": [
+      "ffmpeg",
+      "-hide_banner",
+      "-loglevel",
+      "error",
+      "-nostdin",
+      "-n",
+      "-threads",
+      "2",
+      "-i",
+      "D:/图片/消失消失了/视频节点 1.mp4",
+      "-map",
+      "0:v:0",
+      "-map",
+      "0:a?",
+      "-map_metadata",
+      "0",
+      "-vf",
+      "setparams=range=limited:color_primaries=bt709:color_trc=bt709:colorspace=bt709,format=gbrp16le,lut3d=file=实现参数/morning_room.cube:interp=tetrahedral,scale=out_range=full:out_color_matrix=bt709,format=yuv444p,unsharp=5:5:-0.12:5:5:0,vignette=angle=PI/10:dither=1,noise=c0s=1:c0f=t+u:c0_seed=2709:c1s=0:c2s=0,scale=in_range=full:out_range=tv:out_color_matrix=bt709,format=yuv420p",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "fast",
+      "-crf",
+      "16",
+      "-threads",
+      "3",
+      "-fps_mode",
+      "passthrough",
+      "-c:a",
+      "copy",
+      "-color_primaries",
+      "bt709",
+      "-color_trc",
+      "bt709",
+      "-colorspace",
+      "bt709",
+      "-color_range",
+      "tv",
+      "-movflags",
+      "+faststart",
+      "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\morning_room_c691b61e99.mp4"
+    ]
+  },
+  {
+    "source": "D:/图片/消失消失了/视频节点 1 (1).mp4",
+    "source_sha256": "9c63d64c9b8f5fe0d82a6ec1096d8e58d7f90a2755840ed0cc4c65fe1d78bb22",
+    "profile": "morning_room",
+    "shots": [
+      13,
+      14,
+      18
+    ],
+    "output": "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\morning_room_7d47550013.mp4",
+    "output_sha256": "8e7e71a6ceb4eb831eb49221028d13203801aa2c70a40a0204f16f073f8ea96a",
+    "source_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "output_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "decode": "passed",
+    "timing_geometry": "matched",
+    "command": [
+      "ffmpeg",
+      "-hide_banner",
+      "-loglevel",
+      "error",
+      "-nostdin",
+      "-n",
+      "-threads",
+      "2",
+      "-i",
+      "D:/图片/消失消失了/视频节点 1 (1).mp4",
+      "-map",
+      "0:v:0",
+      "-map",
+      "0:a?",
+      "-map_metadata",
+      "0",
+      "-vf",
+      "setparams=range=limited:color_primaries=bt709:color_trc=bt709:colorspace=bt709,format=gbrp16le,lut3d=file=实现参数/morning_room.cube:interp=tetrahedral,scale=out_range=full:out_color_matrix=bt709,format=yuv444p,unsharp=5:5:-0.12:5:5:0,vignette=angle=PI/10:dither=1,noise=c0s=1:c0f=t+u:c0_seed=2709:c1s=0:c2s=0,scale=in_range=full:out_range=tv:out_color_matrix=bt709,format=yuv420p",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "fast",
+      "-crf",
+      "16",
+      "-threads",
+      "3",
+      "-fps_mode",
+      "passthrough",
+      "-c:a",
+      "copy",
+      "-color_primaries",
+      "bt709",
+      "-color_trc",
+      "bt709",
+      "-colorspace",
+      "bt709",
+      "-color_range",
+      "tv",
+      "-movflags",
+      "+faststart",
+      "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\morning_room_7d47550013.mp4"
+    ]
+  },
+  {
+    "source": "D:/图片/消失消失了/视频节点 1 (1).mp4",
+    "source_sha256": "9c63d64c9b8f5fe0d82a6ec1096d8e58d7f90a2755840ed0cc4c65fe1d78bb22",
+    "profile": "metro",
+    "shots": [
+      19
+    ],
+    "output": "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\metro_9c6a2bc0c6.mp4",
+    "output_sha256": "43d33c461d915a48f539635902b7ac545a3398b67c0fa889dba62f95a0520c1b",
+    "source_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "output_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "decode": "passed",
+    "timing_geometry": "matched",
+    "command": [
+      "ffmpeg",
+      "-hide_banner",
+      "-loglevel",
+      "error",
+      "-nostdin",
+      "-n",
+      "-threads",
+      "2",
+      "-i",
+      "D:/图片/消失消失了/视频节点 1 (1).mp4",
+      "-map",
+      "0:v:0",
+      "-map",
+      "0:a?",
+      "-map_metadata",
+      "0",
+      "-vf",
+      "setparams=range=limited:color_primaries=bt709:color_trc=bt709:colorspace=bt709,format=gbrp16le,lut3d=file=实现参数/metro.cube:interp=tetrahedral,scale=out_range=full:out_color_matrix=bt709,format=yuv444p,unsharp=5:5:-0.12:5:5:0,vignette=angle=PI/11:dither=1,noise=c0s=1:c0f=t+u:c0_seed=2709:c1s=0:c2s=0,scale=in_range=full:out_range=tv:out_color_matrix=bt709,format=yuv420p",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "fast",
+      "-crf",
+      "16",
+      "-threads",
+      "3",
+      "-fps_mode",
+      "passthrough",
+      "-c:a",
+      "copy",
+      "-color_primaries",
+      "bt709",
+      "-color_trc",
+      "bt709",
+      "-colorspace",
+      "bt709",
+      "-color_range",
+      "tv",
+      "-movflags",
+      "+faststart",
+      "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\metro_9c6a2bc0c6.mp4"
+    ]
+  },
+  {
+    "source": "D:/图片/消失消失了/视频节点 1.mp4",
+    "source_sha256": "ea776f14a52dd24f7d2d6d900e3894de71301fcc3210980901cb03b90393d94e",
+    "profile": "metro",
+    "shots": [
+      20
+    ],
+    "output": "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\metro_063e8ba813.mp4",
+    "output_sha256": "a8a53959bef2b6b353f8388f5f249b0fb2259df5ae0354a6dea6d03e8b6f6bd3",
+    "source_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "output_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "decode": "passed",
+    "timing_geometry": "matched",
+    "command": [
+      "ffmpeg",
+      "-hide_banner",
+      "-loglevel",
+      "error",
+      "-nostdin",
+      "-n",
+      "-threads",
+      "2",
+      "-i",
+      "D:/图片/消失消失了/视频节点 1.mp4",
+      "-map",
+      "0:v:0",
+      "-map",
+      "0:a?",
+      "-map_metadata",
+      "0",
+      "-vf",
+      "setparams=range=limited:color_primaries=bt709:color_trc=bt709:colorspace=bt709,format=gbrp16le,lut3d=file=实现参数/metro.cube:interp=tetrahedral,scale=out_range=full:out_color_matrix=bt709,format=yuv444p,unsharp=5:5:-0.12:5:5:0,vignette=angle=PI/11:dither=1,noise=c0s=1:c0f=t+u:c0_seed=2709:c1s=0:c2s=0,scale=in_range=full:out_range=tv:out_color_matrix=bt709,format=yuv420p",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "fast",
+      "-crf",
+      "16",
+      "-threads",
+      "3",
+      "-fps_mode",
+      "passthrough",
+      "-c:a",
+      "copy",
+      "-color_primaries",
+      "bt709",
+      "-color_trc",
+      "bt709",
+      "-colorspace",
+      "bt709",
+      "-color_range",
+      "tv",
+      "-movflags",
+      "+faststart",
+      "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\metro_063e8ba813.mp4"
+    ]
+  },
+  {
+    "source": "D:/图片/消失消失了/视频节点 1.mp4",
+    "source_sha256": "ea776f14a52dd24f7d2d6d900e3894de71301fcc3210980901cb03b90393d94e",
+    "profile": "day_street",
+    "shots": [
+      21,
+      22
+    ],
+    "output": "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\day_street_b6e4879e00.mp4",
+    "output_sha256": "3b3357b7f53084da67a4f015a813d650b8cfa0f88ff139b4402463ff47259ce4",
+    "source_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "output_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "decode": "passed",
+    "timing_geometry": "matched",
+    "command": [
+      "ffmpeg",
+      "-hide_banner",
+      "-loglevel",
+      "error",
+      "-nostdin",
+      "-n",
+      "-threads",
+      "2",
+      "-i",
+      "D:/图片/消失消失了/视频节点 1.mp4",
+      "-map",
+      "0:v:0",
+      "-map",
+      "0:a?",
+      "-map_metadata",
+      "0",
+      "-vf",
+      "setparams=range=limited:color_primaries=bt709:color_trc=bt709:colorspace=bt709,format=gbrp16le,lut3d=file=实现参数/day_street.cube:interp=tetrahedral,scale=out_range=full:out_color_matrix=bt709,format=yuv444p,unsharp=5:5:-0.12:5:5:0,vignette=angle=PI/10:dither=1,noise=c0s=1:c0f=t+u:c0_seed=2709:c1s=0:c2s=0,scale=in_range=full:out_range=tv:out_color_matrix=bt709,format=yuv420p",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "fast",
+      "-crf",
+      "16",
+      "-threads",
+      "3",
+      "-fps_mode",
+      "passthrough",
+      "-c:a",
+      "copy",
+      "-color_primaries",
+      "bt709",
+      "-color_trc",
+      "bt709",
+      "-colorspace",
+      "bt709",
+      "-color_range",
+      "tv",
+      "-movflags",
+      "+faststart",
+      "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\day_street_b6e4879e00.mp4"
+    ]
+  },
+  {
+    "source": "D:/图片/消失消失了/视频节点 1 (5).mp4",
+    "source_sha256": "fe5f965a854b9817722358af15aae253a2c749bf833f5f924e89abbd9c336e15",
+    "profile": "company_outdoor",
+    "shots": [
+      23
+    ],
+    "output": "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\company_outdoor_40f4320276.mp4",
+    "output_sha256": "5d75a82e26ab3e48d12f52cd413915e05dffb9eb267390314909c3333f7eabbb",
+    "source_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "output_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1470,
+          "height": 630,
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "start_time": "0.000000",
+          "duration": "30.041667",
+          "nb_frames": "721"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "32000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "start_time": "0.000000",
+          "duration": "30.080000",
+          "nb_frames": "941"
+        }
+      ],
+      "format": {
+        "duration": "30.080000"
+      }
+    },
+    "decode": "passed",
+    "timing_geometry": "matched",
+    "command": [
+      "ffmpeg",
+      "-hide_banner",
+      "-loglevel",
+      "error",
+      "-nostdin",
+      "-n",
+      "-threads",
+      "2",
+      "-i",
+      "D:/图片/消失消失了/视频节点 1 (5).mp4",
+      "-map",
+      "0:v:0",
+      "-map",
+      "0:a?",
+      "-map_metadata",
+      "0",
+      "-vf",
+      "setparams=range=limited:color_primaries=bt709:color_trc=bt709:colorspace=bt709,format=gbrp16le,lut3d=file=实现参数/company_outdoor.cube:interp=tetrahedral,scale=out_range=full:out_color_matrix=bt709,format=yuv444p,unsharp=5:5:-0.12:5:5:0,vignette=angle=PI/11:dither=1,noise=c0s=1:c0f=t+u:c0_seed=2709:c1s=0:c2s=0,scale=in_range=full:out_range=tv:out_color_matrix=bt709,format=yuv420p",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "fast",
+      "-crf",
+      "16",
+      "-threads",
+      "3",
+      "-fps_mode",
+      "passthrough",
+      "-c:a",
+      "copy",
+      "-color_primaries",
+      "bt709",
+      "-color_trc",
+      "bt709",
+      "-colorspace",
+      "bt709",
+      "-color_range",
+      "tv",
+      "-movflags",
+      "+faststart",
+      "D:\\图片\\小陌的工作流\\项目\\消失？消失了！_v1\\assets\\视频\\剪辑成片\\调色试验\\20260909_v02\\调色派生素材\\company_outdoor_40f4320276.mp4"
+    ]
+  }
+]

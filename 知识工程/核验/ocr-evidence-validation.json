@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-07-06T12:45:49+00:00",
+  "status": "pass",
+  "errors": [],
+  "counts": {
+    "books": 4,
+    "sample_pages": 48,
+    "rapid_full_pages": 48,
+    "ground_truth_targets": 4
+  },
+  "cer_summary": {
+    "paddleocr": {
+      "targets": 4,
+      "weighted_cer": 0.013228,
+      "passes_2_percent": true
+    },
+    "rapidocr": {
+      "targets": 4,
+      "weighted_cer": 0.02381,
+      "passes_2_percent": false
+    }
+  }
+}

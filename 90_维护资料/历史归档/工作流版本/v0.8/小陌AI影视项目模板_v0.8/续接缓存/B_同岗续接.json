@@ -1,0 +1,29 @@
+{
+  "schema": "xiaomo.same-role-resume/v1",
+  "role": "B",
+  "revision": 0,
+  "updated_at_utc": "",
+  "source_task": {"task_id": ""},
+  "gate": {
+    "a_task": {
+      "task_id": "",
+      "target_role": "",
+      "stage_envelope": "",
+      "permission_boundary": "",
+      "source": {"path": "A_总控.md", "hash_mode": "markdown_h2", "section": "当前任务", "sha256": ""}
+    }
+  },
+  "cursor": {},
+  "adopted": {},
+  "pending": {},
+  "authority": {
+    "cache_is_authority": false,
+    "resume_validation_grants_write": false,
+    "observed": []
+  },
+  "read_sets": {"required": [], "optional": [], "skip": []},
+  "next_step": "",
+  "drafts": {},
+  "lease": null,
+  "handoff": null
+}

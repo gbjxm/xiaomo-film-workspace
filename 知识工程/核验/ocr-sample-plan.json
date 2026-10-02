@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-06T08:53:42+00:00",
+  "sample_count_per_book": 12,
+  "book_count": 4,
+  "books": [
+    {
+      "file_id": "STC01-PDF-01",
+      "work_id": "STC-01",
+      "source_relative_path": "01_救猫咪_布莱克·斯奈德/01_救猫咪_电影编剧宝典/救猫咪 1 电影编剧宝典_布莱克·斯奈德.pdf",
+      "page_count": 148,
+      "dpi": 180,
+      "samples": [
+        {
+          "pdf_page": 1,
+          "category": "封面或书名页",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC01-PDF-01\\p0001.png"
+        },
+        {
+          "pdf_page": 2,
+          "category": "前置页",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC01-PDF-01\\p0002.png"
+        },
+        {
+          "pdf_page": 4,
+          "category": "版权或前言候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC01-PDF-01\\p0004.png"
+        },
+        {
+          "pdf_page": 6,
+          "category": "目录或章节标题候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC01-PDF-01\\p0006.png"
+        },
+        {
+          "pdf_page": 8,
+          "category": "目录或章节标题候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC01-PDF-01\\p0008.png"
+        },
+        {
+          "pdf_page": 12,
+          "category": "前部正文候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC01-PDF-01\\p0012.png"
+        },
+        {
+          "pdf_page": 22,
+          "category": "前部正文",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC01-PDF-01\\p0022.png"
+        },
+        {
+          "pdf_page": 44,
+          "category": "普通正文与CER候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC01-PDF-01\\p0044.png"
+        },
+        {
+          "pdf_page": 67,
+          "category": "中部正文",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC01-PDF-01\\p0067.png"
+        },
+        {
+          "pdf_page": 89,
+          "category": "密集正文候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC01-PDF-01\\p0089.png"
+        },
+        {
+          "pdf_page": 115,
+          "category": "后部特殊排版候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC01-PDF-01\\p0115.png"
+        },
+        {
+          "pdf_page": 136,
+          "category": "后部正文",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC01-PDF-01\\p0136.png"
+        }
+      ],
+      "cer_target": {
+        "pdf_page": 44,
+        "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC01-PDF-01\\p0044_cer_crop.png",
+        "crop_box": {
+          "left": 56,
+          "top": 597,
+          "right": 1344,
+          "bottom": 796
+        },
+        "ground_truth_status": "pending_manual_transcription"
+      },
+      "contact_sheet": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC01-PDF-01\\contact-sheet.png",
+      "source_sha256": "317e32a19f0d45057fa722826875d408e34c8477a1cb2d40486e4ee465020051"
+    },
+    {
+      "file_id": "STC02-PDF-01",
+      "work_id": "STC-02",
+      "source_relative_path": "01_救猫咪_布莱克·斯奈德/02_救猫咪2_经典电影剧本探秘/救猫咪  2  经典电影剧本探秘(pdfzj.cn).pdf",
+      "page_count": 273,
+      "dpi": 180,
+      "samples": [
+        {
+          "pdf_page": 1,
+          "category": "封面或书名页",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC02-PDF-01\\p0001.png"
+        },
+        {
+          "pdf_page": 2,
+          "category": "前置页",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC02-PDF-01\\p0002.png"
+        },
+        {
+          "pdf_page": 4,
+          "category": "版权或前言候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC02-PDF-01\\p0004.png"
+        },
+        {
+          "pdf_page": 6,
+          "category": "目录或章节标题候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC02-PDF-01\\p0006.png"
+        },
+        {
+          "pdf_page": 8,
+          "category": "目录或章节标题候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC02-PDF-01\\p0008.png"
+        },
+        {
+          "pdf_page": 12,
+          "category": "前部正文候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC02-PDF-01\\p0012.png"
+        },
+        {
+          "pdf_page": 41,
+          "category": "前部正文",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC02-PDF-01\\p0041.png"
+        },
+        {
+          "pdf_page": 82,
+          "category": "普通正文与CER候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC02-PDF-01\\p0082.png"
+        },
+        {
+          "pdf_page": 123,
+          "category": "中部正文",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC02-PDF-01\\p0123.png"
+        },
+        {
+          "pdf_page": 164,
+          "category": "密集正文候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC02-PDF-01\\p0164.png"
+        },
+        {
+          "pdf_page": 213,
+          "category": "后部特殊排版候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC02-PDF-01\\p0213.png"
+        },
+        {
+          "pdf_page": 251,
+          "category": "后部正文",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC02-PDF-01\\p0251.png"
+        }
+      ],
+      "cer_target": {
+        "pdf_page": 82,
+        "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC02-PDF-01\\p0082_cer_crop.png",
+        "crop_box": {
+          "left": 74,
+          "top": 747,
+          "right": 1768,
+          "bottom": 996
+        },
+        "ground_truth_status": "pending_manual_transcription"
+      },
+      "contact_sheet": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC02-PDF-01\\contact-sheet.png",
+      "source_sha256": "22a751880aca97aecc3df19b3971fd4682511a6d1159e2f35446533e747a8e8c"
+    },
+    {
+      "file_id": "STC03-PDF-01",
+      "work_id": "STC-03",
+      "source_relative_path": "01_救猫咪_布莱克·斯奈德/03_救猫咪3_反击战/救猫咪 3 反击战！.pdf",
+      "page_count": 190,
+      "dpi": 180,
+      "samples": [
+        {
+          "pdf_page": 1,
+          "category": "封面或书名页",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC03-PDF-01\\p0001.png"
+        },
+        {
+          "pdf_page": 2,
+          "category": "前置页",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC03-PDF-01\\p0002.png"
+        },
+        {
+          "pdf_page": 4,
+          "category": "版权或前言候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC03-PDF-01\\p0004.png"
+        },
+        {
+          "pdf_page": 6,
+          "category": "目录或章节标题候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC03-PDF-01\\p0006.png"
+        },
+        {
+          "pdf_page": 8,
+          "category": "目录或章节标题候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC03-PDF-01\\p0008.png"
+        },
+        {
+          "pdf_page": 12,
+          "category": "前部正文候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC03-PDF-01\\p0012.png"
+        },
+        {
+          "pdf_page": 28,
+          "category": "前部正文",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC03-PDF-01\\p0028.png"
+        },
+        {
+          "pdf_page": 57,
+          "category": "普通正文与CER候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC03-PDF-01\\p0057.png"
+        },
+        {
+          "pdf_page": 86,
+          "category": "中部正文",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC03-PDF-01\\p0086.png"
+        },
+        {
+          "pdf_page": 114,
+          "category": "密集正文候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC03-PDF-01\\p0114.png"
+        },
+        {
+          "pdf_page": 148,
+          "category": "后部特殊排版候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC03-PDF-01\\p0148.png"
+        },
+        {
+          "pdf_page": 175,
+          "category": "后部正文",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC03-PDF-01\\p0175.png"
+        }
+      ],
+      "cer_target": {
+        "pdf_page": 57,
+        "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC03-PDF-01\\p0057_cer_crop.png",
+        "crop_box": {
+          "left": 47,
+          "top": 449,
+          "right": 1131,
+          "bottom": 598
+        },
+        "ground_truth_status": "pending_manual_transcription"
+      },
+      "contact_sheet": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\STC03-PDF-01\\contact-sheet.png",
+      "source_sha256": "81c2db6774623cfd93db57d2882ed7f869d801a15ffea6643ecb9331c64db9ab"
+    },
+    {
+      "file_id": "EGR-PDF-01",
+      "work_id": "EGR-ART",
+      "source_relative_path": "02_戏剧写作的艺术_拉约什·埃格里/编剧的艺术（美）拉约什·埃格里.pdf",
+      "page_count": 260,
+      "dpi": 180,
+      "samples": [
+        {
+          "pdf_page": 1,
+          "category": "封面或书名页",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\EGR-PDF-01\\p0001.png"
+        },
+        {
+          "pdf_page": 2,
+          "category": "前置页",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\EGR-PDF-01\\p0002.png"
+        },
+        {
+          "pdf_page": 4,
+          "category": "版权或前言候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\EGR-PDF-01\\p0004.png"
+        },
+        {
+          "pdf_page": 6,
+          "category": "目录或章节标题候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\EGR-PDF-01\\p0006.png"
+        },
+        {
+          "pdf_page": 8,
+          "category": "目录或章节标题候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\EGR-PDF-01\\p0008.png"
+        },
+        {
+          "pdf_page": 12,
+          "category": "前部正文候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\EGR-PDF-01\\p0012.png"
+        },
+        {
+          "pdf_page": 39,
+          "category": "前部正文",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\EGR-PDF-01\\p0039.png"
+        },
+        {
+          "pdf_page": 78,
+          "category": "普通正文与CER候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\EGR-PDF-01\\p0078.png"
+        },
+        {
+          "pdf_page": 117,
+          "category": "中部正文",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\EGR-PDF-01\\p0117.png"
+        },
+        {
+          "pdf_page": 156,
+          "category": "密集正文候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\EGR-PDF-01\\p0156.png"
+        },
+        {
+          "pdf_page": 203,
+          "category": "后部特殊排版候选",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\EGR-PDF-01\\p0203.png"
+        },
+        {
+          "pdf_page": 239,
+          "category": "后部正文",
+          "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\EGR-PDF-01\\p0239.png"
+        }
+      ],
+      "cer_target": {
+        "pdf_page": 78,
+        "image_path": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\EGR-PDF-01\\p0078_cer_crop.png",
+        "crop_box": {
+          "left": 48,
+          "top": 460,
+          "right": 1152,
+          "bottom": 613
+        },
+        "ground_truth_status": "pending_manual_transcription"
+      },
+      "contact_sheet": "D:\\图片\\小陌的工作流\\知识工程\\OCR\\样本\\EGR-PDF-01\\contact-sheet.png",
+      "source_sha256": "91c487ffe3d3b360a5e6d6bc19114e5c75f454891ebe72b4e8edb066996e0f6b"
+    }
+  ]
+}

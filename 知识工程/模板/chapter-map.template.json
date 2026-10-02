@@ -1,0 +1,25 @@
+{
+  "work_id": "STC-01",
+  "edition_ids": ["STC-01-ZH-SCAN"],
+  "coverage_mode": "complete_map_selective_cards",
+  "sections": [
+    {
+      "section_id": "STC-01-S000",
+      "title": "待填写",
+      "source_range": [],
+      "processing_status": "pending",
+      "main_topic": "",
+      "argument_progression": "",
+      "examples": [],
+      "actionability": {
+        "can_generate": false,
+        "can_question": false,
+        "can_diagnose": false,
+        "can_revise": false,
+        "can_stop_revision": false
+      },
+      "exclusion_reason": ""
+    }
+  ]
+}
+

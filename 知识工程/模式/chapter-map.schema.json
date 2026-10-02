@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Book chapter and argument map",
+  "type": "object",
+  "required": ["work_id", "edition_ids", "coverage_mode", "sections"],
+  "properties": {
+    "work_id": {"type": "string"},
+    "edition_ids": {"type": "array", "minItems": 1},
+    "coverage_mode": {"const": "complete_map_selective_cards"},
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["section_id", "title", "source_range", "processing_status", "main_topic", "argument_progression", "examples", "actionability", "exclusion_reason"],
+        "properties": {
+          "processing_status": {"enum": ["pending", "mapped", "carded", "excluded_with_reason", "unreadable"]}
+        }
+      }
+    }
+  }
+}

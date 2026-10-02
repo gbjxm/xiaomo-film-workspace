@@ -1,0 +1,2269 @@
+[
+  {
+    "number": 1,
+    "track_index": 1,
+    "segment": {
+      "id": "49901328-E5C4-40e1-9F46-E4C236615446",
+      "source_timerange": {
+        "duration": 4100000
+      },
+      "target_timerange": {
+        "duration": 4100000
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "AFF6ED89-4E99-4727-9AC6-C159A0BBEAB7",
+      "extra_material_refs": [
+        "8B444229-F768-4a2e-8909-83AF4346D5EB",
+        "124347E4-5A87-4217-A294-D8230668B9E7",
+        "370D0157-3799-4f3b-9DAC-06FAE804EB5E",
+        "FBDCC7B4-D581-4933-A10D-428E800C6A10",
+        "85B15F3B-C46F-47af-8E61-CA1956AFAFF4",
+        "387D73AF-89D6-4447-B717-07E063EDFB06"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "AFF6ED89-4E99-4727-9AC6-C159A0BBEAB7",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1 (2).mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1 (2).mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "3bb6d9f5-6dfb-43fc-ac6b-d9fe787bdb61",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 2.05,
+    "stats": {
+      "rgb_mean": [
+        0.4521400034427643,
+        0.41391998529434204,
+        0.3936600089073181
+      ],
+      "luma_percentiles": [
+        0.03362,
+        0.0958,
+        0.4386,
+        0.73486,
+        0.95232
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.002509448223733938
+    }
+  },
+  {
+    "number": 2,
+    "track_index": 1,
+    "segment": {
+      "id": "5BB19544-367F-48c2-985F-D3B6585765D8",
+      "source_timerange": {
+        "start": 4100000,
+        "duration": 3799999
+      },
+      "target_timerange": {
+        "start": 4100000,
+        "duration": 3166666
+      },
+      "render_timerange": {},
+      "speed": 1.2000000000000002,
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "5C8463C7-1C48-441c-A8F2-66DE59A13F80",
+      "extra_material_refs": [
+        "6A4991A1-A88C-40c9-8535-80C5B62BC78F",
+        "405EE04F-C2FD-4d18-95A4-CAEAB919AD4E",
+        "0555D354-449D-4ea6-9D5A-2E88D1A76D0F",
+        "A69F8D28-D87C-442a-9B78-19A8AE0812B6",
+        "E34E41EB-0DAF-45ae-88B9-F403BA5A4713",
+        "024839EE-C70A-4808-B138-5AD5F3E9E535"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "5C8463C7-1C48-441c-A8F2-66DE59A13F80",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1 (2).mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1 (2).mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "3bb6d9f5-6dfb-43fc-ac6b-d9fe787bdb61",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 5.9999995,
+    "stats": {
+      "rgb_mean": [
+        0.5127000212669373,
+        0.49125000834465027,
+        0.47953000664711
+      ],
+      "luma_percentiles": [
+        0.05045,
+        0.12496,
+        0.50908,
+        0.88864,
+        0.96327
+      ],
+      "near_white_fraction": 0.0007904114026563006,
+      "near_black_fraction": 0.00015980995572832308
+    }
+  },
+  {
+    "number": 3,
+    "track_index": 1,
+    "segment": {
+      "id": "8785B176-007C-49a0-AE4C-B462C79B80D0",
+      "source_timerange": {
+        "start": 7266666,
+        "duration": 7553333
+      },
+      "target_timerange": {
+        "start": 7266666,
+        "duration": 4966667
+      },
+      "render_timerange": {},
+      "speed": 1.52080550614839,
+      "clip": {
+        "scale": {
+          "x": 1.420429096972235,
+          "y": 1.420429096972235
+        },
+        "transform": {
+          "x": 0.4204290969722351,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "C8A5908D-8AD8-4d44-9A6F-1D550576BEDD",
+      "extra_material_refs": [
+        "1876786B-BDFD-49b8-88B4-DB3EC81749C1",
+        "14541E22-521A-4512-9D05-D5B3FCE6A17E",
+        "5B36927A-2DEB-40b5-AD71-D7E753BB9698",
+        "095A05B8-312A-4645-A447-CEB73931FC8D",
+        "60397498-D698-4d32-8B86-A59DD99796A8",
+        "9C7CC942-8F1F-4d32-93F6-423109BD8D52",
+        "B49BDDD4-A6E3-472c-BC01-B38D5AE53F81"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "group_id": "692A89D4-7447-4f52-9353-C0BB5287D81E",
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "C8A5908D-8AD8-4d44-9A6F-1D550576BEDD",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1 (3).mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1 (3).mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "81b69126-8d29-4d7f-89b8-0409c979cdc5",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 11.0433325,
+    "stats": {
+      "rgb_mean": [
+        0.4564799964427948,
+        0.3639400005340576,
+        0.30133000016212463
+      ],
+      "luma_percentiles": [
+        0.03439,
+        0.07586,
+        0.3297,
+        0.85113,
+        0.97335
+      ],
+      "near_white_fraction": 0.0014901198574667962,
+      "near_black_fraction": 0.000021595939963286902
+    }
+  },
+  {
+    "number": 4,
+    "track_index": 1,
+    "segment": {
+      "id": "51AACB8C-1922-442c-B8B9-F685F27560F0",
+      "source_timerange": {
+        "start": 14833333,
+        "duration": 700000
+      },
+      "target_timerange": {
+        "start": 12233333,
+        "duration": 466667
+      },
+      "render_timerange": {},
+      "speed": 1.5000000000000004,
+      "clip": {
+        "scale": {
+          "x": 1.420429096972235,
+          "y": 1.420429096972235
+        },
+        "transform": {
+          "x": 0.4204290969722351,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "371DB2E1-50B1-4758-80B4-8570692D1C74",
+      "extra_material_refs": [
+        "F557E7BC-D9FF-46d9-8CAB-043FC0B26A04",
+        "31BFAC82-6C92-432c-BCC8-49A840EE8DDA",
+        "F841E695-DE1D-4f7a-B20E-C7FC414C6ED6",
+        "427655AA-9C1C-45c8-8AC4-388B18686452",
+        "ADFA45F1-CC25-4b5f-BC1B-4FB3A99073F8",
+        "A6D55F85-278F-4d74-A47D-71A22DB37BF2",
+        "02F897DB-FF7B-4461-8B2F-D55D763B5594"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "group_id": "692A89D4-7447-4f52-9353-C0BB5287D81E",
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "371DB2E1-50B1-4758-80B4-8570692D1C74",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1 (3).mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1 (3).mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "81b69126-8d29-4d7f-89b8-0409c979cdc5",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 15.183333,
+    "stats": {
+      "rgb_mean": [
+        0.25764000415802,
+        0.2373100072145462,
+        0.24225999414920807
+      ],
+      "luma_percentiles": [
+        0.00057,
+        0.02521,
+        0.23629,
+        0.5433,
+        0.78139
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.03189720332577475
+    }
+  },
+  {
+    "number": 5,
+    "track_index": 1,
+    "segment": {
+      "id": "914A053F-3317-41e7-97F2-27C8C4E738F8",
+      "source_timerange": {
+        "start": 15000000,
+        "duration": 100000
+      },
+      "target_timerange": {
+        "start": 12700000,
+        "duration": 100000
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "33B6E1CB-B3BF-4fd4-8821-741FEB1B3D15",
+      "extra_material_refs": [
+        "C2E724A1-EC60-406a-B062-209A96A4F6B9",
+        "0E2E150D-BCEB-4a97-B62A-33EFA04C3804",
+        "996AEADA-7D83-4492-8744-043F3A7EE9C5",
+        "24D30378-946D-4b47-A301-CBCFFDE66F5E",
+        "D13FAD72-5510-4db0-976F-9B8B0D8847C3",
+        "4EEB3051-78F7-40b3-A7EB-5C5E47C74877"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "33B6E1CB-B3BF-4fd4-8821-741FEB1B3D15",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1 (4).mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1 (4).mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "882ac819-2eba-4a53-8cff-61f3e311091a",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 15.05,
+    "stats": {
+      "rgb_mean": [
+        0.05274999886751175,
+        0.045099999755620956,
+        0.03939000144600868
+      ],
+      "luma_percentiles": [
+        0,
+        0,
+        0.01176,
+        0.13525,
+        0.39541
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.4696641831335709
+    }
+  },
+  {
+    "number": 6,
+    "track_index": 1,
+    "segment": {
+      "id": "52A99BA3-7539-499b-BF44-380971722B97",
+      "source_timerange": {
+        "start": 15100000,
+        "duration": 66666
+      },
+      "target_timerange": {
+        "start": 12800000,
+        "duration": 66666
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "BB6F06E2-BF92-4594-AF6E-5DC5190E7F0B",
+      "extra_material_refs": [
+        "22E21ED6-662D-420d-AA62-2743F011B2C6",
+        "FE5FC687-F7E8-428f-8BB9-956A2D5CA514",
+        "7EEE2D4D-EBFA-49b8-B08A-119E9C686650",
+        "ED3F6657-1846-4163-A4E9-E004249F96E1",
+        "F371EBC0-E8A8-4199-9CD5-8D6C566BECD1",
+        "2BD81DFE-6C92-45a6-9FE2-B2908B2CC355"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "BB6F06E2-BF92-4594-AF6E-5DC5190E7F0B",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1 (4).mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1 (4).mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "882ac819-2eba-4a53-8cff-61f3e311091a",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 15.133333,
+    "stats": {
+      "rgb_mean": [
+        0.14173999428749084,
+        0.11868000030517578,
+        0.10146000236272812
+      ],
+      "luma_percentiles": [
+        0,
+        0,
+        0.06441,
+        0.37513,
+        0.70492
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.20653061224489797
+    }
+  },
+  {
+    "number": 7,
+    "track_index": 1,
+    "segment": {
+      "id": "EE6C3236-53B2-4099-83D4-1405F6D7FC7B",
+      "source_timerange": {
+        "start": 15166666,
+        "duration": 2966667
+      },
+      "target_timerange": {
+        "start": 12866666,
+        "duration": 3133334
+      },
+      "render_timerange": {},
+      "speed": 0.9472973296826694,
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "DBD9D94F-7279-4ea7-A231-27CC702C1826",
+      "extra_material_refs": [
+        "C044419D-21D3-4774-B6C0-D1C5E72E97D3",
+        "1A5ADF26-1FCC-4dc5-B55C-ED2F9D7F9B80",
+        "E45EB693-77DF-4b11-AB42-4FB85FD9DCF2",
+        "EF57D7A5-AE6A-4e9a-AB20-DDC5511FAD81",
+        "90B2E89E-278F-42e2-976F-AE344EF311E9",
+        "12B3CC33-6F54-43c1-9F57-988CEECF776A"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "DBD9D94F-7279-4ea7-A231-27CC702C1826",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1 (4).mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1 (4).mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "882ac819-2eba-4a53-8cff-61f3e311091a",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 16.6499995,
+    "stats": {
+      "rgb_mean": [
+        0.17765000462532043,
+        0.1485300064086914,
+        0.12941999733448029
+      ],
+      "luma_percentiles": [
+        0,
+        0.00392,
+        0.09837,
+        0.42224,
+        0.71555
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.11642803153007235
+    }
+  },
+  {
+    "number": 8,
+    "track_index": 1,
+    "segment": {
+      "id": "977EE11C-AE82-4a5f-8D02-F7597053DF83",
+      "source_timerange": {
+        "start": 18766666,
+        "duration": 1300000
+      },
+      "target_timerange": {
+        "start": 16000000,
+        "duration": 1300000
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "503E2FB7-87E2-46e4-81F7-D98226FEB8FD",
+      "extra_material_refs": [
+        "D969497B-FC2C-42de-ABD1-2050CFDE92BF",
+        "8E73A23E-67A8-408e-9DC7-D82B6B52F27F",
+        "C0E64839-C28B-4f16-8590-EB3CCC7E85DE",
+        "FFB34333-CD56-46c8-A883-E14DE8C0AC4A",
+        "9E3E39BF-9153-4445-9D7F-87A64DA9F07A",
+        "FA3CDA7A-2344-44c0-8B29-3775FF8B09D1",
+        "02F43628-966A-407c-B9B0-EF0CB7A06AE9"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "503E2FB7-87E2-46e4-81F7-D98226FEB8FD",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1 (2).mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1 (2).mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "3bb6d9f5-6dfb-43fc-ac6b-d9fe787bdb61",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 19.416666,
+    "stats": {
+      "rgb_mean": [
+        0.08626999706029892,
+        0.1091499999165535,
+        0.13443000614643097
+      ],
+      "luma_percentiles": [
+        0,
+        0,
+        0.0558,
+        0.24008,
+        0.75964
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.19448007774538387
+    }
+  },
+  {
+    "number": 9,
+    "track_index": 1,
+    "segment": {
+      "id": "B804BF11-29CD-43c9-B2FE-DCDA37ED0AE4",
+      "source_timerange": {
+        "start": 20066666,
+        "duration": 3500000
+      },
+      "target_timerange": {
+        "start": 17300000,
+        "duration": 3500000
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1.1856360409223528,
+          "y": 1.1856360409223528
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "7A69AAE6-0F0F-42ab-9DFE-A649B124265F",
+      "extra_material_refs": [
+        "F3F14B24-C967-4ac1-AEFE-7F29B188BD3D",
+        "E2955804-36A1-45dd-95AB-F97E1DFCB657",
+        "0332D677-AE4F-4a94-AB18-05871AC9A89B",
+        "1C3DDE69-8679-40aa-82EA-90254BB9BB97",
+        "10C2948B-B1CE-49dd-8E99-2AA36A7B9D29",
+        "B49400F6-3205-4387-A94B-8346154B4D19",
+        "354C2F4B-A135-4534-81EB-BEC88E8B7B12"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "7A69AAE6-0F0F-42ab-9DFE-A649B124265F",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1 (2).mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1 (2).mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "3bb6d9f5-6dfb-43fc-ac6b-d9fe787bdb61",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 21.816666,
+    "stats": {
+      "rgb_mean": [
+        0.05592000111937523,
+        0.0581899993121624,
+        0.06411000341176987
+      ],
+      "luma_percentiles": [
+        0,
+        0,
+        0.0241,
+        0.10535,
+        0.59899
+      ],
+      "near_white_fraction": 0.00000431918799265738,
+      "near_black_fraction": 0.343725299643667
+    }
+  },
+  {
+    "number": 10,
+    "track_index": 1,
+    "segment": {
+      "id": "9EB05384-96E9-46d0-9D59-BE80766E3637",
+      "source_timerange": {
+        "start": 25600000,
+        "duration": 4466666
+      },
+      "target_timerange": {
+        "start": 20800000,
+        "duration": 4466666
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "5E63940E-605B-49bd-8BAF-2D47F7C51D4F",
+      "extra_material_refs": [
+        "6F2FA2D1-C141-45a6-8C11-9935F8E0680E",
+        "EAF995AB-9E7A-4e7d-AC33-B152EF285C2A",
+        "BB5AD223-B2F2-4da2-850D-95568108C09E",
+        "E6051D4F-FF0D-441e-AA21-34177C36CE4D",
+        "563C99C0-731E-43c8-B75D-2C39411092CD",
+        "E6D4C4BD-CC74-4c31-A7C6-D5B6F9B9C751",
+        "2569C476-B310-4126-89A4-0C4CF844478E"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "5E63940E-605B-49bd-8BAF-2D47F7C51D4F",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1 (2).mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1 (2).mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "3bb6d9f5-6dfb-43fc-ac6b-d9fe787bdb61",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 27.833333,
+    "stats": {
+      "rgb_mean": [
+        0.025539999827742577,
+        0.03485000133514404,
+        0.04069000110030174
+      ],
+      "luma_percentiles": [
+        0,
+        0,
+        0.03086,
+        0.06505,
+        0.15553
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.26155706727135297
+    }
+  },
+  {
+    "number": 11,
+    "track_index": 1,
+    "segment": {
+      "id": "DDD084C0-9323-44e1-ADF6-B89067E1A944",
+      "source_timerange": {
+        "duration": 2170000
+      },
+      "target_timerange": {
+        "start": 25266666,
+        "duration": 3100000
+      },
+      "render_timerange": {},
+      "speed": 0.7000000000000001,
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "7C3017BC-D6A8-4026-9C5D-08611EE3287C",
+      "extra_material_refs": [
+        "8C390204-B0FB-4d7f-B7B2-768802E16E4E",
+        "6012ADD8-3A99-47b5-9847-BDFE73BF31EE",
+        "B63D7055-20A7-4f5b-B98A-ADA780B69045",
+        "41DC7EBF-5512-4579-A123-D1C899554BF7",
+        "F86EF257-27C3-45fe-B48F-81867DC7D1FB",
+        "9EA08049-48CC-45d2-8595-442C24C88C6C",
+        "28D939D7-CC40-436c-97E7-D5BA2B329E7D"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "7C3017BC-D6A8-4026-9C5D-08611EE3287C",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1 (1).mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1 (1).mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "1cbdd0ff-61b6-42d9-be04-c61fcc1aa3fb",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 1.085,
+    "stats": {
+      "rgb_mean": [
+        0.5074399709701538,
+        0.4583500027656555,
+        0.3968299925327301
+      ],
+      "luma_percentiles": [
+        0.05457,
+        0.1198,
+        0.46542,
+        0.76462,
+        0.98039
+      ],
+      "near_white_fraction": 0.012469495734801857,
+      "near_black_fraction": 0.000012957563977972142
+    }
+  },
+  {
+    "number": 12,
+    "track_index": 1,
+    "segment": {
+      "id": "006B7302-3287-4122-870D-B8EF32A9FAD5",
+      "source_timerange": {
+        "start": 1766666,
+        "duration": 3300000
+      },
+      "target_timerange": {
+        "start": 28366666,
+        "duration": 3300000
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "207539F0-95C6-41f6-BE98-CC6FB98B8D2C",
+      "extra_material_refs": [
+        "B3A76144-801E-4c01-B3BA-5338D9CD9EAC",
+        "08527D4A-05B6-4e3e-AABE-340908702F10",
+        "4EAED97B-8FB1-4755-BA55-237A9A88F778",
+        "6AC240EE-045D-4eeb-B884-D1E9A4913D02",
+        "F15534B1-B3BB-40b5-BF81-1325122D1116",
+        "07343C56-1F26-4239-ADBC-58FFAF726B09"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "207539F0-95C6-41f6-BE98-CC6FB98B8D2C",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1.mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1.mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "45a67cb3-2ed2-4a1b-a60b-9fa86a2be87d",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 3.416666,
+    "stats": {
+      "rgb_mean": [
+        0.4438000023365021,
+        0.35872000455856323,
+        0.2868799865245819
+      ],
+      "luma_percentiles": [
+        0.01707,
+        0.09011,
+        0.37742,
+        0.57313,
+        0.92454
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.002829068135190584
+    }
+  },
+  {
+    "number": 13,
+    "track_index": 1,
+    "segment": {
+      "id": "31F501A7-A33A-49c5-BD8A-4F33C24FEF94",
+      "source_timerange": {
+        "start": 5400000,
+        "duration": 1900000
+      },
+      "target_timerange": {
+        "start": 31666666,
+        "duration": 1900000
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "B2ACB1D8-AEE2-4ed1-9FEA-7B6799CA2E5F",
+      "extra_material_refs": [
+        "B78E3606-CD73-495c-B2FC-7C7F7459C503",
+        "D6C21909-B056-45d0-AE5E-BAEFFEB7D828",
+        "D8943826-B135-447c-B214-AD422B270B9F",
+        "E6D8105B-9BA9-4c78-95CB-88B4FCAD0771",
+        "9F292CDB-099F-494d-9350-45E8169C52EE",
+        "62E7E0C4-88E6-4412-BEAF-474F1A1E015C"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "B2ACB1D8-AEE2-4ed1-9FEA-7B6799CA2E5F",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1 (1).mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1 (1).mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "1cbdd0ff-61b6-42d9-be04-c61fcc1aa3fb",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 6.35,
+    "stats": {
+      "rgb_mean": [
+        0.458840012550354,
+        0.40602999925613403,
+        0.360370010137558
+      ],
+      "luma_percentiles": [
+        0.00645,
+        0.12852,
+        0.42391,
+        0.70913,
+        0.92998
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.01381708238851096
+    }
+  },
+  {
+    "number": 14,
+    "track_index": 1,
+    "segment": {
+      "id": "42B074CE-44DE-470b-92E2-42E5633B1DB1",
+      "source_timerange": {
+        "start": 7300000,
+        "duration": 1833333
+      },
+      "target_timerange": {
+        "start": 33566666,
+        "duration": 1833334
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "37E1549B-B1AF-4576-BA20-EAEEB8A3B77E",
+      "extra_material_refs": [
+        "F242C650-B398-4451-93AC-9521B68AF160",
+        "B40770B0-35F6-4982-BBBF-7333382F60F0",
+        "8C7267F2-22D4-4f09-9018-D6E9710412B4",
+        "F6B336FB-05F4-4223-BBC7-81797772B824",
+        "2736C11B-9FC5-4bed-850E-C4B0D2F5E865",
+        "C94C383E-3D00-4b61-965C-346DCA4E184D"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "37E1549B-B1AF-4576-BA20-EAEEB8A3B77E",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1 (1).mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1 (1).mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "1cbdd0ff-61b6-42d9-be04-c61fcc1aa3fb",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 8.2166665,
+    "stats": {
+      "rgb_mean": [
+        0.4477800130844116,
+        0.38304999470710754,
+        0.33298999071121216
+      ],
+      "luma_percentiles": [
+        0.01569,
+        0.14935,
+        0.4166,
+        0.58623,
+        0.83324
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.005364431486880467
+    }
+  },
+  {
+    "number": 15,
+    "track_index": 1,
+    "segment": {
+      "id": "3325B37B-990A-4cca-A98B-C8F805ADC8B3",
+      "source_timerange": {
+        "start": 8966666,
+        "duration": 6033334
+      },
+      "target_timerange": {
+        "start": 35400000,
+        "duration": 6033333
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "15099604-7225-4a19-8C56-941A21F96900",
+      "extra_material_refs": [
+        "DAB2C6C9-41F6-48a9-845B-B00DFBDFF582",
+        "520BBE6E-AF70-46da-9E6E-1BCA1B80E5DC",
+        "62739841-59A0-463e-9C9E-8CB26B3E9623",
+        "3243A470-ADD4-4086-BB27-8FE393535D3A",
+        "53959F9F-43A4-4da9-A151-9A3144E7D596",
+        "8CDC38E6-E34E-4c1b-BF8C-5E570DAC7188"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "15099604-7225-4a19-8C56-941A21F96900",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1.mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1.mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "45a67cb3-2ed2-4a1b-a60b-9fa86a2be87d",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 11.983333,
+    "stats": {
+      "rgb_mean": [
+        0.44756999611854553,
+        0.383870005607605,
+        0.3305700123310089
+      ],
+      "luma_percentiles": [
+        0.04939,
+        0.15901,
+        0.42122,
+        0.57064,
+        0.88756
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.0027556419393154085
+    }
+  },
+  {
+    "number": 16,
+    "track_index": 1,
+    "segment": {
+      "id": "0338D246-7BE3-4b18-A6D3-74C928B89689",
+      "source_timerange": {
+        "start": 15000000,
+        "duration": 1000000
+      },
+      "target_timerange": {
+        "start": 41433333,
+        "duration": 1000000
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "B6FB9D16-EE2C-469a-B3D4-AC7EC78718E0",
+      "extra_material_refs": [
+        "AD9FD4FA-767C-42ee-AA24-DABEE917B2E0",
+        "4F90B257-4E2B-40dc-80C6-FB14CEA86720",
+        "8ED1BFFB-18BE-4a11-B2A0-803EAA96FDDC",
+        "2B55F298-47C9-4c82-9368-2D2EC15DBA10",
+        "7E675765-D760-459b-8D53-29315282C2A7",
+        "050AD8D6-8B9F-46e6-916C-0C31D8D9A1B6"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "B6FB9D16-EE2C-469a-B3D4-AC7EC78718E0",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1.mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1.mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "45a67cb3-2ed2-4a1b-a60b-9fa86a2be87d",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 15.5,
+    "stats": {
+      "rgb_mean": [
+        0.3752500116825104,
+        0.3016499876976013,
+        0.2522200047969818
+      ],
+      "luma_percentiles": [
+        0.03583,
+        0.09703,
+        0.29498,
+        0.57308,
+        0.63808
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.0008724759745167909
+    }
+  },
+  {
+    "number": 17,
+    "track_index": 1,
+    "segment": {
+      "id": "242E82C0-D200-4d2e-A9E5-52B6EB9B4281",
+      "source_timerange": {
+        "start": 16000000,
+        "duration": 1966666
+      },
+      "target_timerange": {
+        "start": 42433333,
+        "duration": 1966667
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "69C5D146-7395-4d3b-9FA7-2307510C763C",
+      "extra_material_refs": [
+        "2C59AD2D-B5A3-4eef-B8B8-E7DC8337DE5B",
+        "B1B62777-6EF6-407a-BD18-A8D6DE9285F4",
+        "DF02CDDC-7FFB-4d64-BD16-A7B3D7EE8C57",
+        "BAD4159B-DC4E-42fd-ACA2-4AF2B1036496",
+        "6AE30458-8357-48ea-92D8-05D80019D6F8",
+        "C15E912B-2540-4ccd-83C0-244377187946"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "69C5D146-7395-4d3b-9FA7-2307510C763C",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1.mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1.mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "45a67cb3-2ed2-4a1b-a60b-9fa86a2be87d",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 16.983333,
+    "stats": {
+      "rgb_mean": [
+        0.45083001255989075,
+        0.38923999667167664,
+        0.3384599983692169
+      ],
+      "luma_percentiles": [
+        0.03914,
+        0.15653,
+        0.42368,
+        0.57829,
+        0.88594
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.0037836086815678655
+    }
+  },
+  {
+    "number": 18,
+    "track_index": 1,
+    "segment": {
+      "id": "089F7216-4C39-436a-A2D8-4B5C31C064C1",
+      "source_timerange": {
+        "start": 17966666,
+        "duration": 1866667
+      },
+      "target_timerange": {
+        "start": 44400000,
+        "duration": 1866666
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {
+          "horizontal": true
+        }
+      },
+      "uniform_scale": {},
+      "material_id": "B717DC78-08E1-4269-9BAC-1A37B1510A9C",
+      "extra_material_refs": [
+        "B552768D-A0A4-404f-9F57-DC2EDC6A494F",
+        "5A7D62F0-0F76-451a-9B12-DB9BE74D7142",
+        "A6ACBF58-825A-4e27-B6A7-47DF7CE15EC7",
+        "4904BBC9-761B-4159-9C99-28C6FEC1661A",
+        "8E46FF31-CF52-48b1-83FE-B0D782FFD203",
+        "E6A8EAA9-C404-48d9-9925-AD4FA1EBB61B"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "B717DC78-08E1-4269-9BAC-1A37B1510A9C",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1 (1).mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1 (1).mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "1cbdd0ff-61b6-42d9-be04-c61fcc1aa3fb",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 18.8999995,
+    "stats": {
+      "rgb_mean": [
+        0.17199000716209412,
+        0.147039994597435,
+        0.12476000189781189
+      ],
+      "luma_percentiles": [
+        0.00784,
+        0.02266,
+        0.06379,
+        0.43194,
+        0.60694
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.027120181405895692
+    }
+  },
+  {
+    "number": 19,
+    "track_index": 1,
+    "segment": {
+      "id": "8CE0EBE5-32DD-4dfc-86C7-1C5F7E70CFB9",
+      "source_timerange": {
+        "start": 19833333,
+        "duration": 2800000
+      },
+      "target_timerange": {
+        "start": 46266666,
+        "duration": 2800000
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "7659A4EB-1A15-41e5-B3AE-4ED6AD85B7D4",
+      "extra_material_refs": [
+        "2D1A8992-87D2-4b34-BF6A-EC504E78D653",
+        "E59AF608-15C5-407c-AC23-CE9D297B0B4E",
+        "3FE63563-18DF-4321-8570-12FECDF923B6",
+        "AEB0DDD2-3070-4175-8ECD-502EDAE4FF45",
+        "F643A63E-4B61-4468-AD4B-A0BEAD567145",
+        "B29DD8C2-02A4-4688-974A-7E637260F2D6"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "7659A4EB-1A15-41e5-B3AE-4ED6AD85B7D4",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1 (1).mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1 (1).mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "1cbdd0ff-61b6-42d9-be04-c61fcc1aa3fb",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 21.233333,
+    "stats": {
+      "rgb_mean": [
+        0.27932000160217285,
+        0.2546299993991852,
+        0.24821999669075012
+      ],
+      "luma_percentiles": [
+        0.01066,
+        0.05041,
+        0.19976,
+        0.54523,
+        0.80298
+      ],
+      "near_white_fraction": 0.00008206457186049023,
+      "near_black_fraction": 0.009325126876147284
+    }
+  },
+  {
+    "number": 20,
+    "track_index": 1,
+    "segment": {
+      "id": "602E178D-F17C-40c9-BF70-E6D4E8E55357",
+      "source_timerange": {
+        "start": 23100000,
+        "duration": 1700000
+      },
+      "target_timerange": {
+        "start": 49066666,
+        "duration": 1700000
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "E9840A15-326B-4a2b-97A5-4300DB5B26D0",
+      "extra_material_refs": [
+        "82E31E7B-EC03-432e-B72B-8465EED5F574",
+        "FCA587BE-7954-438c-B9F4-04AD4079C769",
+        "D048F5FA-E115-4127-9403-9AE0CA04C9D1",
+        "C65DEF60-7B98-4899-9726-FE2833970E04",
+        "E57F5DD0-14C7-4318-A6A9-8ED109C4317C",
+        "1C85E922-654B-46de-8410-16195B25C6F5"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "E9840A15-326B-4a2b-97A5-4300DB5B26D0",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1.mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1.mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "45a67cb3-2ed2-4a1b-a60b-9fa86a2be87d",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 23.95,
+    "stats": {
+      "rgb_mean": [
+        0.3113900125026703,
+        0.2913599908351898,
+        0.27298998832702637
+      ],
+      "luma_percentiles": [
+        0.00674,
+        0.03194,
+        0.27658,
+        0.58193,
+        0.89403
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.017233560090702947
+    }
+  },
+  {
+    "number": 21,
+    "track_index": 1,
+    "segment": {
+      "id": "9486BAE9-A080-4892-A630-E8159ADBE29F",
+      "source_timerange": {
+        "start": 24800000,
+        "duration": 3000000
+      },
+      "target_timerange": {
+        "start": 50766666,
+        "duration": 3000000
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "570B5112-212A-4f26-882C-7D162F8F013C",
+      "extra_material_refs": [
+        "54B3027E-4F87-4a46-AED2-ECA1D67795CE",
+        "2577E5C4-317E-4a93-BC9A-361FE6AC4575",
+        "4228413B-009F-4468-8F82-3B20D3886971",
+        "316AE8F6-6177-4fbc-9BEC-D20D038CA4E1",
+        "1CFF14B4-8273-4ce0-993A-16DC3030BF3F",
+        "C7B43CF3-6E6F-41c4-9F93-EAA868A96ADE"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "570B5112-212A-4f26-882C-7D162F8F013C",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1.mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1.mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "45a67cb3-2ed2-4a1b-a60b-9fa86a2be87d",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 26.3,
+    "stats": {
+      "rgb_mean": [
+        0.4183900058269501,
+        0.4273099899291992,
+        0.39381998777389526
+      ],
+      "luma_percentiles": [
+        0.08202,
+        0.19109,
+        0.4144,
+        0.65302,
+        0.90019
+      ],
+      "near_white_fraction": 0.00021595939963286903,
+      "near_black_fraction": 0
+    }
+  },
+  {
+    "number": 22,
+    "track_index": 1,
+    "segment": {
+      "id": "14461B9E-24F0-46c2-8E98-D60F1ED656DF",
+      "source_timerange": {
+        "start": 27800000,
+        "duration": 2266666
+      },
+      "target_timerange": {
+        "start": 53766666,
+        "duration": 3000000
+      },
+      "render_timerange": {},
+      "speed": 0.7592261488930809,
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "8F4A5417-4DD1-4d6c-BFD8-EA8D0C83691A",
+      "extra_material_refs": [
+        "00FD1D47-CEFC-4940-A954-40DC57534368",
+        "010E3BF8-BDFA-4418-97A0-D6E59C729834",
+        "AF87D9EF-8CFE-48e6-B332-8374CC0B9F05",
+        "97D6306A-7842-4806-A34B-DB81D9F04C8B",
+        "9EAB8C65-6E81-47e6-9BA2-DF2618CC6C75",
+        "D448B468-9D65-436c-B895-D125F06875B3"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "8F4A5417-4DD1-4d6c-BFD8-EA8D0C83691A",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1.mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1.mp4",
+      "crop": {},
+      "extra_type_option": 9,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "45a67cb3-2ed2-4a1b-a60b-9fa86a2be87d",
+      "has_sound_separated": true,
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 28.933333,
+    "stats": {
+      "rgb_mean": [
+        0.45076999068260193,
+        0.44359999895095825,
+        0.39642998576164246
+      ],
+      "luma_percentiles": [
+        0.01851,
+        0.25265,
+        0.43184,
+        0.66923,
+        0.80687
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.004146420472951085
+    }
+  },
+  {
+    "number": 23,
+    "track_index": 1,
+    "segment": {
+      "id": "9C999CAA-6E8E-44b1-A955-F9B5EEF537DB",
+      "source_timerange": {
+        "duration": 3233334
+      },
+      "target_timerange": {
+        "start": 56766666,
+        "duration": 3233334
+      },
+      "render_timerange": {},
+      "clip": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "transform": {
+          "x": 0,
+          "y": 0
+        },
+        "flip": {}
+      },
+      "uniform_scale": {},
+      "material_id": "7DD28F40-8B79-4671-A832-D3582022CD69",
+      "extra_material_refs": [
+        "4948B412-D5FF-4146-A18A-2A7576E3B1D7",
+        "BA52EC93-CC73-4f64-BC11-A16F0428842A",
+        "BF15EB74-FF8E-4d12-8193-0CB9734FD85C",
+        "BBE476C6-A59C-44d8-B601-1505DA99A2E8",
+        "2B0B39C8-8F84-4854-91C4-2E78CFA22EDA",
+        "070E02D0-82FA-4901-A0F5-EDFBB2553611"
+      ],
+      "render_index": 1,
+      "enable_hsl": false,
+      "track_render_index": 1,
+      "hdr_settings": {
+        "mode": 1
+      },
+      "responsive_layout": {},
+      "enable_adjust_mask": false,
+      "source": "segmentsourcenormal"
+    },
+    "material": {
+      "id": "7DD28F40-8B79-4671-A832-D3582022CD69",
+      "type": "video",
+      "duration": 30066666,
+      "path": "D:/图片/消失消失了/视频节点 1 (5).mp4",
+      "width": 1470,
+      "height": 630,
+      "category_name": "local",
+      "material_id": "",
+      "material_name": "视频节点 1 (5).mp4",
+      "crop": {},
+      "extra_type_option": 8,
+      "stable": {
+        "time_range": {}
+      },
+      "matting": {
+        "path": ""
+      },
+      "check_flag": 62978047,
+      "video_algorithm": {
+        "path": "",
+        "story_video_modify_video_config": {}
+      },
+      "local_material_id": "0f3e64f0-3c4c-405d-bf82-0991dd677f29",
+      "beauty_face_auto_preset": {},
+      "video_mask_stroke": {
+        "resource_id": "",
+        "path": "",
+        "type": ""
+      },
+      "video_mask_shadow": {
+        "resource_id": "",
+        "path": ""
+      }
+    },
+    "sample_source_seconds": 1.616667,
+    "stats": {
+      "rgb_mean": [
+        0.480320006608963,
+        0.466729998588562,
+        0.4593699872493744
+      ],
+      "luma_percentiles": [
+        0.03228,
+        0.09314,
+        0.46241,
+        0.87446,
+        0.91175
+      ],
+      "near_white_fraction": 0,
+      "near_black_fraction": 0.00012525645178706403
+    }
+  }
+]

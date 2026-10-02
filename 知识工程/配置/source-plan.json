@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_root": "D:\\book\\01_核心五书",
+  "systems": [
+    {"system_id": "STC", "name": "Snyder系统", "author": "Blake Snyder"},
+    {"system_id": "EGR", "name": "Egri系统", "author": "Lajos Egri"},
+    {"system_id": "TRU", "name": "Truby系统", "author": "John Truby"},
+    {"system_id": "FLD", "name": "Field系统", "author": "Syd Field"},
+    {"system_id": "MCK", "name": "McKee系统", "author": "Robert McKee"}
+  ],
+  "works": [
+    {"work_id": "STC-01", "system_id": "STC", "title": "救猫咪1：电影编剧宝典", "original_title": "Save the Cat! The Last Book on Screenwriting You'll Ever Need"},
+    {"work_id": "STC-02", "system_id": "STC", "title": "救猫咪2：经典电影剧本探秘", "original_title": "Save the Cat! Goes to the Movies"},
+    {"work_id": "STC-03", "system_id": "STC", "title": "救猫咪3：反击战", "original_title": "Save the Cat! Strikes Back"},
+    {"work_id": "EGR-ART", "system_id": "EGR", "title": "编剧的艺术／戏剧写作的艺术", "original_title": "The Art of Dramatic Writing"},
+    {"work_id": "TRU-ANATOMY", "system_id": "TRU", "title": "故事写作大师班", "original_title": "The Anatomy of Story"},
+    {"work_id": "FLD-SCREENPLAY", "system_id": "FLD", "title": "电影剧本写作基础", "original_title": "Screenplay: The Foundations of Screenwriting"},
+    {"work_id": "MCK-STORY", "system_id": "MCK", "title": "故事", "original_title": "Story: Substance, Structure, Style and the Principles of Screenwriting"},
+    {"work_id": "MCK-DIALOGUE", "system_id": "MCK", "title": "对白", "original_title": "Dialogue: The Art of Verbal Action for Page, Stage, and Screen"},
+    {"work_id": "MCK-CHARACTER", "system_id": "MCK", "title": "人物", "original_title": "Character: The Art of Role and Cast Design for Page, Stage, and Screen"}
+  ],
+  "editions": [
+    {"edition_id": "STC-01-ZH-SCAN", "work_id": "STC-01", "language": "zh-CN", "edition_label": "中文扫描版", "translator": "王旭峰", "publisher": "浙江大学出版社", "publication_date": null, "isbn": null, "verification_status": "partially_verified", "metadata_notes": "译者和出版社已由封面核对；日期与ISBN待G10核对。"},
+    {"edition_id": "STC-02-ZH-SCAN", "work_id": "STC-02", "language": "zh-CN", "edition_label": "简体中文2011年版", "translator": "汪振城", "publisher": "浙江大学出版社", "publication_date": "2011-05", "isbn": "978-7-308-08600-4", "verification_status": "partially_verified", "metadata_notes": "已由PDF第4页CIP与版权页核对；完整版本地图待G10。"},
+    {"edition_id": "STC-03-ZH-SCAN", "work_id": "STC-03", "language": "zh-CN", "edition_label": "简体中文2013年版", "translator": ["韩程", "李晋林"], "publisher": "浙江大学出版社", "publication_date": "2013-05", "isbn": "978-7-308-11427-1", "verification_status": "partially_verified", "metadata_notes": "已由PDF第4页CIP与版权页核对；完整版本地图待G10。"},
+    {"edition_id": "EGR-ZH-SCAN", "work_id": "EGR-ART", "language": "zh-CN", "edition_label": "简体中文扫描版", "translator": "高远", "publisher": "北京联合出版公司", "publication_date": "2013", "isbn": "978-7-5502-1333-3", "verification_status": "partially_verified", "metadata_notes": "已由PDF第4页CIP与版权页初核；月份和印次待G20精确核对。"},
+    {"edition_id": "TRU-ZH-PDF", "work_id": "TRU-ANATOMY", "language": "zh-CN", "edition_label": "湖南文艺出版社简体中文版", "translator": "江先声", "publisher": "湖南文艺出版社", "publication_date": "2019-05", "isbn": "978-7-5404-9092-8", "verification_status": "partially_verified", "metadata_notes": "书籍身份已核对；完整版本地图待G30。"},
+    {"edition_id": "FLD-ZH-PDF", "work_id": "FLD-SCREENPLAY", "language": "zh-CN", "edition_label": "中文PDF版", "translator": null, "publisher": null, "publication_date": null, "isbn": null, "verification_status": "pending_source_map", "metadata_notes": "具体译本与出版信息待G40核对。"},
+    {"edition_id": "MCK-STORY-ZH-DIGITAL-A", "work_id": "MCK-STORY", "language": "zh-CN", "edition_label": "简体数字版A", "translator": null, "publisher": null, "publication_date": null, "isbn": null, "verification_status": "pending_source_map", "metadata_notes": "具体底本待G50核对。"},
+    {"edition_id": "MCK-STORY-ZH-DIGITAL-B", "work_id": "MCK-STORY", "language": "zh-CN", "edition_label": "简体数字版B", "translator": null, "publisher": null, "publication_date": null, "isbn": null, "verification_status": "pending_source_map", "metadata_notes": "同一组简体PDF/EPUB/MOBI/TXT；具体底本待G50核对。"},
+    {"edition_id": "MCK-STORY-ZH-TW-PDF", "work_id": "MCK-STORY", "language": "zh-TW", "edition_label": "繁体《故事的解剖》，翻译互校版", "translator": null, "publisher": "漫游者文化", "publication_date": null, "isbn": null, "verification_status": "partially_verified", "metadata_notes": "已确认作者与英文原题均指向McKee《Story》；译者分部信息和版次待G50核对。"},
+    {"edition_id": "MCK-DIALOGUE-ZH", "work_id": "MCK-DIALOGUE", "language": "zh-CN", "edition_label": "中文数字版", "translator": null, "publisher": null, "publication_date": null, "isbn": null, "verification_status": "pending_source_map", "metadata_notes": "具体版本待G50核对。"},
+    {"edition_id": "MCK-CHARACTER-ZH", "work_id": "MCK-CHARACTER", "language": "zh-CN", "edition_label": "中文数字版", "translator": null, "publisher": null, "publication_date": null, "isbn": null, "verification_status": "pending_source_map", "metadata_notes": "具体版本待G50核对。"}
+  ],
+  "files": [
+    {"file_id": "STC01-PDF-01", "edition_id": "STC-01-ZH-SCAN", "path_glob": "01_救猫咪_布莱克·斯奈德\\01_救猫咪_电影编剧宝典\\*.pdf", "role": "canonical", "expected_format": ".pdf", "ingestion": "ocr_required"},
+    {"file_id": "STC02-PDF-01", "edition_id": "STC-02-ZH-SCAN", "path_glob": "01_救猫咪_布莱克·斯奈德\\02_救猫咪2_经典电影剧本探秘\\*.pdf", "role": "canonical", "expected_format": ".pdf", "ingestion": "ocr_required"},
+    {"file_id": "STC03-PDF-01", "edition_id": "STC-03-ZH-SCAN", "path_glob": "01_救猫咪_布莱克·斯奈德\\03_救猫咪3_反击战\\*.pdf", "role": "canonical", "expected_format": ".pdf", "ingestion": "ocr_required"},
+    {"file_id": "EGR-PDF-01", "edition_id": "EGR-ZH-SCAN", "path_glob": "02_戏剧写作的艺术_拉约什·埃格里\\*.pdf", "role": "canonical", "expected_format": ".pdf", "ingestion": "ocr_required"},
+    {"file_id": "TRU-PDF-01", "edition_id": "TRU-ZH-PDF", "path_glob": "03_故事写作大师班_约翰·特鲁比\\*.pdf", "role": "canonical", "expected_format": ".pdf", "ingestion": "text_layer"},
+    {"file_id": "FLD-PDF-01", "edition_id": "FLD-ZH-PDF", "path_glob": "04_电影剧本写作基础_悉德·菲尔德\\*.pdf", "role": "canonical", "expected_format": ".pdf", "ingestion": "text_layer"},
+    {"file_id": "MCK-STORY-EPUB-A", "edition_id": "MCK-STORY-ZH-DIGITAL-A", "path_glob": "05_故事_罗伯特·麦基\\01_故事_罗伯特·麦基\\[[]美[]]*.epub", "role": "canonical", "expected_format": ".epub", "ingestion": "epub_structure"},
+    {"file_id": "MCK-STORY-ZIP-A", "edition_id": "MCK-STORY-ZH-DIGITAL-A", "path_glob": "05_故事_罗伯特·麦基\\01_故事_罗伯特·麦基\\*.zip", "role": "archive", "expected_format": ".zip", "ingestion": "archive_only"},
+    {"file_id": "MCK-STORY-PDF-TW", "edition_id": "MCK-STORY-ZH-TW-PDF", "path_glob": "05_故事_罗伯特·麦基\\01_故事_罗伯特·麦基\\故事的解剖*.pdf", "role": "crosscheck", "expected_format": ".pdf", "ingestion": "text_layer"},
+    {"file_id": "MCK-STORY-EPUB-B", "edition_id": "MCK-STORY-ZH-DIGITAL-B", "path_glob": "05_故事_罗伯特·麦基\\01_故事_罗伯特·麦基\\故事：*.epub", "role": "alternate", "expected_format": ".epub", "ingestion": "epub_structure"},
+    {"file_id": "MCK-STORY-MOBI-B", "edition_id": "MCK-STORY-ZH-DIGITAL-B", "path_glob": "05_故事_罗伯特·麦基\\01_故事_罗伯特·麦基\\*.mobi", "role": "fallback", "expected_format": ".mobi", "ingestion": "fallback_only"},
+    {"file_id": "MCK-STORY-PDF-B", "edition_id": "MCK-STORY-ZH-DIGITAL-B", "path_glob": "05_故事_罗伯特·麦基\\01_故事_罗伯特·麦基\\故事：*.pdf", "role": "locator", "expected_format": ".pdf", "ingestion": "text_layer"},
+    {"file_id": "MCK-STORY-TXT-B", "edition_id": "MCK-STORY-ZH-DIGITAL-B", "path_glob": "05_故事_罗伯特·麦基\\01_故事_罗伯特·麦基\\*.txt", "role": "fallback", "expected_format": ".txt", "ingestion": "fallback_only"},
+    {"file_id": "MCK-DIALOGUE-PDF-01", "edition_id": "MCK-DIALOGUE-ZH", "path_glob": "05_故事_罗伯特·麦基\\02_对白_罗伯特·麦基\\*.pdf", "role": "canonical", "expected_format": ".pdf", "ingestion": "text_layer"},
+    {"file_id": "MCK-DIALOGUE-MOBI-01", "edition_id": "MCK-DIALOGUE-ZH", "path_glob": "05_故事_罗伯特·麦基\\02_对白_罗伯特·麦基\\*.mobi", "role": "fallback", "expected_format": ".mobi", "ingestion": "fallback_only"},
+    {"file_id": "MCK-CHARACTER-EPUB-01", "edition_id": "MCK-CHARACTER-ZH", "path_glob": "05_故事_罗伯特·麦基\\03_人物_罗伯特·麦基\\**\\*.epub", "role": "canonical", "expected_format": ".epub", "ingestion": "epub_structure"},
+    {"file_id": "MCK-CHARACTER-MOBI-01", "edition_id": "MCK-CHARACTER-ZH", "path_glob": "05_故事_罗伯特·麦基\\03_人物_罗伯特·麦基\\**\\*.mobi", "role": "fallback", "expected_format": ".mobi", "ingestion": "fallback_only"},
+    {"file_id": "MCK-CHARACTER-AZW3-01", "edition_id": "MCK-CHARACTER-ZH", "path_glob": "05_故事_罗伯特·麦基\\03_人物_罗伯特·麦基\\**\\*.azw3", "role": "fallback", "expected_format": ".azw3", "ingestion": "fallback_only"},
+    {"file_id": "MCK-CHARACTER-ZIP-01", "edition_id": "MCK-CHARACTER-ZH", "path_glob": "05_故事_罗伯特·麦基\\03_人物_罗伯特·麦基\\*.zip", "role": "archive", "expected_format": ".zip", "ingestion": "archive_only"}
+  ],
+  "ignored_files": [
+    {"path_glob": "**\\免责声明.txt", "reason": "分发说明，不是书籍正文"},
+    {"path_glob": "**\\*.url", "reason": "网站快捷方式，不是书籍正文"}
+  ]
+}
