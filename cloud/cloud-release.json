@@ -1,6 +1,6 @@
 {
   "schema": "xiaomo.cloud-readable-release/v1",
-  "created_at": "2026-10-02T15:55:46.877607+00:00",
+  "created_at": "2026-10-05T16:46:30.979402+00:00",
   "system": "workflow",
   "formal_source_unchanged": true,
   "cloud_candidates_are_formally_adopted": false,
@@ -427,8 +427,8 @@
     },
     {
       "path": ".agents/skills/format-seedance-2-prompt/references/seedance-25-prompting.md",
-      "bytes": 5008,
-      "sha256": "ed34a18b8692b85a14396294b8da58f58574187a8506eb87065a452959170aa0"
+      "bytes": 5646,
+      "sha256": "855eac29a5c9ca3c4a02c6e95083555bc7d367c1eee641c4def24ba937d10959"
     },
     {
       "path": ".agents/skills/format-seedance-2-prompt/references/studio-v09-candidate.md",
@@ -437,8 +437,8 @@
     },
     {
       "path": ".agents/skills/format-seedance-2-prompt/SKILL.md",
-      "bytes": 36830,
-      "sha256": "b96167e9450a5babd86d5b7b7ed761798c6fec2dbdee4dbdb8e168993db9964f"
+      "bytes": 38501,
+      "sha256": "c9ffdc6d533204a2b853ab489727678666f0aeba999c3bb0af2dfb4ef2213e48"
     },
     {
       "path": ".agents/skills/grade-film-in-resolve/agents/openai.yaml",
@@ -897,8 +897,8 @@
     },
     {
       "path": ".agents/skills/reverse-engineer-media-prompts/references/video.md",
-      "bytes": 4178,
-      "sha256": "a3dd18ce8a51a9b81120cb349be15dea6908278bf74f6721fad1fc4af1a6a8af"
+      "bytes": 6905,
+      "sha256": "4f52e69c2cea29f693059e98f6078c8a0d774b34f4807b9751f88f64234aa565"
     },
     {
       "path": ".agents/skills/reverse-engineer-media-prompts/SKILL.md",
@@ -1238,7 +1238,7 @@
     {
       "path": "cloud/media-index.json",
       "bytes": 935141,
-      "sha256": "581731cf2b53863f238a6926b07f83ff8c4b0045117ee24f3f8bffc16e72b9a2"
+      "sha256": "99530c939b522e1bb43dc41a0451463c2543d22f65c883f3ceb244f9a62f9594"
     },
     {
       "path": "cloud/README.md",
@@ -1248,7 +1248,7 @@
     {
       "path": "cloud/source-manifest.json",
       "bytes": 942898,
-      "sha256": "43795bf0ac781d37580e9bc47188877d643458306eba8234adb79d0995d18f04"
+      "sha256": "f1a55a30c399ac94eb3d0394b92ec904280d8f9bf0f708da6cf657b6654f8e67"
     },
     {
       "path": "cloud/systems.json",
@@ -1262,8 +1262,8 @@
     },
     {
       "path": "HANDOFF.md",
-      "bytes": 90619,
-      "sha256": "b957f1101a5e8bb06726097215186dfce9c8f18c51488d5696da7b2d2ac983d4"
+      "bytes": 95718,
+      "sha256": "1248f5077ba4e511d07d57516766f99c64f14221338bc44d95b4b17a7c0ff338"
     },
     {
       "path": "skills/check-video-release-readiness/agents/openai.yaml",
@@ -1687,8 +1687,8 @@
     },
     {
       "path": "skills/format-seedance-2-prompt/references/seedance-25-prompting.md",
-      "bytes": 5008,
-      "sha256": "ed34a18b8692b85a14396294b8da58f58574187a8506eb87065a452959170aa0"
+      "bytes": 5646,
+      "sha256": "855eac29a5c9ca3c4a02c6e95083555bc7d367c1eee641c4def24ba937d10959"
     },
     {
       "path": "skills/format-seedance-2-prompt/references/studio-v09-candidate.md",
@@ -1697,8 +1697,8 @@
     },
     {
       "path": "skills/format-seedance-2-prompt/SKILL.md",
-      "bytes": 36830,
-      "sha256": "b96167e9450a5babd86d5b7b7ed761798c6fec2dbdee4dbdb8e168993db9964f"
+      "bytes": 38501,
+      "sha256": "c9ffdc6d533204a2b853ab489727678666f0aeba999c3bb0af2dfb4ef2213e48"
     },
     {
       "path": "skills/grade-film-in-resolve/agents/openai.yaml",
@@ -2162,8 +2162,8 @@
     },
     {
       "path": "skills/reverse-engineer-media-prompts/references/video.md",
-      "bytes": 4178,
-      "sha256": "a3dd18ce8a51a9b81120cb349be15dea6908278bf74f6721fad1fc4af1a6a8af"
+      "bytes": 6905,
+      "sha256": "4f52e69c2cea29f693059e98f6078c8a0d774b34f4807b9751f88f64234aa565"
     },
     {
       "path": "skills/reverse-engineer-media-prompts/SKILL.md",

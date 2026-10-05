@@ -1,6 +1,6 @@
 {
   "schema": "xiaomo.private-workflow-source-manifest/v1",
-  "generated_at_utc": "2026-10-02T15:54:10.742260+00:00",
+  "generated_at_utc": "2026-10-05T16:46:29.998868+00:00",
   "source_aliases": {
     "workflow": {
       "description": "小陌个人工作流正式根，仅使用相对来源，完整本机根保存在未上传的 work 证据中"
@@ -934,9 +934,9 @@
       "repository_path": ".agents/skills/format-seedance-2-prompt/SKILL.md",
       "classification": "skill_discovery_byte_identical_mirror",
       "mirror_of": "skills/format-seedance-2-prompt/SKILL.md",
-      "size_bytes": 36830,
-      "source_sha256": "b96167e9450a5babd86d5b7b7ed761798c6fec2dbdee4dbdb8e168993db9964f",
-      "sha256": "b96167e9450a5babd86d5b7b7ed761798c6fec2dbdee4dbdb8e168993db9964f",
+      "size_bytes": 38501,
+      "source_sha256": "c9ffdc6d533204a2b853ab489727678666f0aeba999c3bb0af2dfb4ef2213e48",
+      "sha256": "c9ffdc6d533204a2b853ab489727678666f0aeba999c3bb0af2dfb4ef2213e48",
       "byte_preserving": true
     },
     {
@@ -956,9 +956,9 @@
       "repository_path": ".agents/skills/format-seedance-2-prompt/references/seedance-25-prompting.md",
       "classification": "skill_discovery_byte_identical_mirror",
       "mirror_of": "skills/format-seedance-2-prompt/references/seedance-25-prompting.md",
-      "size_bytes": 5008,
-      "source_sha256": "ed34a18b8692b85a14396294b8da58f58574187a8506eb87065a452959170aa0",
-      "sha256": "ed34a18b8692b85a14396294b8da58f58574187a8506eb87065a452959170aa0",
+      "size_bytes": 5646,
+      "source_sha256": "855eac29a5c9ca3c4a02c6e95083555bc7d367c1eee641c4def24ba937d10959",
+      "sha256": "855eac29a5c9ca3c4a02c6e95083555bc7d367c1eee641c4def24ba937d10959",
       "byte_preserving": true
     },
     {
@@ -1990,9 +1990,9 @@
       "repository_path": ".agents/skills/reverse-engineer-media-prompts/references/video.md",
       "classification": "skill_discovery_byte_identical_mirror",
       "mirror_of": "skills/reverse-engineer-media-prompts/references/video.md",
-      "size_bytes": 4178,
-      "source_sha256": "a3dd18ce8a51a9b81120cb349be15dea6908278bf74f6721fad1fc4af1a6a8af",
-      "sha256": "a3dd18ce8a51a9b81120cb349be15dea6908278bf74f6721fad1fc4af1a6a8af",
+      "size_bytes": 6905,
+      "source_sha256": "4f52e69c2cea29f693059e98f6078c8a0d774b34f4807b9751f88f64234aa565",
+      "sha256": "4f52e69c2cea29f693059e98f6078c8a0d774b34f4807b9751f88f64234aa565",
       "byte_preserving": true
     },
     {
@@ -2658,9 +2658,9 @@
       "source_relative_path": "HANDOFF.md",
       "repository_path": "HANDOFF.md",
       "classification": "canonical_workflow_entry",
-      "size_bytes": 90619,
-      "source_sha256": "b957f1101a5e8bb06726097215186dfce9c8f18c51488d5696da7b2d2ac983d4",
-      "sha256": "b957f1101a5e8bb06726097215186dfce9c8f18c51488d5696da7b2d2ac983d4",
+      "size_bytes": 95718,
+      "source_sha256": "1248f5077ba4e511d07d57516766f99c64f14221338bc44d95b4b17a7c0ff338",
+      "sha256": "1248f5077ba4e511d07d57516766f99c64f14221338bc44d95b4b17a7c0ff338",
       "byte_preserving": true
     },
     {
@@ -2700,7 +2700,7 @@
       "classification": "generated_excluded_media_inventory",
       "size_bytes": 935141,
       "source_sha256": null,
-      "sha256": "581731cf2b53863f238a6926b07f83ff8c4b0045117ee24f3f8bffc16e72b9a2",
+      "sha256": "99530c939b522e1bb43dc41a0451463c2543d22f65c883f3ceb244f9a62f9594",
       "byte_preserving": false
     },
     {
@@ -3538,9 +3538,9 @@
       "source_relative_path": "skills/format-seedance-2-prompt/SKILL.md",
       "repository_path": "skills/format-seedance-2-prompt/SKILL.md",
       "classification": "canonical_skill_source",
-      "size_bytes": 36830,
-      "source_sha256": "b96167e9450a5babd86d5b7b7ed761798c6fec2dbdee4dbdb8e168993db9964f",
-      "sha256": "b96167e9450a5babd86d5b7b7ed761798c6fec2dbdee4dbdb8e168993db9964f",
+      "size_bytes": 38501,
+      "source_sha256": "c9ffdc6d533204a2b853ab489727678666f0aeba999c3bb0af2dfb4ef2213e48",
+      "sha256": "c9ffdc6d533204a2b853ab489727678666f0aeba999c3bb0af2dfb4ef2213e48",
       "byte_preserving": true
     },
     {
@@ -3558,9 +3558,9 @@
       "source_relative_path": "skills/format-seedance-2-prompt/references/seedance-25-prompting.md",
       "repository_path": "skills/format-seedance-2-prompt/references/seedance-25-prompting.md",
       "classification": "canonical_skill_source",
-      "size_bytes": 5008,
-      "source_sha256": "ed34a18b8692b85a14396294b8da58f58574187a8506eb87065a452959170aa0",
-      "sha256": "ed34a18b8692b85a14396294b8da58f58574187a8506eb87065a452959170aa0",
+      "size_bytes": 5646,
+      "source_sha256": "855eac29a5c9ca3c4a02c6e95083555bc7d367c1eee641c4def24ba937d10959",
+      "sha256": "855eac29a5c9ca3c4a02c6e95083555bc7d367c1eee641c4def24ba937d10959",
       "byte_preserving": true
     },
     {
@@ -4508,9 +4508,9 @@
       "source_relative_path": "skills/reverse-engineer-media-prompts/references/video.md",
       "repository_path": "skills/reverse-engineer-media-prompts/references/video.md",
       "classification": "canonical_skill_source",
-      "size_bytes": 4178,
-      "source_sha256": "a3dd18ce8a51a9b81120cb349be15dea6908278bf74f6721fad1fc4af1a6a8af",
-      "sha256": "a3dd18ce8a51a9b81120cb349be15dea6908278bf74f6721fad1fc4af1a6a8af",
+      "size_bytes": 6905,
+      "source_sha256": "4f52e69c2cea29f693059e98f6078c8a0d774b34f4807b9751f88f64234aa565",
+      "sha256": "4f52e69c2cea29f693059e98f6078c8a0d774b34f4807b9751f88f64234aa565",
       "byte_preserving": true
     },
     {

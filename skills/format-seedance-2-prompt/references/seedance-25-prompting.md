@@ -6,6 +6,8 @@
 
 本次核读：2026-09-16。
 
+视频内容补核：2026-10-03。Higgsfield专题的全段视觉基准、起态、逐镜动作/摄影、环境事件与声音职责，以及Dreamina的观察、焦点、光色和时间组织，可用于检查旧模板已给内容的完整性。用户已明确沿用旧排版：基础设定连续段落，既有镜段一行，画面与声音连续段落，注意事项连续段落；不采用上一候选的职责短行或声画子栏。指南中的细分栏目不成为必填项，示例秒数、器材、声音与颗粒不迁入任务；重点核对整段覆盖、局部/全段范围和声画触发，不凭排版判断视频效果。
+
 - [Higgsfield 官方开源参考](https://github.com/higgsfield-ai/skills/blob/main/higgsfield-generate/references/prompt-engineering.md)：具体感官描述、输入模式差异及正向表达优先，是跨模型简要建议。
 - [Higgsfield Seedance 2.5 专题](https://higgsfield.ai/blog/seedance-2-5-prompting-guide)：多镜设计需要明确空间、初态、逐镜观察、动作和视听条件，长短服从任务。
 - [Dreamina 2.5 指南](https://dreamina.capcut.com/seedance/seedance-2-5-prompt)：用可观察变化组织提示，排除约束保护具体要求，减少无关黑名单。
