@@ -1,6 +1,6 @@
 {
   "schema": "xiaomo.private-workflow-source-manifest/v1",
-  "generated_at_utc": "2026-10-05T16:46:29.998868+00:00",
+  "generated_at_utc": "2026-10-06T16:28:25.446466+00:00",
   "source_aliases": {
     "workflow": {
       "description": "小陌个人工作流正式根，仅使用相对来源，完整本机根保存在未上传的 work 证据中"
@@ -2700,7 +2700,7 @@
       "classification": "generated_excluded_media_inventory",
       "size_bytes": 935141,
       "source_sha256": null,
-      "sha256": "99530c939b522e1bb43dc41a0451463c2543d22f65c883f3ceb244f9a62f9594",
+      "sha256": "1842ebf95d065263374f3e55f1639c3fc76e053413b9435a8b7c29ee51f08a41",
       "byte_preserving": false
     },
     {
@@ -14927,6 +14927,7 @@
       "source_relative_path": "项目/2026-09-20_消失？消失了！_v2/Microsoft/Windows/PowerShell/ModuleAnalysisCache",
       "kind": "file",
       "size_bytes": 8246,
+      "source_sha256": "5ca12f8c5f7cdca0b8780d064e4d90f5001ca6ab0ee93691915c9052fd6f68a4",
       "reason": "nontext_binary_not_in_cloud_package"
     },
     {
@@ -14934,6 +14935,7 @@
       "source_relative_path": "项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v01/原草稿快照/draft.extra",
       "kind": "file",
       "size_bytes": 26,
+      "source_sha256": "424e9b968a21db305399814058bdc5e0a5bcc52704aa68a8dcd84136798a3930",
       "reason": "nontext_binary_not_in_cloud_package"
     },
     {
@@ -14947,6 +14949,7 @@
       "source_relative_path": "项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v01/原草稿快照/Timelines/308CA3FE-32EC-4c47-BA58-2B12A580AA10/draft.extra",
       "kind": "file",
       "size_bytes": 26,
+      "source_sha256": "424e9b968a21db305399814058bdc5e0a5bcc52704aa68a8dcd84136798a3930",
       "reason": "nontext_binary_not_in_cloud_package"
     },
     {
@@ -14966,6 +14969,7 @@
       "source_relative_path": "项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v01/调色草稿待发布/draft.extra",
       "kind": "file",
       "size_bytes": 26,
+      "source_sha256": "424e9b968a21db305399814058bdc5e0a5bcc52704aa68a8dcd84136798a3930",
       "reason": "nontext_binary_not_in_cloud_package"
     },
     {
@@ -14979,6 +14983,7 @@
       "source_relative_path": "项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v01/调色草稿待发布/Timelines/308CA3FE-32EC-4c47-BA58-2B12A580AA10/draft.extra",
       "kind": "file",
       "size_bytes": 26,
+      "source_sha256": "424e9b968a21db305399814058bdc5e0a5bcc52704aa68a8dcd84136798a3930",
       "reason": "nontext_binary_not_in_cloud_package"
     },
     {
@@ -14998,6 +15003,7 @@
       "source_relative_path": "项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/一分钟草稿待发布/draft.extra",
       "kind": "file",
       "size_bytes": 26,
+      "source_sha256": "424e9b968a21db305399814058bdc5e0a5bcc52704aa68a8dcd84136798a3930",
       "reason": "nontext_binary_not_in_cloud_package"
     },
     {
@@ -15011,6 +15017,7 @@
       "source_relative_path": "项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/一分钟草稿待发布/Timelines/308CA3FE-32EC-4c47-BA58-2B12A580AA10/draft.extra",
       "kind": "file",
       "size_bytes": 26,
+      "source_sha256": "424e9b968a21db305399814058bdc5e0a5bcc52704aa68a8dcd84136798a3930",
       "reason": "nontext_binary_not_in_cloud_package"
     },
     {
@@ -15030,6 +15037,7 @@
       "source_relative_path": "项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/原草稿快照/draft.extra",
       "kind": "file",
       "size_bytes": 26,
+      "source_sha256": "424e9b968a21db305399814058bdc5e0a5bcc52704aa68a8dcd84136798a3930",
       "reason": "nontext_binary_not_in_cloud_package"
     },
     {
@@ -15043,6 +15051,7 @@
       "source_relative_path": "项目/消失？消失了！_v1/assets/视频/剪辑成片/调色试验/20260909_v02/原草稿快照/Timelines/308CA3FE-32EC-4c47-BA58-2B12A580AA10/draft.extra",
       "kind": "file",
       "size_bytes": 26,
+      "source_sha256": "424e9b968a21db305399814058bdc5e0a5bcc52704aa68a8dcd84136798a3930",
       "reason": "nontext_binary_not_in_cloud_package"
     },
     {

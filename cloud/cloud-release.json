@@ -1,6 +1,6 @@
 {
   "schema": "xiaomo.cloud-readable-release/v1",
-  "created_at": "2026-10-05T16:46:30.979402+00:00",
+  "created_at": "2026-10-06T16:28:33.223644+00:00",
   "system": "workflow",
   "formal_source_unchanged": true,
   "cloud_candidates_are_formally_adopted": false,
@@ -1227,8 +1227,8 @@
     },
     {
       "path": "cloud/ENVIRONMENT-SETUP.md",
-      "bytes": 1961,
-      "sha256": "72beee99f0a6ddc62c653ced4b4ab67302c57d1e03ee77c6216411d4c2bc6785"
+      "bytes": 2063,
+      "sha256": "2ea55ce05afdfb308c8f293ccb23a99e01748cf428773fd47b5608d03156aa27"
     },
     {
       "path": "cloud/local-AGENTS.source.md",
@@ -1238,7 +1238,7 @@
     {
       "path": "cloud/media-index.json",
       "bytes": 935141,
-      "sha256": "99530c939b522e1bb43dc41a0451463c2543d22f65c883f3ceb244f9a62f9594"
+      "sha256": "1842ebf95d065263374f3e55f1639c3fc76e053413b9435a8b7c29ee51f08a41"
     },
     {
       "path": "cloud/README.md",
@@ -1247,8 +1247,8 @@
     },
     {
       "path": "cloud/source-manifest.json",
-      "bytes": 942898,
-      "sha256": "f1a55a30c399ac94eb3d0394b92ec904280d8f9bf0f708da6cf657b6654f8e67"
+      "bytes": 943726,
+      "sha256": "a2a114d0302df6f76b73aa0cf31f7a4f59466353913f1b7304093946bea05507"
     },
     {
       "path": "cloud/systems.json",
